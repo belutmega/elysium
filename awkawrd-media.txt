@@ -706,226 +706,169 @@ if (window.location.pathname === '/restaurant-menu/' || window.location.pathname
    </link>
   </link>
   <script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@graph": [
-      {
-        "@type": "Organization",
-        "@id": "https://awkward-media.com/privacy-policy/#organization",
-        "name": "SLOT GACOR MAXWIN",
-        "url": "https://awkward-media.com/privacy-policy/",
-        "logo": "https://panjakui.sirv.com/laga88/slaga88.png",
-        "sameAs": [
-          "https://facebook.com/demoslot",
-          "https://instagram.com/slotdemo",
-          "https://twitter.com/slot",
-          "https://www.youtube.com/@slot"
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://awkward-media.com/privacy-policy/#organization",
+      "name": "SLOT GACOR MAXWIN",
+      "url": "https://awkward-media.com/privacy-policy/",
+      "logo": "https://panjakui.sirv.com/laga88/slaga88.png",
+      "sameAs": [
+        "https://facebook.com/demoslot",
+        "https://instagram.com/slotdemo",
+        "https://twitter.com/slot",
+        "https://www.youtube.com/@slot"
+      ],
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+62-812-5687-3547",
+        "contactType": "customer support",
+        "availableLanguage": [
+          "id",
+          "en"
         ],
-        "contactPoint": {
-          "@type": "ContactPoint",
-          "telephone": "+62-812-5687-3547",
-          "contactType": "customer support",
-          "availableLanguage": ["id", "en"],
-          "areaServed": "ID"
-        },
-        "aggregateRating": {
-          "@type": "AggregateRating",
-          "ratingValue": "4.9",
-          "ratingCount": "954638",
-          "bestRating": "5",
-          "worstRating": "1"
-        }
+        "areaServed": "ID"
       },
-
-      {
-        "@type": "BreadcrumbList",
-        "@id": "https://awkward-media.com/privacy-policy/#breadcrumb",
-        "itemListElement": [
-          {
-            "@type": "ListItem",
-            "position": 1,
-            "name": "slot",
-            "item": "https://awkward-media.com/privacy-policy/-slot"
-          },
-          {
-            "@type": "ListItem",
-            "position": 2,
-            "name": "slot88",
-            "item": "https://awkward-media.com/privacy-policy/-SLOT777"
-          },
-          {
-            "@type": "ListItem",
-            "position": 3,
-            "name": "link gacor",
-            "item": "https://awkward-media.com/privacy-policy/link-gacor"
-          }
-        ]
-      },
-
-      {
-        "@type": "Product",
-        "@id": "https://awkward-media.com/privacy-policy/demoslot#product",
-        "name": "SLOT GACOR MAXWIN",
-        "image": [
-          "https://panjakui.sirv.com/laga88/agen777-slot-thailand-rtp-tinggi-depo-qris.webp"
-        ],
-        "description": "LAGA88 merupakan agen link situs slot 777 gacor dengan dari server Thailand yang dilengkapi dan terpercaya dengan RTP tinggi  fitur deposit Qris instan yang menghadirkan pengalaman bermain maxwin hari ini.",
-        "brand": {
-          "@type": "Brand",
-          "name": "Slot Gacor"
-        },
-        "sku": "Situs-Link-Gacor",
-        "category": "Slot Online",
-        "url": "https://awkward-media.com/privacy-policy/",
-        "aggregateRating": {
-          "@type": "AggregateRating",
-          "ratingValue": "4.9",
-          "ratingCount": "954638",
-          "bestRating": "5",
-          "worstRating": "1"
-        },
-        "review": [
-          {
-            "@type": "Review",
-            "author": {
-              "@type": "Person",
-              "name": "RAKA"
-            },
-            "datePublished": "2026-03-19",
-            "reviewBody": "Awalnya cuma coba-coba di Slot Gacor, tapi ternyata gampang banget dapat Maxwin di Pragmatic Play. Modal kecil tapi menang besar, rasanya puas banget!",
-            "name": "RAKA",
-            "reviewRating": {
-              "@type": "Rating",
-              "ratingValue": "5",
-              "bestRating": "5",
-              "worstRating": "1"
-            }
-          },
-          {
-            "@type": "Review",
-            "author": {
-              "@type": "Person",
-              "name": "DEDI"
-            },
-            "datePublished": "2026-03-22",
-            "reviewBody": "Suka banget sama fitur Slot Demo nya. Bisa latihan dulu sebelum main dengan uang asli. Game favoritku Gates of Olympus selalu kasih scatter yang gampang muncul.",
-            "name": "DEDI",
-            "reviewRating": {
-              "@type": "Rating",
-              "ratingValue": "4",
-              "bestRating": "5",
-              "worstRating": "1"
-            }
-          }
-        ],
-        "offers": {
-          "@type": "Offer",
-          "url": "https://awkward-media.com/privacy-policy/",
-          "priceCurrency": "IDR",
-          "price": "0",
-          "availability": "https://schema.org/InStock"
-        }
-      },
-
-      {
-        "@type": "ItemList",
-        "@id": "https://awkward-media.com/privacy-policy/#merchant-listing",
-        "name": "Slot Gacor",
-        "itemListOrder": "https://schema.org/ItemListOrderDescending",
-        "itemListElement": [
-          {
-            "@type": "ListItem",
-            "position": 1,
-            "item": {
-              "@type": "Product",
-              "@id": "https://awkward-media.com/privacy-policy/demo-slot#product",
-              "name": "Slot Gacor",
-              "url": "https://awkward-media.com/privacy-policy/demo-slot",
-              "image": "https://panjakui.sirv.com/laga88/agen777-slot-thailand-rtp-tinggi-depo-qris.webp",
-              "description": "LAGA88 merupakan agen link situs slot 777 gacor dengan dari server Thailand yang dilengkapi dan terpercaya dengan RTP tinggi  fitur deposit Qris instan yang menghadirkan pengalaman bermain maxwin hari ini.",
-              "brand": {
-                "@type": "Brand",
-                "name": "Slot Gacor"
-              },
-              "sku": "Situs-Link-Gacor",
-              "aggregateRating": {
-                "@type": "AggregateRating",
-                "ratingValue": "4.9",
-                "ratingCount": "954638"
-              },
-              "offers": {
-                "@type": "Offer",
-                "url": "https://awkward-media.com/privacy-policy/demo-slot",
-                "priceCurrency": "IDR",
-                "price": "0",
-                "availability": "https://schema.org/InStock"
-              }
-            }
-          },
-          {
-            "@type": "ListItem",
-            "position": 2,
-            "item": {
-              "@type": "Product",
-              "@id": "https://awkward-media.com/privacy-policy/slot777#product",
-              "name": "slot777",
-              "url": "https://awkward-media.com/privacy-policy/",
-              "image": "https://panjakui.sirv.com/laga88/agen777-slot-thailand-rtp-tinggi-depo-qris.webp",
-              "description": "LAGA88 merupakan agen link situs slot 777 gacor dengan dari server Thailand yang dilengkapi dan terpercaya dengan RTP tinggi  fitur deposit Qris instan yang menghadirkan pengalaman bermain maxwin hari ini.",
-              "brand": {
-                "@type": "Brand",
-                "name": "slot777"
-              },
-              "sku": "Situs-Link-Gacor",
-              "aggregateRating": {
-                "@type": "AggregateRating",
-                "ratingValue": "4.9",
-                "ratingCount": "954638"
-              },
-              "offers": {
-                "@type": "Offer",
-                "url": "https://awkward-media.com/privacy-policy/",
-                "priceCurrency": "IDR",
-                "price": "0",
-                "availability": "https://schema.org/InStock"
-              }
-            }
-          },
-          {
-            "@type": "ListItem",
-            "position": 3,
-            "item": {
-              "@type": "Product",
-              "@id": "https://awkward-media.com/privacy-policy/slot777#product",
-              "name": "slot777",
-              "url": "https://awkward-media.com/privacy-policy/slot777",
-              "image": "https://panjakui.sirv.com/laga88/agen777-slot-thailand-rtp-tinggi-depo-qris.webp",
-              "description": "LAGA88 merupakan agen link situs slot 777 gacor dengan dari server Thailand yang dilengkapi dan terpercaya dengan RTP tinggi  fitur deposit Qris instan yang menghadirkan pengalaman bermain maxwin hari ini.",
-              "brand": {
-                "@type": "Brand",
-                "name": "slot777"
-              },
-              "sku": "Situs-Link-Gacor",
-              "aggregateRating": {
-                "@type": "AggregateRating",
-                "ratingValue": "4.9",
-                "ratingCount": "954638"
-              },
-              "offers": {
-                "@type": "Offer",
-                "url": "https://awkward-media.com/privacy-policy//Demo-Slot",
-                "priceCurrency": "IDR",
-                "price": "0",
-                "availability": "https://schema.org/InStock"
-              }
-            }
-          }
-        ]
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.9",
+        "ratingCount": "954638",
+        "bestRating": "5",
+        "worstRating": "1"
       }
-    ]
-  }
-  </script>
-  <script type="application/ld+json">
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://awkward-media.com/privacy-policy/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "slot",
+          "item": "https://awkward-media.com/privacy-policy/-slot"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "slot88",
+          "item": "https://awkward-media.com/privacy-policy/-SLOT777"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "link gacor",
+          "item": "https://awkward-media.com/privacy-policy/link-gacor"
+        }
+      ]
+    },
+    {
+      "@type": "Product",
+      "@id": "https://awkward-media.com/privacy-policy/demoslot#product",
+      "name": "SLOT GACOR MAXWIN",
+      "image": [
+        "https://panjakui.sirv.com/laga88/agen777-slot-thailand-rtp-tinggi-depo-qris.webp"
+      ],
+      "description": "LAGA88 merupakan agen link situs slot 777 gacor dengan dari server Thailand yang dilengkapi dan terpercaya dengan RTP tinggi  fitur deposit Qris instan yang menghadirkan pengalaman bermain maxwin hari ini.",
+      "brand": {
+        "@type": "Brand",
+        "name": "Slot Gacor"
+      },
+      "sku": "Situs-Link-Gacor",
+      "category": "Slot Online",
+      "url": "https://awkward-media.com/privacy-policy/",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.9",
+        "ratingCount": "954638",
+        "bestRating": "5",
+        "worstRating": "1"
+      },
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "BUMI"
+          },
+          "datePublished": "2026-03-19",
+          "reviewBody": "Awalnya cuma coba-coba di Slot Gacor, tapi ternyata gampang banget dapat Maxwin di Pragmatic Play. Modal kecil tapi menang besar, rasanya puas banget!",
+          "name": "BUMI",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "AGUNG"
+          },
+          "datePublished": "2026-03-22",
+          "reviewBody": "Suka banget sama fitur Slot Demo nya. Bisa latihan dulu sebelum main dengan uang asli. Game favoritku Gates of Olympus selalu kasih scatter yang gampang muncul.",
+          "name": "AGUNG",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          }
+        }
+      ],
+      "offers": {
+        "@type": "Offer",
+        "url": "https://awkward-media.com/privacy-policy/",
+        "priceCurrency": "IDR",
+        "price": "0",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "ItemList",
+      "@id": "https://awkward-media.com/privacy-policy/#merchant-listing",
+      "name": "Slot Gacor",
+      "itemListOrder": "https://schema.org/ItemListOrderDescending",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "Product",
+            "@id": "https://awkward-media.com/privacy-policy/demo-slot#product",
+            "name": "Slot Gacor",
+            "url": "https://awkward-media.com/privacy-policy/demo-slot",
+            "image": "https://panjakui.sirv.com/laga88/agen777-slot-thailand-rtp-tinggi-depo-qris.webp",
+            "description": "LAGA88 merupakan agen link situs slot 777 gacor dengan dari server Thailand yang dilengkapi dan terpercaya dengan RTP tinggi  fitur deposit Qris instan yang menghadirkan pengalaman bermain maxwin hari ini.",
+            "brand": {
+              "@type": "Brand",
+              "name": "Slot Gacor"
+            },
+            "sku": "Situs-Link-Gacor",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.9",
+              "ratingCount": "954638"
+            },
+            "offers": {
+              "@type": "Offer",
+              "url": "https://awkward-media.com/privacy-policy/slot-gacor",
+              "priceCurrency": "IDR",
+              "price": "0",
+              "availability": "https://schema.org/InStock"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@graph": [
@@ -941,7 +884,9 @@ if (window.location.pathname === '/restaurant-menu/' || window.location.pathname
       "@id": "https://awkward-media.com/privacy-policy/#website",
       "url": "https://awkward-media.com/privacy-policy/",
       "name": "slot777",
-      "publisher": { "@id": "https://awkward-media.com/privacy-policy/#org" },
+      "publisher": {
+        "@id": "https://awkward-media.com/privacy-policy/#org"
+      },
       "inLanguage": "id-ID",
       "potentialAction": {
         "@type": "SearchAction",
@@ -955,7 +900,11 @@ if (window.location.pathname === '/restaurant-menu/' || window.location.pathname
       "name": "slot777",
       "applicationCategory": "GameApplication",
       "operatingSystem": "Android, iOS, Windows",
-      "offers": { "@type": "Offer", "price": "0", "priceCurrency": "IDR" },
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "IDR"
+      },
       "aggregateRating": {
         "@type": "AggregateRating",
         "ratingValue": 4.9,
