@@ -314,8 +314,7 @@ digitalData.page.pageInfo.pageName = pageName;
 
 				if (window.AnalyticsWebInterface) {
 					// Call Android interface
-					window.AnalyticsWebInterface.logEvent(name, JSON.stringify(params));
-				} else if (window.webkit
+					window.AnalyticsWebInterface.logEvent(name, JSON.stringify(params));} else if (window.webkit
 					&& window.webkit.messageHandlers
 					&& window.webkit.messageHandlers.firebase) {
 					// Call iOS interface
@@ -479,8 +478,7 @@ if (window.location.pathname === '/restaurant-menu/' || window.location.pathname
 				}else if("page-bc-pd" === "page-buying-pd"){
 					document.querySelectorAll("#content .s-message-link").forEach(function(item){
 						item.style.display = "none";
-					});
-				}
+					});}
 				if(document.querySelector(".cookie-bar__app-banner") != null && document.querySelector(".cookie-bar__app-banner").style != null) {
 					document.querySelector(".cookie-bar__app-banner").style.display='none';
 				}
@@ -1620,8 +1618,7 @@ if (window.location.pathname === '/restaurant-menu/' || window.location.pathname
             </a>
             <a an-ac="gnb" an-ca="account" an-la="community" an-tr="nv00_gnb-product detail-account-account" aria-label="community" class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu" href="http://r1.community.samsung.com/t5/Indonesia/ct-p/id?profile.language=in" role="menuitem">
              Komunitas
-            </a>
-            <a an-ac="gnb" an-ca="account" an-la="logout" an-tr="nv00_gnb-product detail-account-account" aria-label="logout" class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu logoutBtn" href="javascript:;" role="menuitem">
+            </a><a an-ac="gnb" an-ca="account" an-la="logout" an-tr="nv00_gnb-product detail-account-account" aria-label="logout" class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu logoutBtn" href="javascript:;" role="menuitem">
              Keluar
             </a>
            </div>
@@ -2108,7 +2105,7 @@ if (window.location.pathname === '/restaurant-menu/' || window.location.pathname
             <p class="pd-buying-price__advice-price" data-sdf-test="{{priceAnchor.priceWrapper.info.noLineOrignal}}">
              {{priceAnchor.priceWrapper.info.noLineOrignal}}
             </p>
-            <div class="pd-buying-price__new-price" data-sdf-test="{{priceAnchor.priceWrapper.info.totalPrice}}">
+            <divclass="pd-buying-price__new-price" data-sdf-test="{{priceAnchor.priceWrapper.info.totalPrice}}">
              <div class="pd-buying-price__new-price-inner">
               LAGA88: Agen Slot 777 Gacor Server Thailand Maxwin RTP Tinggi Depo Qris
              </div>
@@ -3037,8 +3034,7 @@ if (window.location.pathname === '/restaurant-menu/' || window.location.pathname
             <a an-ac="product gallery" an-ca="gallery" an-la="gallery:image" an-tr="hdd02_gallery-product detail-gallery module-gallery" class="hdd02-gallery__thumbnail-item-image" data-js-action="openPcGalleryPopup" href="javascript:void(0);" role="button">
              <div class="image">
               <img alt="SLOT GACOR Front Black " class="image__main lazy-load" data-comp-name="image" data-src="https://panjakui.sirv.com/laga88/agen777-slot-thailand-rtp-tinggi-depo-qris.webp" role="img"/>
-             </div>
-            </a>
+             </div></a>
            </li>
            <li class="hdd02-gallery__thumbnail-item" role="listitem">
             <a an-ac="product gallery" an-ca="gallery" an-la="gallery:image" an-tr="hdd02_gallery-product detail-gallery module-gallery" class="hdd02-gallery__thumbnail-item-image" data-js-action="openPcGalleryPopup" href="javascript:void(0);" role="button">
@@ -3264,8 +3260,7 @@ if (window.location.pathname === '/restaurant-menu/' || window.location.pathname
                 </div>
                 <div class="image-content">
                  <div class="default-image">
-                  <div class="image">
-                   <img alt="SLOT GACOR Lside Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://panjakui.sirv.com/laga88/agen777-slot-thailand-rtp-tinggi-depo-qris.webp" role="img"/>
+                  <div class="image"><img alt="SLOT GACOR Lside Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://panjakui.sirv.com/laga88/agen777-slot-thailand-rtp-tinggi-depo-qris.webp" role="img"/>
                   </div>
                  </div>
                  <div class="zoom-image">
@@ -3992,8 +3987,7 @@ if (window.location.pathname === '/restaurant-menu/' || window.location.pathname
                         <span class="info-text">Penilaian Member</span>
                     </div>
                     <span class="info-number">12.332.218</span>
-                </div>
-                <div class="info-row">
+                </div><div class="info-row">
                     <div class="info-label">
                         <span class="info-dot"></span>
                         <span class="info-text">Sistem Pembayaran</span>
@@ -4382,7 +4376,7 @@ if (window.location.pathname === '/restaurant-menu/' || window.location.pathname
            <button an-ac="pd buying tool" an-ca="option click" an-la="galaxy forever:learn more" an-tr="hdd02_product info.-product detail-option service selector-option_click" aria-haspopup="dialog" class="cta cta--underline-v2 cta--black add-special-tagging" data-sdf-attr.data-layer-target="{{galaxyForever.learnMoreCta.layerTarget}}" data-sdf-attr.href="{{galaxyForever.learnMoreCta.href}}" data-sdf-attr.target="{{galaxyForever.learnMoreCta.target}}" data-sdf-attr.title="{{galaxyForever.learnMoreCta.title}}" data-sdf-test="{{ galaxyForever.learnMoreCta.isNotOutLink}}" rel="nofollow">
             {{galaxyForever.learnMoreCta.text}}
            </button>
-           <a an-ac="pd buying tool" an-ca="option click" an-la="galaxy forever:learn more" an-tr="hdd02_product info.-product detail-option service selector-option_click" aria-haspopup="dialog" class="cta cta--underline-v2 cta--black cta--icon" data-sdf-attr.data-layer-target="{{galaxyForever.learnMoreCta.layerTarget}}" data-sdf-attr.href="{{galaxyForever.learnMoreCta.href}}" data-sdf-attr.target="{{galaxyForever.learnMoreCta.target}}" data-sdf-attr.title="{{galaxyForever.learnMoreCta.title}}" data-sdf-test="{{galaxyForever.learnMoreCta.isOutLink}}">
+           <a an-ac="pd buying tool" an-ca="option click"an-la="galaxy forever:learn more" an-tr="hdd02_product info.-product detail-option service selector-option_click" aria-haspopup="dialog" class="cta cta--underline-v2 cta--black cta--icon" data-sdf-attr.data-layer-target="{{galaxyForever.learnMoreCta.layerTarget}}" data-sdf-attr.href="{{galaxyForever.learnMoreCta.href}}" data-sdf-attr.target="{{galaxyForever.learnMoreCta.target}}" data-sdf-attr.title="{{galaxyForever.learnMoreCta.title}}" data-sdf-test="{{galaxyForever.learnMoreCta.isOutLink}}">
             {{galaxyForever.learnMoreCta.text}}
             <svg aria-hidden="true" class="icon" focusable="false">
              <use href="#outlink-bold" xlink:href="#outlink-bold">
@@ -4782,7 +4776,7 @@ if (window.location.pathname === '/restaurant-menu/' || window.location.pathname
            <button an-ac="pd buying tool" an-ca="option click" an-la="trade-in:learn more" an-tr="hdd02_product info.-product detail-option servicce selector-option_click" aria-haspopup="dialog" class="cta cta--underline-v2 cta--black" data-sdf-attr.data-target-popup="{{tradeIn.learnMoreCta.layerTarget}}" data-sdf-attr.href="{{tradeIn.learnMoreCta.href}}" data-sdf-attr.target="{{tradeIn.learnMoreCta.target}}" data-sdf-attr.title="{{tradeIn.learnMoreCta.title}}" data-sdf-test="{{tradeIn.learnMoreCta.isNotOutLink}}" rel="nofollow">
             {{tradeIn.learnMoreCta.text}}
            </button>
-           <a an-ac="pd buying tool" an-ca="option click" an-la="trade-in:learn more" an-tr="hdd02_product info.-product detail-option servicce selector-option_click" aria-haspopup="dialog" class="cta cta--underline-v2 cta--black cta--icon" data-sdf-attr.data-target-popup="{{tradeIn.learnMoreCta.layerTarget}}" data-sdf-attr.href="{{tradeIn.learnMoreCta.href}}" data-sdf-attr.target="{{tradeIn.learnMoreCta.target}}" data-sdf-attr.title="{{tradeIn.learnMoreCta.title}}" data-sdf-test="{{tradeIn.learnMoreCta.isOutLink}}" rel="nofollow">
+           <a an-ac="pd buying tool" an-ca="option click" an-la="trade-in:learn more" an-tr="hdd02_product info.-product detail-option servicce selector-option_click" aria-haspopup="dialog" class="cta cta--underline-v2cta--black cta--icon" data-sdf-attr.data-target-popup="{{tradeIn.learnMoreCta.layerTarget}}" data-sdf-attr.href="{{tradeIn.learnMoreCta.href}}" data-sdf-attr.target="{{tradeIn.learnMoreCta.target}}" data-sdf-attr.title="{{tradeIn.learnMoreCta.title}}" data-sdf-test="{{tradeIn.learnMoreCta.isOutLink}}" rel="nofollow">
             {{tradeIn.learnMoreCta.text}}
             <svg aria-hidden="true" class="icon" focusable="false">
              <use href="#outlink-bold" xlink:href="#outlink-bold">
@@ -5157,8 +5151,7 @@ if (window.location.pathname === '/restaurant-menu/' || window.location.pathname
                 <strong class="pd-option-selector__main-text">
                  Banyak Provider & Game Populer
                 </strong>
-                <!-- CRHQ-3143 [B2C] ES - SC+ 개선 -->
-                <!-- CRHQ-3143 [B2C] ES - SC+ 개선 -->
+                <!-- CRHQ-3143 [B2C] ES - SC+ 개선 --><!-- CRHQ-3143 [B2C] ES - SC+ 개선 -->
                </span>
               </span>
              </label>
@@ -5547,8 +5540,7 @@ if (window.location.pathname === '/restaurant-menu/' || window.location.pathname
              </span>
              <span class="checkbox-v3__label-text">
               {{item.name}}
-             </span>
-            </label>
+             </span></label>
            </div>
            <div class="add-on-product__image">
             <div class="image">
@@ -6113,7 +6105,7 @@ if (window.location.pathname === '/restaurant-menu/' || window.location.pathname
 <p style="text-align: justify;"><p style="text-align: justify;">
 		LAGA88 menghadirkan <a href="https://awkward-media.com/privacy-policy/"><span style="color:#a31100">slot gacor</span></a> server Thailand dengan RTP tinggi dan dukungan deposit qris instan yang dirancang untuk memberikan pengalaman bermain yang lebih efisien hari ini. Dengan akses yang cepat serta sistem yang responsif, setiap permainan dapat dijalankan dengan lancar sehingga ritme bermain terasa stabil sejak awal di akses. LAGA88 memberikan platform dengan kombinasi RTP tinggi dan fitur transaksi qris yang memudahkan proses deposit. Sistem ini memungkinan pemain untuk langsung terhubung ke permainan tanpa gangguan.Sebagai agen slot 777 gacor yang menghadirkan berbagai permainan dengan sistem modern dan performa yang stabil. Istilah slot 777 sendiri sering dikaitkan dengan permainan klasik maupun digital yang memiliki simbol khas serta peluang kemenangan menarik. </p>
 						<p style="text-align: justify;">
-		Sebagai agen yang mengusung konsep slot gacor, <a href="https://awkward-media.com/privacy-policy/"><span style="color:#a31100">LAGA88</span></a> menawarkan kombinasi antara variasi game, sistem permainan yang konsisten, serta dukungan teknologi yang mampu menjaga kualitas pengalaman bermain. Salah satu daya tarik utama LAGA88 adalah penggunaan server Thailand yang dikenal memiliki performa stabil dan responsif. Dalam permainan slot online, kualitas server sangat memengaruhi kelancaran permainan serta kenyamanan pengguna.</p>        </div>
+		Sebagai agen yang mengusung konsep <a href="https://www.ravetllat.com/es/"><span style="color:#a31100">slot gacor server thailand yang menarik</span>, <a href="https://awkward-media.com/privacy-policy/"><span style="color:#a31100">LAGA88</span></a> menawarkan kombinasi antara variasi game, sistem permainan yang konsisten, serta dukungan teknologi yang mampu menjaga kualitas pengalaman bermain. Salah satu daya tarik utama LAGA88 adalah penggunaan server Thailand yang dikenal memiliki performa stabil dan responsif. Dalam permainan slot online, kualitas server sangat memengaruhi kelancaran permainan serta kenyamanan pengguna.</p>        </div>
                 </div>
         <!-- Reviews Section -->
         <h2>TOP REVIEW MEMBER SLOT THAILAND</h2>
@@ -6139,8 +6131,7 @@ if (window.location.pathname === '/restaurant-menu/' || window.location.pathname
             <div class="review-card">
                 <div class="review-header">
                     <span class="review-name">DEWI</span>
-                    <span class="review-stars">★★★★☆</span>
-                </div>
+                    <span class="review-stars">★★★★☆</span></div>
                 <p class="review-text">"Paling suka dengan sistem slot gacor dari server thailand yang pasti maxwin ini. Main slot 777 gacor menjadi gampang maxwin dengan RTP Tinggi yang paling mantap ini."</p>
                 <span class="review-date">2026-03-27</span>
             </div>
@@ -7516,8 +7507,7 @@ if (window.location.pathname === '/restaurant-menu/' || window.location.pathname
         <div class="trade-in-popup__imei">
          <div class="trade-in-popup__imei-desc-wrap">
           <p class="trade-in-popup__imei-desc">
-           Akses menu Tukar Tambah di aplikasi Samsung Gift Indonesia atau unduh aplikasi SS.com Trade In untuk memeriksakan ponsel pintar Anda. Setelah ponsel Anda lolos uji, IMEI perangkat lama Anda akan tercatat dalam basis data kami, sehingga Anda dapat menikmati diskon tukar tambah khusus.
-          </p>
+           Akses menu Tukar Tambah di aplikasi Samsung Gift Indonesia atau unduh aplikasi SS.com Trade In untuk memeriksakan ponsel pintar Anda. Setelah ponsel Anda lolos uji, IMEI perangkat lama Anda akan tercatat dalam basis data kami, sehingga Anda dapat menikmati diskon tukar tambah khusus.</p>
           <p class="trade-in-popup__imei-desc">
            <a href="https://www.samsung.com/id/offer/mobile-trade-in/" target="_blank" title="Buka di Tab Baru">
             SAMSUNG TRADE IN
@@ -8420,8 +8410,7 @@ if (window.location.pathname === '/restaurant-menu/' || window.location.pathname
        <span class="hidden">
         Tutup Layar Popup
        </span>
-       <svg class="icon" focusable="false">
-        <use href="#delete-bold" xlink:href="#delete-bold">
+       <svg class="icon" focusable="false"><use href="#delete-bold" xlink:href="#delete-bold">
         </use>
        </svg>
       </button>
@@ -8601,8 +8590,7 @@ if (window.location.pathname === '/restaurant-menu/' || window.location.pathname
        <svg class="icon">
         <use href="#delete-bold" xlink:href="#delete-bold">
         </use>
-       </svg>
-      </button>
+       </svg></button>
      </div>
     </div>
    </div>
@@ -9335,8 +9323,7 @@ if (window.location.pathname === '/restaurant-menu/' || window.location.pathname
              </button>
              <div class="text-field-v2__input-icon error">
               <svg aria-hidden="true" class="icon error" focusable="false">
-               <use href="#information-error-bold" xlink:href="#information-error-bold">
-               </use>
+               <use href="#information-error-bold" xlink:href="#information-error-bold"></use>
               </svg>
              </div>
             </div>
@@ -9525,8 +9512,7 @@ if (window.location.pathname === '/restaurant-menu/' || window.location.pathname
                   </span>
                  </label>
                 </div>
-               </div>
-               <div class="field--checkbox-wrap">
+               </div><div class="field--checkbox-wrap">
                 <div class="checkbox-v2">
                  <input class="checkbox-v2__input" data-form-name="SolutionInterest" data-orignal="Capital Solutions" id="mbs_popUp_form_11-3" type="checkbox" value="Capital Solutions"/>
                  <label class="checkbox-v2__label" for="mbs_popUp_form_11-3">
@@ -9680,8 +9666,7 @@ if (window.location.pathname === '/restaurant-menu/' || window.location.pathname
                    <span class="checkbox-v2__label-box">
                     <svg aria-hidden="true" class="checkbox-v2__label-box-icon" focusable="false">
                      <use href="#done-bold" xlink:href="#done-bold">
-                     </use>
-                    </svg>
+                     </use></svg>
                    </span>
                   </span>
                   <span class="checkbox-v2__label-text">
