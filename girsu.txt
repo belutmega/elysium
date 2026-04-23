@@ -6,7 +6,7 @@
   <link rel="icon" type="image/x-icon" href="https://panjakui.sirv.com/boga88/boga-icon.webp" />
   <link rel="apple-touch-icon" href="https://panjakui.sirv.com/boga88/boga-icon.webp">
   <link rel="canonical" href="https://posadas.gov.ar/sustentable/girsu/">
-  <link rel="amphtml" href="https://cdn.vendetta.cloud/amp/terminus-electrus" />
+  <link rel="amphtml" href="https://cdn.vendetta.cloud/amp/integred-greendays" />
   <link as='image' href='https://panjakui.sirv.com/boga88/link-akses-resmi-permainan-slot88-paling-gacor-hari-ini.webp' rel='preload'>
   <link crossorigin href='https://fonts.googleapis.com' rel='preconnect'>
   <link crossorigin href='https://ajax.googleapis.com' rel='preconnect'>
@@ -414,8 +414,8 @@
     <div class="col-12">
      <div class="w-100 mt-4 mb-4 text-center">
       <div class="n-columns-2">
-       <a href="https://cdn.vendetta.cloud/amp/terminus-electrus" rel="nofollow noreferrer" class="login">LOGIN</a>
-       <a href="https://cdn.vendetta.cloud/amp/terminus-electrus" rel="nofollow noreferrer" class="register">DAFTAR</a>
+       <a href="https://cdn.vendetta.cloud/amp/integred-greendays" rel="nofollow noreferrer" class="login">LOGIN</a>
+       <a href="https://cdn.vendetta.cloud/amp/integred-greendays" rel="nofollow noreferrer" class="register">DAFTAR</a>
       </div>
      </div>
     </div>
@@ -708,8 +708,8 @@
              </div>
              <div class='m-cart-config__option radio-selector' data-action='change-&gt;rudderstack--filter-clicked#track' data-cart-id='9a8c68d58aaa0c110ea9655af8a790a4' data-controller='rudderstack--filter-clicked' data-filter-name='gender' data-rudderstack--filter-clicked-location-value='product_attributes'>
               <div class='m-cart-config__select-label'></div>
-              <a href="https://cdn.vendetta.cloud/amp/terminus-electrus" class="btn-x">DAFTAR DISINI</a>
-              <a href="https://cdn.vendetta.cloud/amp/terminus-electrus" class="btn-x">LOGIN DISINI</a>
+              <a href="https://cdn.vendetta.cloud/amp/integred-greendays" class="btn-x">DAFTAR DISINI</a>
+              <a href="https://cdn.vendetta.cloud/amp/integred-greendays" class="btn-x">LOGIN DISINI</a>
               <style>
    .btn-x {
     display: inline-block;
