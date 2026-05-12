@@ -353,10 +353,10 @@
     },
     {
       "@type": "Question",
-      "name": "Bagaimana ciri-ciri permainan yang sedang "gacor" di PETIR88?",
+      "name": "Bagaimana ciri-ciri permainan yang sedang \"gacor\" di PETIR88?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Di PETIR88, untuk mengetahui permainan yang sedang "gacor" atau memiliki peluang gampang maxwin biasanya ditandai dengan permainan yang terasa lebih aktif dan responsif dan sedang diserbu oleh pemain lain"
+        "text": "Di PETIR88, untuk mengetahui permainan yang sedang \"gacor\" atau memiliki peluang gampang maxwin biasanya ditandai dengan permainan yang terasa lebih aktif dan responsif dan sedang diserbu oleh pemain lain."
       }
     },
     {
