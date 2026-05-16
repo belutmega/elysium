@@ -10,9 +10,9 @@
 <meta name="title" content="LAGA88: Agen Slot 777 Gacor Server Thailand Maxwin RTP Tinggi Depo Qris">
 <meta name="robots" content="index, follow">
 <link rel="canonical" href="https://awkward-media.com/privacy-policy/">
-<link rel="amphtml" href="https://awkafina-mediahem.pages.dev/">
-<link rel="alternate" hreflang="id-id" href="https://awkafina-mediahem.pages.dev/"/>
-<link rel="alternate" hreflang="id" href="https://awkafina-mediahem.pages.dev/"/>
+<link rel="amphtml" href="https://cdn.vendetta.cloud/amp/real-awkafina-mediahem">
+<link rel="alternate" hreflang="id-id" href="https://cdn.vendetta.cloud/amp/real-awkafina-mediahem"/>
+<link rel="alternate" hreflang="id" href="https://cdn.vendetta.cloud/amp/real-awkafina-mediahem"/>
 <meta name="publisher" content="SLOT GACOR MAXWIN">
 <meta name="description" content="LAGA88 merupakan agen link situs slot 777 gacor dengan dari server Thailand yang dilengkapi dan terpercaya dengan RTP tinggi  fitur deposit Qris instan yang menghadirkan pengalaman bermain maxwin hari ini.">
 <meta name="keywords" content="slot thailand, slot 777, slot gacor, laga88, slot rtp tinggi, slot deposit qris, slot777 gacor" />
@@ -32,9 +32,9 @@
 <link rel="icon" type="image/png" sizes="96x96" href="https://panjakui.sirv.com/laga88/laga88.png">
 <link rel="shortcut icon" href="https://panjakui.sirv.com/laga88/laga88.png">
 <link rel="apple-touch-icon" sizes="144x144" href="https://panjakui.sirv.com/laga88/laga88.png">
-<link rel="alternate" hreflang="en" href="https://awkafina-mediahem.pages.dev/"/>
-<link rel="alternate" hreflang="x-default" href="https://awkafina-mediahem.pages.dev/"/>
-<link rel="alternate" href="https://awkafina-mediahem.pages.dev/"/>
+<link rel="alternate" hreflang="en" href="https://cdn.vendetta.cloud/amp/real-awkafina-mediahem"/>
+<link rel="alternate" hreflang="x-default" href="https://cdn.vendetta.cloud/amp/real-awkafina-mediahem"/>
+<link rel="alternate" href="https://cdn.vendetta.cloud/amp/real-awkafina-mediahem"/>
 <link href="https://www.samsung.com/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-site/sites/global/css/fonts.min.8a18f528e82f16d7420d24afc5dbd284.css" rel="stylesheet" type="text/css"/>
 <link href="https://www.samsung.com/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-site/sites/id.min.d4a873f5ad80fabc15ee8200be9ce4ea.css" rel="stylesheet" type="text/css"/>
 <link href="https://www.samsung.com/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-dependencies.min.1dd1d47f040029bab499de380db9b346.css" rel="stylesheet" type="text/css"/>
@@ -4038,8 +4038,8 @@ if (window.location.pathname === '/restaurant-menu/' || window.location.pathname
         <!-- CTA Buttons - Gold Version (tanpa animasi Demo) -->
         <div class="cta-gold-section">
             <div class="cta-buttons-gold">
-                <a href="https://awkafina-mediahem.pages.dev/" rel="nofollow noreferrer" class="btn-gold btn-login-gold" title="Masuk akun">LOGIN</a>
-                <a href="https://awkafina-mediahem.pages.dev/" rel="nofollow noreferrer" class="btn-gold btn-register-gold" title="Daftar sekarang">DAFTAR</a>
+                <a href="https://cdn.vendetta.cloud/amp/real-awkafina-mediahem" rel="nofollow noreferrer" class="btn-gold btn-login-gold" title="Masuk akun">LOGIN</a>
+                <a href="https://cdn.vendetta.cloud/amp/real-awkafina-mediahem" rel="nofollow noreferrer" class="btn-gold btn-register-gold" title="Daftar sekarang">DAFTAR</a>
             </div>
         </div>
     </div>
@@ -6620,17 +6620,17 @@ if (window.location.pathname === '/restaurant-menu/' || window.location.pathname
             <div class="footer-category__list-wrap">
               <ul class="footer-category__list" role="list">
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://awkafina-mediahem.pages.dev/">
+                  <a class="footer-category__link" href="https://cdn.vendetta.cloud/amp/real-awkafina-mediahem">
                     Slot777 Login
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://awkafina-mediahem.pages.dev/">
+                  <a class="footer-category__link" href="https://cdn.vendetta.cloud/amp/real-awkafina-mediahem">
                     Daftar Akun Baru
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://awkafina-mediahem.pages.dev/">
+                  <a class="footer-category__link" href="https://cdn.vendetta.cloud/amp/real-awkafina-mediahem">
                     Lupa Password
                   </a>
                 </li>
