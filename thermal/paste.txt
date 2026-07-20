@@ -3,7 +3,6 @@
 	<meta charset="utf-8" />
 	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
 	<meta name="viewport" content="width=device-width,initial-scale=1" />
-	    <meta name="google-site-verification" content="VMeiSVW84m9nEUXSi0OT2pROKAyWYGiTBp42EDuQUlE" />
 	<link rel="canonical" href="https://harristhermal.com/" />
 	<link rel="amphtml" href="https://amp.vndta.cc/amp/thermal-paste" />
     <link rel="alternate" hreflang="id-id" href="https://amp.vndta.cc/amp/thermal-paste"/>
