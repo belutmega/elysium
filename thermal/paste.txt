@@ -200,7 +200,7 @@
       "@type": "Review",
       "reviewRating": { "@type": "Rating", "ratingValue": 5, "bestRating": 5 },
       "datePublished": "2026-07-03",
-      "reviewBody": "Awalnya coba-coba main slot server Thailand karena katanya lagi naik daun, eh ketemu LAGA88. Ngikutin saran RTP dari sini ternyata beneran gampang menang. Rekomen banget buat pecinta slot!"",
+      "reviewBody": "Awalnya coba-coba main slot server Thailand karena katanya lagi naik daun, eh ketemu LAGA88. Ngikutin saran RTP dari sini ternyata beneran gampang menang. Rekomen banget buat pecinta slot!""
       "author": { "@type": "Person", "name": "Dewi Lestari" }
     },
     {
