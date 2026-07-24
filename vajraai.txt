@@ -955,7 +955,7 @@ digitalData.page.pageInfo.pageName = pageName;
       "name": "Bagaimana dengan kualitas visual dan fitur permainannya?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Sangat aman. LAGA88 memberikan akses transparansi penuh dan hak kepada para member untuk melihat cara kerja sistem mereka ("dapur" LAGA88). Hal ini memastikan tidak ada manipulasi yang merugikan pemain, sesuatu yang biasanya ditutupi dengan ketat oleh situs lain."
+        "text": "Sangat aman. LAGA88 memberikan akses transparansi penuh dan hak kepada para member untuk melihat cara kerja sistem mereka (\"dapur\" LAGA88). Hal ini memastikan tidak ada manipulasi yang merugikan pemain, sesuatu yang biasanya ditutupi dengan ketat oleh situs lain."
       }
     },
     {
