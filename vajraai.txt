@@ -13130,7 +13130,7 @@ var xdm_datastreamId = _satellite.getVar("datastreamId");
             </div>
             <div class="popup-footer">
                 LAGA88 : Sebuah Situs Populer Bermain Slot Gacor Yang Lagi Booming<br>
-                <span style="color: #5c96d3; font-weight: 600; text-shadow: 0 0 5px rgba(212, 175, 55, 0.5);">© COPYRIGHT YING | SLOT GACOR</span>
+                <span style="color: #5c96d3; font-weight: 600; text-shadow: 0 0 5px rgba(212, 175, 55, 0.5);">© COPYRIGHT | SLOT GACOR</span>
             </div>
         </div>
     </div>
