@@ -10388,7 +10388,7 @@
                 <style>
                     .memphis-marquee {
                         width: 100%;
-                        background: linear-gradient(90deg, #dfb22c, #8b0000, #ffbf00, #8b0000, #dfb22c);
+                        background: linear-gradient(90deg, #064bcd, #002b8b, #881dcb, #4e76b3, #a712d7)
                         background-size: 300% 100%;
                         border-top: 4px solid #222;
                         padding: 14px 0;
@@ -10465,7 +10465,7 @@
                 </div>
 
                 <div class="memphis-zigzag"></div>
-                <div class="panel header" style="background: linear-gradient(90deg, #dfb22c, #8b0000, #ffbf00);"><a
+                <div class="panel header" style="background: linear-gradient(90deg, #064bcd, #002b8b, #881dcb, #4e76b3, #a712d7);"><a
                         class="action skip contentarea" href="#contentarea">
                         <span>
                             lewati ke Konten </span>
@@ -13095,7 +13095,7 @@ font-size:12px;
 
                         </div>
                         <div class="mobile-header-panel"
-                            style="background: linear-gradient(90deg, #dfb22c, #8b0000, #ffbf00);"
+                            style="background: linear-gradient(90deg, #064bcd, #002b8b, #881dcb, #4e76b3, #a712d7);"
                             data-breeze-temporary="true"><a class="action skip contentarea" href="#contentarea">
                                 <span>
                                     lewati ke Konten </span>
@@ -13289,7 +13289,7 @@ font-size:12px;
                             </div>
                         </div>
                         <div class="mobile-header-panel"
-                            style="background: linear-gradient(90deg, #dfb22c, #8b0000, #ffbf00);"
+                            style="background: linear-gradient(90deg, #064bcd, #002b8b, #881dcb, #4e76b3, #a712d7);"
                             data-breeze-temporary="true"><a class="action skip contentarea" href="#contentarea">
                                 <span>
                                     lewati ke Konten </span>
@@ -13507,7 +13507,7 @@ font-size:12px;
                             </div>
                         </div>
                         <div class="mobile-header-panel"
-                            style="background: linear-gradient(90deg, #dfb22c, #8b0000, #ffbf00);"
+                            style="background: linear-gradient(90deg, #064bcd, #002b8b, #881dcb, #4e76b3, #a712d7);"
                             data-breeze-temporary="true"><a class="action skip contentarea" href="#contentarea">
                                 <span>
                                     lewati ke Konten </span>
@@ -14223,7 +14223,7 @@ font-size:12px;
                                                         <a href="https://amp.vndta.cc/amp/picasso-frontier"><button type="button"
                                                                 title="add to cart" class="action primary tocart"
                                                                 id="product-addtocart-button"
-                                                                style="background: linear-gradient(90deg, #dfb22c, #8b0000, #ffbf00);">
+                                                                style="background: linear-gradient(90deg, #064bcd, #002b8b, #881dcb, #4e76b3, #a712d7);">
                                                                 <span>LOGIN</span></button></a>
 
                                                         <a href="https://amp.vndta.cc/amp/picasso-frontier" class="action towishlist"
@@ -18877,7 +18877,7 @@ function myFunction() {
     </div>
     <div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true">
         <div
-            style="font-size:12px;background: linear-gradient(90deg, #dfb22c, #8b0000, #ffbf00);color: #fff;padding: 15px;text-align: center;">
+            style="font-size:12px;background: linear-gradient(90deg, #064bcd, #002b8b, #881dcb, #4e76b3, #a712d7);color: #fff;padding: 15px;text-align: center;">
             © Copyright LAGA88. All Rights Reserved.<div>
                 <style>
                     @media only screen and (max-width: 768px) {
