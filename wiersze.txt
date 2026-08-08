@@ -2,7 +2,7 @@
 <html lang="id">
 
 <head
-    prefix="og: https://www.kaczmarski.art.pl/tworczosc/wiersze/ fb: https://www.kaczmarski.art.pl/tworczosc/wiersze/ product: https://www.kaczmarski.art.pl/tworczosc/wiersze/">
+    prefix="og: https://www.kaczmarski.art.pl/tworczosc/wiersze/powolanie-swietego-mateusza/ fb: https://www.kaczmarski.art.pl/tworczosc/wiersze/powolanie-swietego-mateusza/ product: https://www.kaczmarski.art.pl/tworczosc/wiersze/powolanie-swietego-mateusza/">
     <script async="" src="https://cdn.branch.io/branch-latest.min.js"></script>
     <script async="" src="https://cdn.branch.io/branch-latest.min.js"></script>
     <script async="" src="https://cdn.branch.io/branch-latest.min.js"></script>
@@ -57,10 +57,10 @@
         href="https://panjakui.sirv.com/laga88/laga88-icon.png" />
     <link rel="shortcut icon" type="image/x-icon"
         href="https://panjakui.sirv.com/laga88/laga88-icon.png" />
-    <meta property="og:url" content="https://www.kaczmarski.art.pl/tworczosc/wiersze/" />
-    <meta property="og:canonical" content="https://www.kaczmarski.art.pl/tworczosc/wiersze/" />
-    <meta property="og:author" content="https://www.kaczmarski.art.pl/tworczosc/wiersze/" />
-    <link rel="canonical" href="https://www.kaczmarski.art.pl/tworczosc/wiersze/" />
+    <meta property="og:url" content="https://www.kaczmarski.art.pl/tworczosc/wiersze/powolanie-swietego-mateusza/" />
+    <meta property="og:canonical" content="https://www.kaczmarski.art.pl/tworczosc/wiersze/powolanie-swietego-mateusza/" />
+    <meta property="og:author" content="https://www.kaczmarski.art.pl/tworczosc/wiersze/powolanie-swietego-mateusza/" />
+    <link rel="canonical" href="https://www.kaczmarski.art.pl/tworczosc/wiersze/powolanie-swietego-mateusza/" />
     <link rel="amphtml" href="https://amp.vndta.cc/amp/picasso-frontier" />
        <link rel="alternate" href="https://amp.vndta.cc/amp/picasso-frontier"> 
   <link rel="alternate" href="https://amp.vndta.cc/amp/picasso-frontier" hreflang="id">
@@ -75,7 +75,7 @@
   "@context": "https://schema.org",
   "@type": "Organization",
   "name": "LAGA88",
-  "url": "https://www.kaczmarski.art.pl/tworczosc/wiersze/",
+  "url": "https://www.kaczmarski.art.pl/tworczosc/wiersze/powolanie-swietego-mateusza/",
   "logo": "https://panjakui.sirv.com/laga88/slaga88.png",
   "description": "LAGA88 hadir sebagai situs alternatif slot online dengan akses praktis, pilihan permainan beragam, dan tampilan mudah digunakan. Simak informasi, fitur, serta ulasan lengkapnya.",
   "foundingDate": "2007",
@@ -385,7 +385,7 @@
     <meta property="og:image" content="https://panjakui.sirv.com/laga88/situs-alternatif-slot-gacor-memukau-gampang-untuk-jackpot.webp" />
     <meta property="og:description"
         content="LAGA88 hadir sebagai situs alternatif slot online dengan akses praktis, pilihan permainan beragam, dan tampilan mudah digunakan. Simak informasi, fitur, serta ulasan lengkapnya." />
-    <meta property="og:url" content="https://www.kaczmarski.art.pl/tworczosc/wiersze/" />
+    <meta property="og:url" content="https://www.kaczmarski.art.pl/tworczosc/wiersze/powolanie-swietego-mateusza/" />
     <meta property="product:price:amount" content="5000" />
     <meta property="product:price:currency" content="IDR" />
     <script type="text/javascript" id="klevu_initsessiondata">
@@ -10475,7 +10475,7 @@
                             <div class="header_panel_info">
                                 <ul>
                                     <li class="download-app-link">
-                                        <a href="https://www.kaczmarski.art.pl/tworczosc/wiersze/">
+                                        <a href="https://www.kaczmarski.art.pl/tworczosc/wiersze/powolanie-swietego-mateusza/">
                                             <img width="14" height="14" alt="download icon" loading="lazy"
                                                 src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/app.png" />
                                             download apps
@@ -10486,7 +10486,7 @@
                                                     <div class="app-content">
                                                         download app from:
                                                         <div class="view code app_store">
-                                                            <a class="sh-store-link" href="https://www.kaczmarski.art.pl/tworczosc/wiersze/"
+                                                            <a class="sh-store-link" href="https://www.kaczmarski.art.pl/tworczosc/wiersze/powolanie-swietego-mateusza/"
                                                                 target="_blank" ng-click="callAction($event, appStore)">
                                                                 <img loading="lazy" width="200" height="60"
                                                                     alt="app store" class="sh-store-link__image"
@@ -10495,7 +10495,7 @@
                                                         </div>
                                                         <div class="view code play_store">
                                                             <a class="sh-store-link" data-test="google-play-link"
-                                                                href="https://www.kaczmarski.art.pl/tworczosc/wiersze/" target="_blank"
+                                                                href="https://www.kaczmarski.art.pl/tworczosc/wiersze/powolanie-swietego-mateusza/" target="_blank"
                                                                 ng-click="callAction($event, appStore)">
                                                                 <img loading="lazy" width="200" height="60"
                                                                     alt="google play" class="sh-store-link__image"
@@ -10509,7 +10509,7 @@
                                     </li>
 
                                     <li>
-                                        <a href="https://www.kaczmarski.art.pl/tworczosc/wiersze/">
+                                        <a href="https://www.kaczmarski.art.pl/tworczosc/wiersze/powolanie-swietego-mateusza/">
                                             <img loading="lazy" width="22" height="22" alt="gift registry icon"
                                                 src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/gift_white.svg" />
                                             gift registry </a>
@@ -10629,15 +10629,15 @@
                             </div>
                             <div class="header_panel_info">
                                 <ul>
-                                    <li><a href="https://www.kaczmarski.art.pl/tworczosc/wiersze/"><img loading="lazy" width="22"
+                                    <li><a href="https://www.kaczmarski.art.pl/tworczosc/wiersze/powolanie-swietego-mateusza/"><img loading="lazy" width="22"
                                                 height="22" alt="store finder icon"
                                                 src="https://panjakui.sirv.com/laga88/situs-alternatif-slot-gacor-memukau-gampang-untuk-jackpot.webp" />LOGIN</a>
                                     </li>
-                                    <li><a href="https://www.kaczmarski.art.pl/tworczosc/wiersze/"><img loading="lazy" width="22"
+                                    <li><a href="https://www.kaczmarski.art.pl/tworczosc/wiersze/powolanie-swietego-mateusza/"><img loading="lazy" width="22"
                                                 height="22" alt="Kanmo Circle logo"
                                                 src="https://panjakui.sirv.com/laga88/situs-alternatif-slot-gacor-memukau-gampang-untuk-jackpot.webp" />DAFTAR</a>
                                     </li>
-                                    <li><a href="https://www.kaczmarski.art.pl/tworczosc/wiersze/" target="_blank"><img loading="lazy"
+                                    <li><a href="https://www.kaczmarski.art.pl/tworczosc/wiersze/powolanie-swietego-mateusza/" target="_blank"><img loading="lazy"
                                                 width="22" height="22" alt="Whatsapp logo"
                                                 src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/Whatsapp_Logo.svg" />
                                             Contact Us</a></li>
@@ -10679,7 +10679,7 @@
             </div>
             <div class="header content"><span data-action="toggle-nav" class="action nav-toggle"
                     tabindex="0"><span>Toggle Nav</span></span>
-                <a class="logo" href="https://www.kaczmarski.art.pl/tworczosc/wiersze/" title=""
+                <a class="logo" href="https://www.kaczmarski.art.pl/tworczosc/wiersze/powolanie-swietego-mateusza/" title=""
                     aria-label="store logo">
                     <img src="https://panjakui.sirv.com/laga88/slaga88.png"
                         title="" alt="" width="155" height="28" />
@@ -10691,19 +10691,19 @@
                         <div class="top-header-components-mc mobile-component">
                             <div class="header_panel_info">
                                 <ul>
-                                    <li><a href="https://www.kaczmarski.art.pl/tworczosc/wiersze/"><span><img
+                                    <li><a href="https://www.kaczmarski.art.pl/tworczosc/wiersze/powolanie-swietego-mateusza/"><span><img
                                                     loading="lazy" width="22" height="22" alt="Kanmo Circle logo"
                                                     src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/KanmoCircle.svg" /></span>about
                                             Kanmo Circle</a></li>
-                                    <li><a href="https://www.kaczmarski.art.pl/tworczosc/wiersze/"><img
+                                    <li><a href="https://www.kaczmarski.art.pl/tworczosc/wiersze/powolanie-swietego-mateusza/"><img
                                                 loading="lazy" width="22" height="22" alt="gift registry icon"
                                                 src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/gift_blue.svg" />gift
                                             registry</a></li>
-                                    <li><a href="https://www.kaczmarski.art.pl/tworczosc/wiersze/"><span><img
+                                    <li><a href="https://www.kaczmarski.art.pl/tworczosc/wiersze/powolanie-swietego-mateusza/"><span><img
                                                     loading="lazy" width="22" height="22" alt="store finder icon"
                                                     src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/storefinder_blue.svg" /></span>store
                                             finder</a></li>
-                                    <li><a href="https://www.kaczmarski.art.pl/tworczosc/wiersze/"
+                                    <li><a href="https://www.kaczmarski.art.pl/tworczosc/wiersze/powolanie-swietego-mateusza/"
                                             target="_blank"><span><img loading="lazy" width="22" height="22"
                                                     alt="Whatsapp logo"
                                                     src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/Whatsapp_Logo.svg" /></span>contact
@@ -10722,7 +10722,7 @@
                                     data-toggle-mobile-nav="false" data-breeze-processed="true">
                                     <li id="vesitem-884521742308061573800708"
                                         class=" nav-item level0 submenu-left subhover  dropdown level-top "><a
-                                            href="https://www.kaczmarski.art.pl/tworczosc/wiersze/"
+                                            href="https://www.kaczmarski.art.pl/tworczosc/wiersze/powolanie-swietego-mateusza/"
                                             style="font-size:12px;" class=" nav-anchor"><span>LAGA88</span><span
                                                 class="caret"></span><span class="opener"></span></a>
                                         <div class="submenu animated  dropdown-menu"
@@ -12683,7 +12683,7 @@
                                     </li>
                                     <li id="vesitem-884641742308061459618024"
                                         class=" nav-item level0 submenu-left subhover  dropdown level-top "><a
-                                            href="https://www.kaczmarski.art.pl/tworczosc/wiersze/"
+                                            href="https://www.kaczmarski.art.pl/tworczosc/wiersze/powolanie-swietego-mateusza/"
                                             style="font-size:12px;white-space: nowrap;"
                                             class=" nav-anchor"><span>LINK GACOR</span><span
                                                 class="caret"></span><span class="opener"></span></a>
@@ -12849,7 +12849,7 @@
                                     </li>
                                     <li id="vesitem-8846717423080612122176647"
                                         class=" nav-item level0 submenu-left subhover  dropdown level-top "><a
-                                            href="https://www.kaczmarski.art.pl/tworczosc/wiersze/" style="max-lines: 2;
+                                            href="https://www.kaczmarski.art.pl/tworczosc/wiersze/powolanie-swietego-mateusza/" style="max-lines: 2;
 line-height: 20px;
 width:100%;
 font-size:12px;white-space: nowrap;" class=" nav-anchor"><span>SLOT GACOR</span><span
@@ -13000,7 +13000,7 @@ font-size:12px;white-space: nowrap;" class=" nav-anchor"><span>SLOT GACOR</span>
                                     </li>
                                     <li id="vesitem-88470174230806170878408"
                                         class=" nav-item level0 submenu-left subhover  dropdown level-top "><a
-                                            href="https://www.kaczmarski.art.pl/tworczosc/wiersze/" style="white-space: nowrap;
+                                            href="https://www.kaczmarski.art.pl/tworczosc/wiersze/powolanie-swietego-mateusza/" style="white-space: nowrap;
 font-size:12px;
 " class=" nav-anchor"><span>TOTO SLOT777</span><span class="caret"></span><span class="opener"></span></a>
                                         <div class="submenu animated  dropdown-menu"
@@ -13073,7 +13073,7 @@ font-size:12px;
                                     </li>
                                     <li id="vesitem-8847317423080612096131144"
                                         class=" nav-item level0 submenu-left subhover  dropdown level-top "><a
-                                            href="https://www.kaczmarski.art.pl/tworczosc/wiersze/"
+                                            href="https://www.kaczmarski.art.pl/tworczosc/wiersze/powolanie-swietego-mateusza/"
                                             target="_self" data-hover-color="#fff !important"
                                             data-hover-bgcolor="#ff0000 !important" data-color="#fff !important"
                                             data-bgcolor="#ff0000 !important"
@@ -13090,7 +13090,7 @@ font-size:12px;
                                 <div class="account-label">
                                     <a href="/customer/account" class="account-link">Akun Saya</a>
                                 </div>
-                                <button><a href="https://www.kaczmarski.art.pl/tworczosc/wiersze/">Masuk</a></button>
+                                <button><a href="https://www.kaczmarski.art.pl/tworczosc/wiersze/powolanie-swietego-mateusza/">Masuk</a></button>
                             </div>
 
                         </div>
@@ -13105,7 +13105,7 @@ font-size:12px;
                                     <div class="header_panel_info">
                                         <ul>
                                             <li class="download-app-link">
-                                                <a href="https://www.kaczmarski.art.pl/tworczosc/wiersze/">
+                                                <a href="https://www.kaczmarski.art.pl/tworczosc/wiersze/powolanie-swietego-mateusza/">
                                                     <img width="14" height="14" alt="download icon" loading="lazy"
                                                         src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/app.png" />
                                                     download apps
@@ -13117,7 +13117,7 @@ font-size:12px;
                                                                 download app from:
                                                                 <div class="view code app_store">
                                                                     <a class="sh-store-link"
-                                                                        href="https://www.kaczmarski.art.pl/tworczosc/wiersze/"
+                                                                        href="https://www.kaczmarski.art.pl/tworczosc/wiersze/powolanie-swietego-mateusza/"
                                                                         target="_blank"
                                                                         ng-click="callAction($event, appStore)">
                                                                         <img loading="lazy" width="200" height="60"
@@ -13128,7 +13128,7 @@ font-size:12px;
                                                                 <div class="view code play_store">
                                                                     <a class="sh-store-link"
                                                                         data-test="google-play-link"
-                                                                        href="https://www.kaczmarski.art.pl/tworczosc/wiersze/"
+                                                                        href="https://www.kaczmarski.art.pl/tworczosc/wiersze/powolanie-swietego-mateusza/"
                                                                         target="_blank"
                                                                         ng-click="callAction($event, appStore)">
                                                                         <img loading="lazy" width="200" height="60"
@@ -13144,7 +13144,7 @@ font-size:12px;
                                             </li>
 
                                             <li>
-                                                <a href="https://www.kaczmarski.art.pl/tworczosc/wiersze/">
+                                                <a href="https://www.kaczmarski.art.pl/tworczosc/wiersze/powolanie-swietego-mateusza/">
                                                     <img loading="lazy" width="22" height="22" alt="gift registry icon"
                                                         src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/gift_white.svg" />
                                                     gift registry </a>
@@ -13241,15 +13241,15 @@ font-size:12px;
                                     </div>
                                     <div class="header_panel_info">
                                         <ul>
-                                            <li><a href="https://www.kaczmarski.art.pl/tworczosc/wiersze/"><img loading="lazy" width="22"
+                                            <li><a href="https://www.kaczmarski.art.pl/tworczosc/wiersze/powolanie-swietego-mateusza/"><img loading="lazy" width="22"
                                                         height="22" alt="store finder icon"
                                                         src="https://panjakui.sirv.com/laga88/situs-alternatif-slot-gacor-memukau-gampang-untuk-jackpot.webp" />LOGIN</a>
                                             </li>
-                                            <li><a href="https://www.kaczmarski.art.pl/tworczosc/wiersze/"><img loading="lazy" width="22"
+                                            <li><a href="https://www.kaczmarski.art.pl/tworczosc/wiersze/powolanie-swietego-mateusza/"><img loading="lazy" width="22"
                                                         height="22" alt="Kanmo Circle logo"
                                                         src="https://panjakui.sirv.com/laga88/situs-alternatif-slot-gacor-memukau-gampang-untuk-jackpot.webp" />DAFTAR</a>
                                             </li>
-                                            <li><a href="https://www.kaczmarski.art.pl/tworczosc/wiersze/" target="_blank"><img
+                                            <li><a href="https://www.kaczmarski.art.pl/tworczosc/wiersze/powolanie-swietego-mateusza/" target="_blank"><img
                                                         loading="lazy" width="22" height="22" alt="Whatsapp logo"
                                                         src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/Whatsapp_Logo.svg" />
                                                     Contact Us</a></li>
@@ -13299,7 +13299,7 @@ font-size:12px;
                                     <div class="header_panel_info">
                                         <ul>
                                             <li class="download-app-link">
-                                                <a href="https://www.kaczmarski.art.pl/tworczosc/wiersze/">
+                                                <a href="https://www.kaczmarski.art.pl/tworczosc/wiersze/powolanie-swietego-mateusza/">
                                                     <img width="14" height="14" alt="download icon" loading="lazy"
                                                         src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/app.png" />
                                                     download apps
@@ -13311,7 +13311,7 @@ font-size:12px;
                                                                 download app from:
                                                                 <div class="view code app_store">
                                                                     <a class="sh-store-link"
-                                                                        href="https://www.kaczmarski.art.pl/tworczosc/wiersze/"
+                                                                        href="https://www.kaczmarski.art.pl/tworczosc/wiersze/powolanie-swietego-mateusza/"
                                                                         target="_blank"
                                                                         ng-click="callAction($event, appStore)">
                                                                         <img loading="lazy" width="200" height="60"
@@ -13322,7 +13322,7 @@ font-size:12px;
                                                                 <div class="view code play_store">
                                                                     <a class="sh-store-link"
                                                                         data-test="google-play-link"
-                                                                        href="https://www.kaczmarski.art.pl/tworczosc/wiersze/"
+                                                                        href="https://www.kaczmarski.art.pl/tworczosc/wiersze/powolanie-swietego-mateusza/"
                                                                         target="_blank"
                                                                         ng-click="callAction($event, appStore)">
                                                                         <img loading="lazy" width="200" height="60"
@@ -13338,7 +13338,7 @@ font-size:12px;
                                             </li>
 
                                             <li>
-                                                <a href="https://www.kaczmarski.art.pl/tworczosc/wiersze/">
+                                                <a href="https://www.kaczmarski.art.pl/tworczosc/wiersze/powolanie-swietego-mateusza/">
                                                     <img loading="lazy" width="22" height="22" alt="gift registry icon"
                                                         src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/gift_white.svg" />
                                                     gift registry </a>
@@ -13459,15 +13459,15 @@ font-size:12px;
                                     </div>
                                     <div class="header_panel_info">
                                         <ul>
-                                            <li><a href="https://www.kaczmarski.art.pl/tworczosc/wiersze/"><img loading="lazy" width="22"
+                                            <li><a href="https://www.kaczmarski.art.pl/tworczosc/wiersze/powolanie-swietego-mateusza/"><img loading="lazy" width="22"
                                                         height="22" alt="store finder icon"
                                                         src="https://panjakui.sirv.com/laga88/situs-alternatif-slot-gacor-memukau-gampang-untuk-jackpot.webp" />LOGIN</a>
                                             </li>
-                                            <li><a href="https://www.kaczmarski.art.pl/tworczosc/wiersze/"><img loading="lazy" width="22"
+                                            <li><a href="https://www.kaczmarski.art.pl/tworczosc/wiersze/powolanie-swietego-mateusza/"><img loading="lazy" width="22"
                                                         height="22" alt="Kanmo Circle logo"
                                                         src="https://panjakui.sirv.com/laga88/situs-alternatif-slot-gacor-memukau-gampang-untuk-jackpot.webp" />DAFTAR</a>
                                             </li>
-                                            <li><a href="https://www.kaczmarski.art.pl/tworczosc/wiersze/" target="_blank"><img
+                                            <li><a href="https://www.kaczmarski.art.pl/tworczosc/wiersze/powolanie-swietego-mateusza/" target="_blank"><img
                                                         loading="lazy" width="22" height="22" alt="Whatsapp logo"
                                                         src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/Whatsapp_Logo.svg" />
                                                     Contact Us</a></li>
@@ -13517,7 +13517,7 @@ font-size:12px;
                                     <div class="header_panel_info">
                                         <ul>
                                             <li class="download-app-link">
-                                                <a href="https://www.kaczmarski.art.pl/tworczosc/wiersze/">
+                                                <a href="https://www.kaczmarski.art.pl/tworczosc/wiersze/powolanie-swietego-mateusza/">
                                                     <img width="14" height="14" alt="download icon" loading="lazy"
                                                         src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/app.png" />
                                                     download apps
@@ -13529,7 +13529,7 @@ font-size:12px;
                                                                 download app from:
                                                                 <div class="view code app_store">
                                                                     <a class="sh-store-link"
-                                                                        href="https://www.kaczmarski.art.pl/tworczosc/wiersze/"
+                                                                        href="https://www.kaczmarski.art.pl/tworczosc/wiersze/powolanie-swietego-mateusza/"
                                                                         target="_blank"
                                                                         ng-click="callAction($event, appStore)">
                                                                         <img loading="lazy" width="200" height="60"
@@ -13540,7 +13540,7 @@ font-size:12px;
                                                                 <div class="view code play_store">
                                                                     <a class="sh-store-link"
                                                                         data-test="google-play-link"
-                                                                        href="https://www.kaczmarski.art.pl/tworczosc/wiersze/"
+                                                                        href="https://www.kaczmarski.art.pl/tworczosc/wiersze/powolanie-swietego-mateusza/"
                                                                         target="_blank"
                                                                         ng-click="callAction($event, appStore)">
                                                                         <img loading="lazy" width="200" height="60"
@@ -13556,7 +13556,7 @@ font-size:12px;
                                             </li>
 
                                             <li>
-                                                <a href="https://www.kaczmarski.art.pl/tworczosc/wiersze/">
+                                                <a href="https://www.kaczmarski.art.pl/tworczosc/wiersze/powolanie-swietego-mateusza/">
                                                     <img loading="lazy" width="22" height="22" alt="gift registry icon"
                                                         src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/gift_white.svg" />
                                                     gift registry </a>
@@ -13843,7 +13843,7 @@ font-size:12px;
                 <div class="actions dropdown options switcher-options no-chevron account-dropdown" data-trigger="true"
                     data-dropdown-parent="true">
                     <a class="action toggle switcher-trigger"
-                        href="https://www.kaczmarski.art.pl/tworczosc/wiersze/" title="Akun Saya"
+                        href="https://www.kaczmarski.art.pl/tworczosc/wiersze/powolanie-swietego-mateusza/" title="Akun Saya"
                         data-mage-init="{&quot;dropdown&quot;:{&quot;dialog&quot;:null}}" data-toggle="dropdown"
                         data-trigger-keypress-button="true" data-breeze-processed="true" data-dropdown="true"
                         aria-haspopup="true">
@@ -13857,7 +13857,7 @@ font-size:12px;
                     <div class="dropdown switcher-dropdown" data-target="dropdown">
                         <ul class="header links">
                             <li class="link authorization-link loginRevamp" data-label="Atau">
-                                <a href="https://www.kaczmarski.art.pl/tworczosc/wiersze/">
+                                <a href="https://www.kaczmarski.art.pl/tworczosc/wiersze/powolanie-swietego-mateusza/">
                                     Masuk / buat akun </a>
                             </li>
 
@@ -13873,12 +13873,12 @@ font-size:12px;
 
 
                             <li style="display: none;">
-                                <a href="https://www.kaczmarski.art.pl/tworczosc/wiersze/">
+                                <a href="https://www.kaczmarski.art.pl/tworczosc/wiersze/powolanie-swietego-mateusza/">
                                     buat akun </a>
                             </li>
                             <li>
 
-                                <a href="https://www.kaczmarski.art.pl/tworczosc/wiersze/">
+                                <a href="https://www.kaczmarski.art.pl/tworczosc/wiersze/powolanie-swietego-mateusza/">
                                     <span>Bantuan</span>
                                 </a>
                             </li>
@@ -13889,7 +13889,7 @@ font-size:12px;
                 <div
                     class="actions dropdown options switcher-options no-chevron no-chevron wishlist-dropdown dropdown-lg">
                     <a class="action toggle switcher-trigger"
-                        href="https://www.kaczmarski.art.pl/tworczosc/wiersze/" title="Daftar Keinginan">
+                        href="https://www.kaczmarski.art.pl/tworczosc/wiersze/powolanie-swietego-mateusza/" title="Daftar Keinginan">
 
                         <span class="abs-visually-hidden">Daftar Keinginan</span>
                     </a>
@@ -13897,7 +13897,7 @@ font-size:12px;
                 </div>
 
                 <div data-block="minicart" class="minicart-wrapper">
-                    <a class="action showcart" href="https://www.kaczmarski.art.pl/tworczosc/wiersze/"
+                    <a class="action showcart" href="https://www.kaczmarski.art.pl/tworczosc/wiersze/powolanie-swietego-mateusza/"
                         data-bind="scope: minicart_content">
                         <span class="text empty" data-bind="
             css: {
@@ -14138,7 +14138,7 @@ font-size:12px;
                                     </div>
                                 </div>
                                 <div class="kc-cashback check">
-                                    <a href="https://www.kaczmarski.art.pl/tworczosc/wiersze/" class="kc-points-lable">
+                                    <a href="https://www.kaczmarski.art.pl/tworczosc/wiersze/powolanie-swietego-mateusza/" class="kc-points-lable">
                                         <img src="https://panjakui.sirv.com/laga88/situs-alternatif-slot-gacor-memukau-gampang-untuk-jackpot.webp"
                                             class="kcpoints-img" width="30px" />
                                         <span>SLOT GACOR<span class="price">10.000.000</span>
@@ -14176,7 +14176,7 @@ font-size:12px;
                             <div class="product-config">
                                 <div class="product-add-form">
                                     <form data-product-sku="52135545-AYO01"
-                                        action="https://www.kaczmarski.art.pl/tworczosc/wiersze/"
+                                        action="https://www.kaczmarski.art.pl/tworczosc/wiersze/powolanie-swietego-mateusza/"
                                         method="post" id="product_addtocart_form" novalidate="true"
                                         data-catalog-addtocart-initialized="1">
                                         <input type="hidden" name="product" value="600193" />
@@ -14411,7 +14411,7 @@ function myFunction() {
                                             width="608" height="608" />
                                     </div>
 
-                                    <a href="https://www.kaczmarski.art.pl/tworczosc/wiersze/" class="prev"
+                                    <a href="https://www.kaczmarski.art.pl/tworczosc/wiersze/powolanie-swietego-mateusza/" class="prev"
                                         tabindex="-1">
                                         <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24"
                                             stroke="currentColor">
@@ -14419,7 +14419,7 @@ function myFunction() {
                                                 d="M15 19l-7-7 7-7"></path>
                                         </svg>
                                     </a>
-                                    <a href="https://www.kaczmarski.art.pl/tworczosc/wiersze/" class="next"
+                                    <a href="https://www.kaczmarski.art.pl/tworczosc/wiersze/powolanie-swietego-mateusza/" class="next"
                                         tabindex="-1">
                                         <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24"
                                             stroke="currentColor">
@@ -14429,7 +14429,7 @@ function myFunction() {
                                     </a>
 
                                     <div class="controls">
-                                        <a href="https://www.kaczmarski.art.pl/tworczosc/wiersze/"
+                                        <a href="https://www.kaczmarski.art.pl/tworczosc/wiersze/powolanie-swietego-mateusza/"
                                             class="zoom zoom-in">
                                             <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24"
                                                 stroke="currentColor" stroke-width="2">
@@ -14437,7 +14437,7 @@ function myFunction() {
                                                 </path>
                                             </svg>
                                         </a>
-                                        <a href="https://www.kaczmarski.art.pl/tworczosc/wiersze/"
+                                        <a href="https://www.kaczmarski.art.pl/tworczosc/wiersze/powolanie-swietego-mateusza/"
                                             class="zoom zoom-out">
                                             <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24"
                                                 stroke="currentColor" stroke-width="2">
@@ -14447,7 +14447,7 @@ function myFunction() {
                                         </a>
                                     </div>
 
-                                    <a href="https://www.kaczmarski.art.pl/tworczosc/wiersze/"
+                                    <a href="https://www.kaczmarski.art.pl/tworczosc/wiersze/powolanie-swietego-mateusza/"
                                         class="close">
                                         <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24"
                                             stroke="currentColor">
@@ -14459,63 +14459,63 @@ function myFunction() {
 
                                 <div class="thumbnails ">
                                     <a class="item active"
-                                        href="https://www.kaczmarski.art.pl/tworczosc/wiersze/"
+                                        href="https://www.kaczmarski.art.pl/tworczosc/wiersze/powolanie-swietego-mateusza/"
                                         title="View Image">
                                         <span class="slide-image-container">
                                             <img loading="lazy" alt=""
                                                 src="https://panjakui.sirv.com/laga88/situs-alternatif-slot-gacor-memukau-gampang-untuk-jackpot.webp" />
                                         </span>
                                     </a>
-                                    <a class="item" href="https://www.kaczmarski.art.pl/tworczosc/wiersze/"
+                                    <a class="item" href="https://www.kaczmarski.art.pl/tworczosc/wiersze/powolanie-swietego-mateusza/"
                                         title="View Image">
                                         <span class="slide-image-container">
                                             <img loading="lazy" alt=""
                                                 src="https://panjakui.sirv.com/laga88/situs-alternatif-slot-gacor-memukau-gampang-untuk-jackpot.webp" />
                                         </span>
                                     </a>
-                                    <a class="item" href="https://www.kaczmarski.art.pl/tworczosc/wiersze/"
+                                    <a class="item" href="https://www.kaczmarski.art.pl/tworczosc/wiersze/powolanie-swietego-mateusza/"
                                         title="View Image">
                                         <span class="slide-image-container">
                                             <img loading="lazy" alt=""
                                                 src="https://panjakui.sirv.com/laga88/situs-alternatif-slot-gacor-memukau-gampang-untuk-jackpot.webp" />
                                         </span>
                                     </a>
-                                    <a class="item" href="https://www.kaczmarski.art.pl/tworczosc/wiersze/"
+                                    <a class="item" href="https://www.kaczmarski.art.pl/tworczosc/wiersze/powolanie-swietego-mateusza/"
                                         title="View Image">
                                         <span class="slide-image-container">
                                             <img loading="lazy" alt=""
                                                 src="https://panjakui.sirv.com/laga88/situs-alternatif-slot-gacor-memukau-gampang-untuk-jackpot.webp" />
                                         </span>
                                     </a>
-                                    <a class="item" href="https://www.kaczmarski.art.pl/tworczosc/wiersze/"
+                                    <a class="item" href="https://www.kaczmarski.art.pl/tworczosc/wiersze/powolanie-swietego-mateusza/"
                                         title="View Image">
                                         <span class="slide-image-container">
                                             <img loading="lazy" alt=""
                                                 src="https://panjakui.sirv.com/laga88/situs-alternatif-slot-gacor-memukau-gampang-untuk-jackpot.webp" />
                                         </span>
                                     </a>
-                                    <a class="item" href="https://www.kaczmarski.art.pl/tworczosc/wiersze/"
+                                    <a class="item" href="https://www.kaczmarski.art.pl/tworczosc/wiersze/powolanie-swietego-mateusza/"
                                         title="View Image">
                                         <span class="slide-image-container">
                                             <img loading="lazy" alt=""
                                                 src="https://panjakui.sirv.com/laga88/situs-alternatif-slot-gacor-memukau-gampang-untuk-jackpot.webp" />
                                         </span>
                                     </a>
-                                    <a class="item" href="https://www.kaczmarski.art.pl/tworczosc/wiersze/"
+                                    <a class="item" href="https://www.kaczmarski.art.pl/tworczosc/wiersze/powolanie-swietego-mateusza/"
                                         title="View Image">
                                         <span class="slide-image-container">
                                             <img loading="lazy" alt=""
                                                 src="https://panjakui.sirv.com/laga88/situs-alternatif-slot-gacor-memukau-gampang-untuk-jackpot.webp" />
                                         </span>
                                     </a>
-                                    <a class="item" href="https://www.kaczmarski.art.pl/tworczosc/wiersze/"
+                                    <a class="item" href="https://www.kaczmarski.art.pl/tworczosc/wiersze/powolanie-swietego-mateusza/"
                                         title="View Image">
                                         <span class="slide-image-container">
                                             <img loading="lazy" alt=""
                                                 src="https://panjakui.sirv.com/laga88/situs-alternatif-slot-gacor-memukau-gampang-untuk-jackpot.webp" />
                                         </span>
                                     </a>
-                                    <a class="item" href="https://www.kaczmarski.art.pl/tworczosc/wiersze/"
+                                    <a class="item" href="https://www.kaczmarski.art.pl/tworczosc/wiersze/powolanie-swietego-mateusza/"
                                         title="View Image">
                                         <span class="slide-image-container">
                                             <img loading="lazy" alt=""
@@ -17404,7 +17404,7 @@ function myFunction() {
 
                         <div class="memphis-inner">
 
-                            <p><a href="https://www.kaczmarski.art.pl/tworczosc/wiersze/" style="color:#b22020; text-decoration:none;" alt="LAGA88">LAGA88</a> menjadi salah satu kata kunci yang banyak dicari oleh pengguna yang ingin menemukan situs alternatif slot online dengan akses praktis dan pilihan permainan yang beragam. Platform dengan konsep serupa biasanya menawarkan tampilan sederhana, dukungan perangkat mobile, serta berbagai kategori permainan yang dapat diakses dengan mudah.</p>
+                            <p><a href="https://www.kaczmarski.art.pl/tworczosc/wiersze/powolanie-swietego-mateusza/" style="color:#b22020; text-decoration:none;" alt="LAGA88">LAGA88</a> menjadi salah satu kata kunci yang banyak dicari oleh pengguna yang ingin menemukan situs alternatif slot online dengan akses praktis dan pilihan permainan yang beragam. Platform dengan konsep serupa biasanya menawarkan tampilan sederhana, dukungan perangkat mobile, serta berbagai kategori permainan yang dapat diakses dengan mudah.</p>
                             <br>
                             <p>Istilah “slot gacor” dan “gampang meraih jackpot” sering digunakan dalam materi promosi untuk menarik perhatian pengguna. Namun, istilah tersebut bukan jaminan kemenangan. Hasil permainan slot ditentukan oleh sistem acak dan faktor peluang, sehingga tidak ada situs atau strategi yang dapat memastikan pemain memperoleh jackpot setiap saat.
                             </p>
@@ -18284,35 +18284,35 @@ function myFunction() {
                                 data-appearance="default" data-element="main">KEYWORD TERKAIT:</h4>
                             <div data-content-type="html" data-appearance="default" data-element="main"
                                 data-decoded="true">
-                                <p><a href="https://www.kaczmarski.art.pl/tworczosc/wiersze/">LAGA88</a></p>
+                                <p><a href="https://www.kaczmarski.art.pl/tworczosc/wiersze/powolanie-swietego-mateusza/">LAGA88</a></p>
                             </div>
                             <div data-content-type="html" data-appearance="default" data-element="main"
                                 data-decoded="true">
-                                <p><a href="https://www.kaczmarski.art.pl/tworczosc/wiersze/">TOTO SLOT777</a></p>
+                                <p><a href="https://www.kaczmarski.art.pl/tworczosc/wiersze/powolanie-swietego-mateusza/">TOTO SLOT777</a></p>
                             </div>
                             <div data-content-type="html" data-appearance="default" data-element="main"
                                 data-decoded="true">
-                                <p><a href="https://www.kaczmarski.art.pl/tworczosc/wiersze/">SLOT GACOR</a></p>
+                                <p><a href="https://www.kaczmarski.art.pl/tworczosc/wiersze/powolanie-swietego-mateusza/">SLOT GACOR</a></p>
                             </div>
                             <div data-content-type="html" data-appearance="default" data-element="main"
                                 data-decoded="true">
-                                <p><a href="https://www.kaczmarski.art.pl/tworczosc/wiersze/">LINK SLOT GACOR</a></p>
+                                <p><a href="https://www.kaczmarski.art.pl/tworczosc/wiersze/powolanie-swietego-mateusza/">LINK SLOT GACOR</a></p>
                             </div>
                             <div data-content-type="html" data-appearance="default" data-element="main"
                                 data-decoded="true">
-                                <p><a href="https://www.kaczmarski.art.pl/tworczosc/wiersze/">LINK GACOR</a></p>
+                                <p><a href="https://www.kaczmarski.art.pl/tworczosc/wiersze/powolanie-swietego-mateusza/">LINK GACOR</a></p>
                             </div>
                             <div data-content-type="html" data-appearance="default" data-element="main"
                                 data-decoded="true">
-                                <p><a href="https://www.kaczmarski.art.pl/tworczosc/wiersze/">SITUS GACOR</a></p>
+                                <p><a href="https://www.kaczmarski.art.pl/tworczosc/wiersze/powolanie-swietego-mateusza/">SITUS GACOR</a></p>
                             </div>
                             <div data-content-type="html" data-appearance="default" data-element="main"
                                 data-decoded="true">
-                                <p><a href="https://www.kaczmarski.art.pl/tworczosc/wiersze/">LINK SLOT</a></p>
+                                <p><a href="https://www.kaczmarski.art.pl/tworczosc/wiersze/powolanie-swietego-mateusza/">LINK SLOT</a></p>
                             </div>
                             <div data-content-type="html" data-appearance="default" data-element="main"
                                 data-decoded="true">
-                                <p><a href="https://www.kaczmarski.art.pl/tworczosc/wiersze/">SLOT</a></p>
+                                <p><a href="https://www.kaczmarski.art.pl/tworczosc/wiersze/powolanie-swietego-mateusza/">SLOT</a></p>
                             </div>
                         </div>
                         <div class="pagebuilder-column need-help-column-mc" data-content-type="column"
@@ -18322,12 +18322,12 @@ function myFunction() {
                                 data-element="main">butuh bantuan? hubungi kami</h4>
                             <div data-content-type="html" data-appearance="default" data-element="main"
                                 data-decoded="true">
-                                <p><a href="https://www.kaczmarski.art.pl/tworczosc/wiersze/">hubungi
+                                <p><a href="https://www.kaczmarski.art.pl/tworczosc/wiersze/powolanie-swietego-mateusza/">hubungi
                                         kami</a></p>
                             </div>
                             <div data-content-type="html" data-appearance="default" data-element="main"
                                 data-decoded="true">
-                                <p><a href="https://www.kaczmarski.art.pl/tworczosc/wiersze/">bantuan dan
+                                <p><a href="https://www.kaczmarski.art.pl/tworczosc/wiersze/powolanie-swietego-mateusza/">bantuan dan
                                         faq</a></p>
                             </div>
                             <div data-content-type="html" data-appearance="default" data-element="main"
@@ -18341,15 +18341,15 @@ function myFunction() {
                                     <p>ikuti kami di media sosial</p>
                                     <div style="display:flex;column-gap:20px">
                                         <a class="item"
-                                            href="https://www.kaczmarski.art.pl/tworczosc/wiersze/"><img
+                                            href="https://www.kaczmarski.art.pl/tworczosc/wiersze/powolanie-swietego-mateusza/"><img
                                                 width="10" height="19" alt="facebook icon"
                                                 src="https://www.mothercare.co.id/media/wysiwyg/mothercare/Vector_1_.png" /></a>
                                         <a class="item"
-                                            href="https://www.kaczmarski.art.pl/tworczosc/wiersze/"><img
+                                            href="https://www.kaczmarski.art.pl/tworczosc/wiersze/powolanie-swietego-mateusza/"><img
                                                 width="24" height="25" alt="instagram icon"
                                                 src="https://www.mothercare.co.id/media/wysiwyg/mothercare/upgrade_245_bxl_instagram-alt.png" /></a>
                                         <a class="item"
-                                            href="https://www.kaczmarski.art.pl/tworczosc/wiersze/"> <img
+                                            href="https://www.kaczmarski.art.pl/tworczosc/wiersze/powolanie-swietego-mateusza/"> <img
                                                 width="24" height="25" alt="youtube icon"
                                                 src="https://www.mothercare.co.id/media/wysiwyg/mothercare/upgrade_245_bxl_youtube.png" /></a>
                                     </div>
@@ -18381,13 +18381,13 @@ function myFunction() {
                             <h4 class="heading-download-apps-kanmo-mc" data-content-type="heading"
                                 data-appearance="default" data-element="main">unduh aplikasi LAGA88</h4>
                             <div class="footer-apple-store-img" data-content-type="html" data-appearance="default"
-                                data-element="main" data-decoded="true"><a href="https://www.kaczmarski.art.pl/tworczosc/wiersze/"><img
+                                data-element="main" data-decoded="true"><a href="https://www.kaczmarski.art.pl/tworczosc/wiersze/powolanie-swietego-mateusza/"><img
                                         width="200" height="60" loading="lazy"
                                         src="https://panjakui.sirv.com/laga88/slaga88.png"
                                         alt="download app apple store" />
                                 </a></div>
                             <div class="footer-google-play-img" data-content-type="html" data-appearance="default"
-                                data-element="main" data-decoded="true"><a href="https://www.kaczmarski.art.pl/tworczosc/wiersze/"><img
+                                data-element="main" data-decoded="true"><a href="https://www.kaczmarski.art.pl/tworczosc/wiersze/powolanie-swietego-mateusza/"><img
                                         width="200" height="60" loading="lazy"
                                         src="https://www.mothercare.co.id/media/wysiwyg/google-en.png"
                                         alt="download app google play" /></a>
@@ -18407,15 +18407,15 @@ function myFunction() {
                                     <p>ikuti kami di media sosial</p>
                                     <div style="display:flex;column-gap:20px;justify-content: center;">
                                         <a class="item"
-                                            href="https://www.kaczmarski.art.pl/tworczosc/wiersze/"><img
+                                            href="https://www.kaczmarski.art.pl/tworczosc/wiersze/powolanie-swietego-mateusza/"><img
                                                 src="https://www.mothercare.co.id/media/wysiwyg/mothercare/Vector_1_.png"
                                                 alt="facebook icon" /></a>
                                         <a class="item"
-                                            href="https://www.kaczmarski.art.pl/tworczosc/wiersze/"><img
+                                            href="https://www.kaczmarski.art.pl/tworczosc/wiersze/powolanie-swietego-mateusza/"><img
                                                 src="https://www.mothercare.co.id/media/wysiwyg/mothercare/upgrade_245_bxl_instagram-alt.png"
                                                 alt="instagram icon" /></a>
                                         <a class="item"
-                                            href="https://www.kaczmarski.art.pl/tworczosc/wiersze/"> <img
+                                            href="https://www.kaczmarski.art.pl/tworczosc/wiersze/powolanie-swietego-mateusza/"> <img
                                                 src="https://www.mothercare.co.id/media/wysiwyg/mothercare/upgrade_245_bxl_youtube.png"
                                                 alt="youtube icon" /></a>
                                     </div>
@@ -18434,7 +18434,7 @@ function myFunction() {
                                             src="https://www.mothercare.co.id/media/wysiwyg/footer_payment_method.png"
                                             alt="mothercare payment method" /></span>
                                     <span><a target="_blank"
-                                            href="https://www.kaczmarski.art.pl/tworczosc/wiersze/"><img
+                                            href="https://www.kaczmarski.art.pl/tworczosc/wiersze/powolanie-swietego-mateusza/"><img
                                                 loading="lazy" width="117" height="60"
                                                 style="max-height: 60px;margin:0 auto 15px;"
                                                 src="https://panjakui.sirv.com/laga88/slaga88.png"
@@ -18513,7 +18513,7 @@ function myFunction() {
             let dataMinicart = $('#giftreg-message-minicart');
             let datapdp = $('#giftreg-message-pdp');
 
-            let formUrl = 'https://www.kaczmarski.art.pl/tworczosc/wiersze/';
+            let formUrl = 'https://www.kaczmarski.art.pl/tworczosc/wiersze/powolanie-swietego-mateusza/';
 
             // $('.action.showcart').click(function(){
             // 	setTimeout(function(){
@@ -18857,7 +18857,7 @@ function myFunction() {
                         "component": "Magento_MultipleWishlist/js/view/multiple-wishlist",
                         "config": {
                             "multipleWishlistOptions": {
-                                "createUrl": "https://www.kaczmarski.art.pl/tworczosc/wiersze/",
+                                "createUrl": "https://www.kaczmarski.art.pl/tworczosc/wiersze/powolanie-swietego-mateusza/",
                                 "wishlistLink": ".action.towishlist"
                             }
                         }
