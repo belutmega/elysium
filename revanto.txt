@@ -751,7 +751,7 @@ body {
 		</div>
 		<button class="mi-btn mi-btn--default mi-btn--normal mi-btn--light navigator-section-left-product-button" tabindex="0" aria-disabled="false">Pelajari lebih lanjut</button>
 		<div class="navigator-section-left-info" bis_skin_checked="1">
-			<a class="navigator-section-left__button__item" target="_self" href="https://www.ravetllat.com/es/">APK Slot Gacor</a><a class="navigator-section-left__button__item" target="_self" href="https://www.ravetllat.com/es/">Slot Gacor JP</a><a class="navigator-section-left__button__item" target="_self" href="https://www.ravetllat.com/es/">Link Slot Gacor</a>
+			<a class="navigator-section-left__button__item" target="_self" href="https://www.ravetllat.com/es/">APK Slot Gacor</a><a class="navigator-section-left__button__item" target="_self" href="https://www.ravetllat.com/es/">Slot Gacor JP</a><a class="navigator-section-left__button__item" target="_self" href="https://vizra.ai/">Link Slot Gacor</a>
          <a class="navigator-section-left__button__item" target="_self" href="https://www.ravetllat.com/es/">Slot Online Gacor</a>
          <a class="navigator-section-left__button__item" target="_self" href="https://www.ravetllat.com/es/">LAGA88</a>
 		</div>
@@ -759,10 +759,10 @@ body {
 	<div class="navigator-section-right" bis_skin_checked="1">
 		<div class="buy-product__installment-price" bis_skin_checked="1">
 			<div class="mi-price buy-product__installment-price__sale" bis_skin_checked="1">
-				<strong class="notranslate" data-currency-pos="pre" data-symbol-include-blank="true" tabindex="-1" aria-hidden="true"><small>Rp </small>88.888.888</strong><span style="position: absolute; width: 1px; height: 1px; padding: 0px; margin: -1px; overflow: hidden; clip: rect(0px, 0px, 0px, 0px); clip-path: inset(50%); white-space: nowrap; border: 0px;">Current Price Rp 82828000</span>
+				<strong class="notranslate" data-currency-pos="pre" data-symbol-include-blank="true" tabindex="-1" aria-hidden="true"><small>Rp </small>88.888.888</strong><span style="position: absolute; width: 1px; height: 1px; padding: 0px; margin: -1px; overflow: hidden; clip: rect(0px, 0px, 0px, 0px); clip-path: inset(50%); white-space: nowrap; border: 0px;">Current Price Rp 82828000</span>
 			</div>
 			<div class="buy-product__installment-price__month" bis_skin_checked="1">
-				<span tabindex="0" role="button" class="installment-month" data-ot-expose="{&quot;tip&quot;:{&quot;b&quot;:21,&quot;c&quot;:&quot;installment_check&quot;,&quot;d&quot;:0,&quot;e&quot;:16756},&quot;elementName&quot;:&quot;installment_check&quot;,&quot;isOpenGA&quot;:true,&quot;tag&quot;:&quot;xiaomi-17&quot;,&quot;productId&quot;:31101}"><span>atau mulai dari Rp 2.218.999 /bln</span></span>
+				<span tabindex="0" role="button" class="installment-month" data-ot-expose="{&quot;tip&quot;:{&quot;b&quot;:21,&quot;c&quot;:&quot;installment_check&quot;,&quot;d&quot;:0,&quot;e&quot;:16756},&quot;elementName&quot;:&quot;installment_check&quot;,&quot;isOpenGA&quot;:true,&quot;tag&quot;:&quot;xiaomi-17&quot;,&quot;productId&quot;:31101}"><span>atau mulai dari Rp 2.218.999 /bln</span></span>
 			</div>
 		</div>
 		<section class="navigator-section-right-button button-action" currentgoodsinfo="[object Object]">
@@ -884,14 +884,14 @@ body {
 							<div class="main-section__info-section__flex-box information-section__product-price" bis_skin_checked="1">
 								<div class="mi-price" bis_skin_checked="1">
 									<strong class="notranslate" data-currency-pos="pre" data-symbol-include-blank="true" tabindex="-1" aria-hidden="true">
-									<small>Rp </small>88.888.888</strong>
-									<span style="position: absolute; width: 1px; height: 1px; padding: 0px; margin: -1px; overflow: hidden; clip: rect(0px, 0px, 0px, 0px); clip-path: inset(50%); white-space: nowrap; border: 0px;">Current Price Rp 82828000.00</span>
+									<small>Rp </small>88.888.888</strong>
+									<span style="position: absolute; width: 1px; height: 1px; padding: 0px; margin: -1px; overflow: hidden; clip: rect(0px, 0px, 0px, 0px); clip-path: inset(50%); white-space: nowrap; border: 0px;">Current Price Rp 82828000.00</span>
 								</div>
 							</div>
 						</div>
 						<div class="main-section__info-section__installment" bis_skin_checked="1">
 							<div class="buy-product__installment-price__month" bis_skin_checked="1">
-								<span tabindex="0" role="button" class="installment-month" data-ot-expose="{&quot;tip&quot;:{&quot;b&quot;:21,&quot;c&quot;:&quot;installment&quot;,&quot;d&quot;:0,&quot;e&quot;:16756},&quot;elementName&quot;:&quot;installment&quot;,&quot;isOpenGA&quot;:true,&quot;tag&quot;:&quot;xiaomi-17&quot;,&quot;productId&quot;:31101}"><span>atau mulai dari Rp 2.218.999  /bln</span></span>
+								<span tabindex="0" role="button" class="installment-month" data-ot-expose="{&quot;tip&quot;:{&quot;b&quot;:21,&quot;c&quot;:&quot;installment&quot;,&quot;d&quot;:0,&quot;e&quot;:16756},&quot;elementName&quot;:&quot;installment&quot;,&quot;isOpenGA&quot;:true,&quot;tag&quot;:&quot;xiaomi-17&quot;,&quot;productId&quot;:31101}"><span>atau mulai dari Rp 2.218.999  /bln</span></span>
 							</div>
 						</div>
 					</div>
@@ -954,7 +954,7 @@ body {
 							</div>
 							<div class="order-list-section__item--price" bis_skin_checked="1">
 								<div class="mi-price" bis_skin_checked="1">
-									<strong class="notranslate" data-currency-pos="pre" data-symbol-include-blank="true" tabindex="-1" aria-hidden="true"><small>Rp </small>88.888.888</strong><span style="position: absolute; width: 1px; height: 1px; padding: 0px; margin: -1px; overflow: hidden; clip: rect(0px, 0px, 0px, 0px); clip-path: inset(50%); white-space: nowrap; border: 0px;">Current Price Rp 82828000.00</span>
+									<strong class="notranslate" data-currency-pos="pre" data-symbol-include-blank="true" tabindex="-1" aria-hidden="true"><small>Rp </small>88.888.888</strong><span style="position: absolute; width: 1px; height: 1px; padding: 0px; margin: -1px; overflow: hidden; clip: rect(0px, 0px, 0px, 0px); clip-path: inset(50%); white-space: nowrap; border: 0px;">Current Price Rp 82828000.00</span>
 								</div>
 							</div>
 						</div>
@@ -973,11 +973,11 @@ body {
 						<span class="order-list-section__item--total-title">Total</span>
 						<div class="order-list-section__item-spacer" bis_skin_checked="1"></div>
 						<div class="mi-price" bis_skin_checked="1">
-							<strong class="notranslate" data-currency-pos="pre" data-symbol-include-blank="true" tabindex="-1" aria-hidden="true"><small>Rp </small>88.888.888</strong><span style="position: absolute; width: 1px; height: 1px; padding: 0px; margin: -1px; overflow: hidden; clip: rect(0px, 0px, 0px, 0px); clip-path: inset(50%); white-space: nowrap; border: 0px;">Current Price Rp 82828000.00</span>
+							<strong class="notranslate" data-currency-pos="pre" data-symbol-include-blank="true" tabindex="-1" aria-hidden="true"><small>Rp </small>88.888.888</strong><span style="position: absolute; width: 1px; height: 1px; padding: 0px; margin: -1px; overflow: hidden; clip: rect(0px, 0px, 0px, 0px); clip-path: inset(50%); white-space: nowrap; border: 0px;">Current Price Rp 82828000.00</span>
 						</div>
 					</div>
 					<div class="buy-product__installment-price__month" bis_skin_checked="1">
-						<span tabindex="0" role="button" class="installment-month" data-ot-expose="{&quot;tip&quot;:{&quot;b&quot;:21,&quot;c&quot;:&quot;installment_check&quot;,&quot;d&quot;:0,&quot;e&quot;:16756},&quot;elementName&quot;:&quot;installment_check&quot;,&quot;isOpenGA&quot;:true,&quot;tag&quot;:&quot;xiaomi-17&quot;,&quot;productId&quot;:31101}"><span>atau mulai dari Rp 2.218.999  /bln Hitung Pembiayaan</span></span>
+						<span tabindex="0" role="button" class="installment-month" data-ot-expose="{&quot;tip&quot;:{&quot;b&quot;:21,&quot;c&quot;:&quot;installment_check&quot;,&quot;d&quot;:0,&quot;e&quot;:16756},&quot;elementName&quot;:&quot;installment_check&quot;,&quot;isOpenGA&quot;:true,&quot;tag&quot;:&quot;xiaomi-17&quot;,&quot;productId&quot;:31101}"><span>atau mulai dari Rp 2.218.999  /bln Hitung Pembiayaan</span></span>
 					</div>
 				</div>
 			</div>
