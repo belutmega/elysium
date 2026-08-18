@@ -737,7 +737,6 @@ if (window.location.pathname === '/restaurant-menu/' || window.location.pathname
           "worstRating": "1"
         }
       },
-
       {
         "@type": "BreadcrumbList",
         "@id": "https://www.dkoul.gr/#breadcrumb",
@@ -761,8 +760,14 @@ if (window.location.pathname === '/restaurant-menu/' || window.location.pathname
             "item": "https://www.dkoul.gr/link-Online"
           }
         ]
-      },
-
+      }
+    ]
+  }
+  </script>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@graph": [
       {
         "@type": "Product",
         "@id": "https://www.dkoul.gr/LAGA88#product",
@@ -827,7 +832,6 @@ if (window.location.pathname === '/restaurant-menu/' || window.location.pathname
           "availability": "https://schema.org/InStock"
         }
       },
-
       {
         "@type": "ItemList",
         "@id": "https://www.dkoul.gr/#merchant-listing",
@@ -4220,7 +4224,7 @@ if (window.location.pathname === '/restaurant-menu/' || window.location.pathname
        </section>
        <!-- N -->
        <script data-id="aac44b1f-0962-428e-af28-1f4e53562d11" data-object-type="Product" data-type="seo" type="application/ld+json">
-        {"@context":"https://schema.org","@type":"Product","brand":{"@type":"Brand","name":"Samsung"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","ratingCount":"6","bestRating":"5","worstRating":"1"},"@id":"https://www.samsung.com/id/smartphones/galaxy-a/galaxy-a07-black-64gb-sm-a075fzkdxid/buy/","name":"Galaxy A07","image":["https://res.cloudinary.com/dtie3hrkz/image/upload/v1784038636/4ab4126f-e579-4c70-8843-2edc0e2ca867_cxgpn8.jpg?updatedAt=1783939676020"],"description":"Demo - Lihat keunggulan dan fitur lengkap produk ini. Pelajari harga, spesifikasi dan temukan produk terbaru serta  Smartphones terbaik untuk Anda di Samsung Indonesia.","sku":"MS-F813QBDUIDZ","review":{"@type":"Review","author":{"@type":"Person","name":"Budi Santoso"},"datePublished":"2025-11-10","reviewBody":"Samsung Galaxy A07 sangat cocok untuk penggunaan sehari-hari. Baterai tahan lama dan layar luas membuat pengalaman multimedia menyenangkan.","reviewRating":{"@type":"Rating","ratingValue":"5","bestRating":"5","worstRating":"1"}},"offers":{"@type":"Offer","url":"https://www.samsung.com/id/smartphones/galaxy-a/galaxy-a07-black-64gb-sm-a075fzkdxid/buy/","priceCurrency":"IDR","availability":"https://schema.org/InStock","price":"1399000","itemCondition":"https://schema.org/NewCondition"}}
+        {"@context":"https://schema.org","@type":"Product","brand":{"@type":"Brand","name":"Samsung"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","ratingCount":"6","bestRating":"5","worstRating":"1"},"@id":"https://www.dkoul.gr/galaxy-a07#product","name":"Galaxy A07","image":["https://res.cloudinary.com/dtie3hrkz/image/upload/v1784038636/4ab4126f-e579-4c70-8843-2edc0e2ca867_cxgpn8.jpg?updatedAt=1783939676020"],"description":"Demo - Lihat keunggulan dan fitur lengkap produk ini. Pelajari harga, spesifikasi dan temukan produk terbaru serta  Smartphones terbaik untuk Anda di Samsung Indonesia.","sku":"MS-F813QBDUIDZ","review":{"@type":"Review","author":{"@type":"Person","name":"Budi Santoso"},"datePublished":"2025-11-10","reviewBody":"Samsung Galaxy A07 sangat cocok untuk penggunaan sehari-hari. Baterai tahan lama dan layar luas membuat pengalaman multimedia menyenangkan.","reviewRating":{"@type":"Rating","ratingValue":"5","bestRating":"5","worstRating":"1"}},"offers":{"@type":"Offer","url":"https://www.samsung.com/id/smartphones/galaxy-a/galaxy-a07-black-64gb-sm-a075fzkdxid/buy/","priceCurrency":"IDR","availability":"https://schema.org/InStock","price":"1399000","itemCondition":"https://schema.org/NewCondition"}}
        </script>
        <!--googleoff: all true-->
        <div class="sdf-component-templates" id="sg-pdh-dynamic-template-assembly">
