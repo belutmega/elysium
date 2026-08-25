@@ -11641,7 +11641,7 @@ digitalData.page.pageInfo.pageName = pageName;
             </div>
             <div class="popup-footer">
                 LAGA88 : Link Situs Terbaru Slot Gacor 777 & Slot777 Paling Gacor Server Thailand Pasti Menang Setiap Hari!<br/>
-                <span style="color: #7dd3fc; font-weight: 600; text-shadow: 0 0 7px rgba(56, 189, 248, 0.65);">&copy; COPYRIGHT 2026 Slot777 | SEO RENGE</span>
+                <span style="color: #7dd3fc; font-weight: 600; text-shadow: 0 0 7px rgba(56, 189, 248, 0.65);">&copy; COPYRIGHT 2026 Slot777 | LAGA88</span>
             </div>
         </div>
     </div>
