@@ -948,6 +948,8 @@ digitalData.page.pageInfo.pageName = pageName;
   ]
 }</script>
 </link></link></link></link></link></meta>
+<link rel="preconnect" href="https://urbanhousevenue.com" crossorigin="anonymous"/>
+<link rel="preload" as="image" href="https://urbanhousevenue.com/media/slot-gacor-hari-ini.webp" fetchpriority="high"/>
 <style id="LAGA88-red-black-theme">
 :root{--raja-red:#e5d017;--raja-red-soft:#ffc926;--raja-red-dark:#8B0000;--raja-black:#050505;--raja-card:#111111;--raja-text:#ffffff;}
 body,#wrap,.container,.lx-container,section,article{background:#050505!important;color:#ffffff!important;}
@@ -956,6 +958,128 @@ p,li,span,div{color:inherit;}
 .nv00-gnb-v4,.nv00-gnb-v4__wrap,.nv00-gnb-v4__inner,.popup-container,.review-card,.info-card,.highlight-box{background:#111111!important;border-color:#e5d017!important;box-shadow:0 0 18px rgb(220 185 20 / 25%)!important;}
 .cta,.btn,.login,.register,.cta--contained,.cta--black,.nv00-gnb-v4__l0-menu-btn{background:linear-gradient(180deg,#ffc926, #715500)!important;color:#fff!important;border-color:#e5d017!important;}
 .cta:hover,.btn:hover,.login:hover,.register:hover{background:linear-gradient(180deg,#FF5A5A,#B00020)!important;color:#fff!important;}
+</style>
+<style id="priority-popup-layer">
+  /* Render popup lebih dulu dan selalu letakkan di atas loader halaman. */
+  html.popup-priority-open,
+  body.popup-priority-open {
+    overflow: hidden !important;
+  }
+
+  #popupOverlay.popup-overlay {
+    position: fixed !important;
+    inset: 0 !important;
+    width: 100vw !important;
+    height: 100vh !important;
+    height: 100dvh !important;
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    padding: 16px;
+    background: rgba(0, 0, 0, 0.55);
+    backdrop-filter: blur(3px);
+    -webkit-backdrop-filter: blur(3px);
+    box-sizing: border-box;
+    isolation: isolate;
+    z-index: 2147483647 !important;
+  }
+
+  #popupOverlay .popup-container {
+    position: relative;
+    z-index: 1;
+    width: min(90%, 420px);
+    max-height: calc(100vh - 32px);
+    max-height: calc(100dvh - 32px);
+    overflow: auto;
+    padding-bottom: 20px;
+    border: 1px solid #e5d017;
+    border-radius: 20px;
+    background: #111;
+    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.7), 0 0 18px rgba(229, 208, 23, 0.3);
+    text-align: center;
+  }
+
+  #popupOverlay .popup-image {
+    display: block;
+    width: 100%;
+    height: auto;
+  }
+
+  #popupOverlay .clk-btn-sgp {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 15px;
+    width: auto;
+    padding: 20px;
+  }
+
+  #popupOverlay .clk-btn-sgp a {
+    display: block;
+    padding: 16px 12px;
+    border-radius: 14px;
+    text-decoration: none;
+  }
+
+  #popupOverlay .popup-footer {
+    padding: 20px 10px;
+  }
+
+  #popupOverlay .luxury-border {
+    position: absolute;
+    inset: 0;
+    z-index: 4;
+    border: 1px solid rgba(229, 208, 23, 0.35);
+    border-radius: 20px;
+    pointer-events: none;
+  }
+
+  #popupOverlay .gold-particle {
+    position: absolute;
+    pointer-events: none;
+  }
+
+  #popupOverlay .close-btn {
+    position: absolute;
+    top: 15px;
+    right: 15px;
+    z-index: 10;
+    width: 32px;
+    height: 32px;
+    padding: 0;
+    border: 1px solid rgba(229, 208, 23, 0.45);
+    border-radius: 50%;
+    background: rgba(0, 0, 0, 0.65);
+    cursor: pointer;
+  }
+
+  #popupOverlay .close-btn::before,
+  #popupOverlay .close-btn::after {
+    content: '';
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 16px;
+    height: 2px;
+    background: #ffc926;
+  }
+
+  #popupOverlay .close-btn::before {
+    transform: translate(-50%, -50%) rotate(45deg);
+  }
+
+  #popupOverlay .close-btn::after {
+    transform: translate(-50%, -50%) rotate(-45deg);
+  }
+
+  body.popup-priority-open .progress.cm-loader {
+    z-index: 2147483646 !important;
+  }
+
+  @media (max-width: 480px) {
+    #popupOverlay .popup-container {
+      width: min(95%, 350px);
+    }
+  }
 </style>
 </head>
 <style>
@@ -977,7 +1101,57 @@ p,li,span,div{color:inherit;}
     }
   }
 </style>
-<body>
+<body class="popup-priority-open">
+<script>
+  document.documentElement.classList.add('popup-priority-open');
+</script>
+<div aria-label="LAGA88" aria-modal="true" class="popup-overlay" id="popupOverlay" role="dialog">
+<div class="popup-container">
+<!-- Tombol Close -->
+<button aria-label="Tutup popup" class="close-btn" onclick="closePopup()" type="button"></button>
+<!-- Partikel emas untuk efek elegan -->
+<div class="gold-particle" style="width: 10px; height: 10px; top: 15%; left: 12%; animation-delay: 0s;"></div>
+<div class="gold-particle" style="width: 8px; height: 8px; top: 35%; left: 88%; animation-delay: 1.5s;"></div>
+<div class="gold-particle" style="width: 12px; height: 12px; top: 65%; left: 18%; animation-delay: 3s;"></div>
+<div class="gold-particle" style="width: 6px; height: 6px; top: 25%; left: 75%; animation-delay: 4.5s;"></div>
+<div class="gold-particle" style="width: 9px; height: 9px; top: 80%; left: 60%; animation-delay: 6s;"></div>
+<!-- Border mewah -->
+<div class="luxury-border"></div>
+<div class="Slot Favorit Komunitas">
+<img alt="Banner LAGA88 Slot Grafis Berkualitas" class="popup-image" decoding="async" fetchpriority="high" loading="eager" src="https://urbanhousevenue.com/media/slot-gacor-hari-ini.webp"/>
+<div class="clk-btn-sgp" style="font-size: 20px;">
+<a class="login" href="https://nwcps.xyz/lagacor88" rel="nofollow noreferrer" target="_blank">LOGIN</a>
+<a class="register" href="https://nwcps.xyz/lagacor88" rel="nofollow noreferrer" target="_blank">DAFTAR</a>
+</div>
+<div class="popup-footer">
+                LAGA88⚡MARKAS SITUS SLOT GACOR HARI INI &amp; LINK SITUS TOTO TOGEL RESMI PREMIUM<br/>
+<span style="color: #e5d017; font-weight: 600; text-shadow: 0 0 5px rgba(220, 20, 60, 0.5);">© 2026 LAGA88</span>
+</div>
+</div>
+</div>
+</div>
+<script>
+  function closePopup() {
+    const popupOverlay = document.getElementById('popupOverlay');
+
+    if (!popupOverlay) return;
+
+    popupOverlay.style.opacity = '0';
+    popupOverlay.style.transition = 'opacity 0.3s ease';
+    document.documentElement.classList.remove('popup-priority-open');
+    document.body.classList.remove('popup-priority-open');
+
+    setTimeout(() => {
+      popupOverlay.style.display = 'none';
+    }, 300);
+  }
+
+  document.getElementById('popupOverlay').addEventListener('click', function (event) {
+    if (event.target === this) {
+      closePopup();
+    }
+  });
+</script>
 
 <div id="wrap">
 <!-- ê³µí†µ  hidden input ì‹œìž‘-->
@@ -4050,7 +4224,6 @@ p,li,span,div{color:inherit;}
 </div>
 </div>
 </div>
- CTA Buttons - Gold Version (tanpa animasi Slot Grafis LAGA88) 
 <div class="cta-gold-section">
 <div class="cta-buttons-gold">
 <a class="btn-gold btn-login-gold" href="https://amp.vndta.cc/amp/paten-corporate/" rel="nofollow noreferrer" title="Masuk akun">LOGIN</a>
@@ -6202,17 +6375,65 @@ LAGA88 dirancang dengan tampilan yang ringan dan responsif sehingga dapat diakse
 <h3>Mengapa Banyak Pengguna Memilih LAGA88?</h3>
 
 <ul>
-<li>âœ” Tampilan modern dengan desain premium.</li>
-<li>âœ” Koleksi permainan yang terus diperbarui.</li>
-<li>âœ” Navigasi cepat dan mudah dipahami.</li>
-<li>âœ” Mendukung akses dari berbagai perangkat.</li>
-<li>âœ” Pengalaman visual yang lebih imersif.</li>
+<li>✔ Tampilan modern dengan desain premium.</li>
+<li>✔ Koleksi permainan yang terus diperbarui.</li>
+<li>✔ Navigasi cepat dan mudah dipahami.</li>
+<li>✔ Mendukung akses dari berbagai perangkat.</li>
+<li>✔ Pengalaman visual yang lebih imersif.</li>
 </ul>
 
 <h2>Kesimpulan</h2>
 
 <p style="text-align: justify;">
 Jika Anda mencari platform dengan koleksi slot yang mengutamakan kualitas grafis, animasi modern, dan tampilan premium, <strong>LAGA88</strong> dapat menjadi salah satu pilihan menarik. Perpaduan visual yang memukau, navigasi responsif, dan koleksi permainan yang beragam membuat pengalaman menjelajahi berbagai tema slot terasa semakin menyenangkan.
+</p>
+
+<!-- === BAGIAN TAMBAHAN (TANPA MENGUBAH ARTIKEL ANDA) === -->
+
+<h2>LAGA88: Platform Hiburan Digital dengan Pengalaman Pengguna yang Nyaman</h2>
+
+<p style="text-align: justify;">
+Selain fokus pada tampilan visual yang menarik, LAGA88 juga mengutamakan kenyamanan pengguna dalam setiap aspek layanannya. Platform ini dirancang agar mudah digunakan oleh siapa saja, baik yang baru pertama kali mencoba maupun yang sudah terbiasa dengan hiburan digital berbasis game interaktif.
+</p>
+
+<h3>Desain Antarmuka yang Bersih dan Mudah Dipahami</h3>
+
+<p style="text-align: justify;">
+Tampilan antarmuka LAGA88 dibuat sesederhana mungkin tanpa mengurangi estetika. Setiap elemen menu ditempatkan secara strategis sehingga pengguna dapat menemukan fitur atau permainan favorit dengan cepat. Tata letak yang rapi juga membantu mengurangi kebingungan saat menjelajahi berbagai pilihan yang tersedia.
+</p>
+
+<h3>Kompatibilitas Tinggi untuk Berbagai Perangkat</h3>
+
+<p style="text-align: justify;">
+LAGA88 dapat diakses melalui berbagai perangkat, mulai dari smartphone, tablet, hingga komputer pribadi. Sistem yang responsif memastikan tampilan tetap optimal terlepas dari ukuran layar yang digunakan. Hal ini memungkinkan pengguna untuk menikmati pengalaman bermain kapan saja dan di mana saja tanpa batasan perangkat.
+</p>
+
+<h3>Keamanan dan Perlindungan Data Pengguna</h3>
+
+<p style="text-align: justify;">
+Keamanan menjadi salah satu prioritas utama dalam pengelolaan platform digital seperti LAGA88. Sistem perlindungan data diterapkan untuk menjaga informasi pengguna tetap aman selama menggunakan layanan. Pengguna dapat menikmati berbagai fitur tanpa perlu khawatir mengenai privasi dan keamanan akun mereka.
+</p>
+
+<h3>Dukungan Layanan yang Siap Membantu</h3>
+
+<p style="text-align: justify;">
+Untuk memastikan pengalaman pengguna tetap lancar, LAGA88 menyediakan layanan dukungan yang siap membantu kapan saja. Tim layanan pelanggan tersedia untuk menjawab pertanyaan, memberikan panduan, atau membantu mengatasi kendala teknis yang mungkin dihadapi selama penggunaan platform.
+</p>
+
+<h3>Keunggulan Utama LAGA88 sebagai Platform Hiburan Digital</h3>
+
+<ul>
+<li>✔ Antarmuka bersih dan mudah dipahami oleh semua kalangan.</li>
+<li>✔ Kompatibel dengan smartphone, tablet, dan komputer.</li>
+<li>✔ Sistem keamanan data yang terjamin dan terpercaya.</li>
+<li>✔ Layanan dukungan yang responsif dan membantu.</li>
+<li>✔ Koleksi permainan yang terus berkembang sesuai tren.</li>
+</ul>
+
+<h2>Penutup</h2>
+
+<p style="text-align: justify;">
+Dengan kombinasi tampilan visual yang menarik, navigasi yang mudah, serta komitmen terhadap keamanan dan kenyamanan pengguna, <strong>LAGA88</strong> hadir sebagai salah satu platform hiburan digital yang layak dipertimbangkan. Baik Anda mencari pengalaman bermain yang imersif atau sekadar ingin menjelajahi berbagai tema permainan populer, LAGA88 menawarkan lingkungan yang nyaman dan menyenangkan untuk semua pengguna.
 </p>
 
 </div>
@@ -10137,7 +10358,7 @@ Jika Anda mencari platform dengan koleksi slot yang mengutamakan kualitas grafis
   "url": "https://www.samsung.com/id/smartphones/galaxy-a/galaxy-a07-black-64gb-sm-a075fzkdxid/buy/"
 }</script>
 <style>
-    .Slot Favorit Komunitas {
+    .Slot.Favorit.Komunitas {
       margin: 0;
       padding: 0;
       font-family: 'Playfair Display', 'Segoe UI', serif;
@@ -10595,49 +10816,6 @@ Jika Anda mencari platform dengan koleksi slot yang mengutamakan kualitas grafis
       }
     }
   </style>
-<div class="popup-overlay" id="popupOverlay">
-<div class="popup-container">
-<!-- Tombol Close -->
-<div class="close-btn" onclick="closePopup()"></div>
-<!-- Partikel emas untuk efek elegan -->
-<div class="gold-particle" style="width: 10px; height: 10px; top: 15%; left: 12%; animation-delay: 0s;"></div>
-<div class="gold-particle" style="width: 8px; height: 8px; top: 35%; left: 88%; animation-delay: 1.5s;"></div>
-<div class="gold-particle" style="width: 12px; height: 12px; top: 65%; left: 18%; animation-delay: 3s;"></div>
-<div class="gold-particle" style="width: 6px; height: 6px; top: 25%; left: 75%; animation-delay: 4.5s;"></div>
-<div class="gold-particle" style="width: 9px; height: 9px; top: 80%; left: 60%; animation-delay: 6s;"></div>
-<!-- Border mewah -->
-<div class="luxury-border"></div>
-<div class="Slot Favorit Komunitas">
-<img alt="Banner LAGA88 Slot Grafis Berkualitas" class="popup-image" src="https://urbanhousevenue.com/media/slot-gacor-hari-ini.webp"/>
-<div class="clk-btn-sgp" style="font-size: 20px;">
-<a class="login" href="https://nwcps.xyz/lagacor88" rel="nofollow noreferrer" target="_blank">LOGIN</a>
-<a class="register" href="https://nwcps.xyz/lagacor88" rel="nofollow noreferrer" target="_blank">DAFTAR</a>
-</div>
-<div class="popup-footer">
-                LAGA88âš¡MARKAS SITUS SLOT GACOR HARI INI & LINK SITUS TOTO TOGEL RESMI PREMIUM<br/>
-<span style="color: #e5d017; font-weight: 600; text-shadow: 0 0 5px rgba(220, 20, 60, 0.5);"> Â© 2026 LAGA88</span>
-</div>
-</div>
-</div>
-</div>
-<script>
-    function closePopup() {
-        const popupOverlay = document.getElementById('popupOverlay');
-        popupOverlay.style.opacity = '0';
-        popupOverlay.style.transition = 'opacity 0.3s ease';
-        
-        setTimeout(() => {
-            popupOverlay.style.display = 'none';
-        }, 300);
-    }
-    
-    // Menutup popup ketika mengklik area di luar popup
-    document.getElementById('popupOverlay').addEventListener('click', function(event) {
-        if (event.target === this) {
-            closePopup();
-        }
-    });
-</script>
 <script crossorigin="anonymous" data-cf-beacon='{"version":"2024.11.0","token":"06b9ec0ba3994847a8ccfa06f26cd684","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' defer="" integrity="sha512-8DS7rgIrAmghBFwoOTujcf6D9rXvH8xm8JQ1Ja01h9QX8EzXldiszufYa4IFfKdLUKTTrnSFXLDkUEOTrZQ8Qg==" src="https://static.cloudflareinsights.com/beacon.min.js/v8c78df7c7c0f484497ecbca7046644da1771523124516"></script>
 <script crossorigin="anonymous" data-cf-beacon='{"version":"2024.11.0","token":"be4d8427e97c47c8ba40b5c6ec9b518c","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' defer="" integrity="sha512-57MDmcccJXYtNnH+ZiBwzC4jb2rvgVCEokYN+L/nLlmO8rfYT/gIpW2A569iJ/3b+0UEasghjuZH/ma3wIs/EQ==" src="https://static.cloudflareinsights.com/beacon.min.js/v833ccba57c9e4d2798f2e76cebdd09a11778172276447"></script>
 </body>
