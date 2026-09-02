@@ -1,0 +1,748 @@
+<!doctype html>
+<html lang="id">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
+    <title>AVARA88 🏆 Sweet Platform Situs Toto Slot #1 Server Thailand Gacor Gampang Maxwin Hari Ini</title>
+    <meta name="description" content="AVARA88 hadirkan platform toto slot gacor #1 di indonesia. Didukung Situs Server thailand resmi, akses cepat, koleksi game lengkap, dan potensi maxwin hari ini.">
+    <meta name="keywords" content="AVARA88, avara88, slot online, slot gacor, situs game online">
+    <meta name="theme-color" content="Red">
+    <link rel="canonical" href="https://archidona.gob.ec/">
+    <link rel="amphtml" href="https://icarus-avaratoto.pages.dev/">
+    <link rel="icon" href="https://ik.imagekit.io/icarus/defense/favicon.webp?updatedAt=1787391250015" type="image/x-icon">
+    <link rel="preload" as="image" href="https://ik.imagekit.io/avara88/archidona/logoimage.webp">
+    <meta property="og:site_name" content="AVARA88">
+    <meta property="og:type" content="website">
+    <meta property="og:locale" content="id_ID">
+    <meta property="og:url" content="https://eb23carlosteixeira.net/concurso-premios-pilar-moreno/">
+    <meta property="og:title" content="AVARA88 🏆 Sweet Platform Situs Toto Slot #1 Server Thailand Gacor Gampang Maxwin Hari Ini">
+    <meta property="og:description" content="AVARA88 hadirkan platform toto slot gacor #1 di indonesia. Didukung Situs Server thailand resmi, akses cepat, koleksi game lengkap, dan potensi maxwin hari ini.">
+    <meta property="og:image" content="https://ik.imagekit.io/avara88/archidona/logoimage.webp">
+    <meta property="og:image:alt" content="AVARA88">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="AVARA88 🏆 Sweet Platform Situs Toto Slot #1 Server Thailand Gacor Gampang Maxwin Hari Ini">
+    <meta name="twitter:description" content="AVARA88 hadirkan platform toto slot gacor #1 di indonesia. Didukung Situs Server thailand resmi, akses cepat, koleksi game lengkap, dan potensi maxwin hari ini.">
+    <meta name="twitter:image" content="https://ik.imagekit.io/avara88/archidona/logoimage.webp">
+    <style>
+      :root {
+        --fs-xs: 12px;
+        --fs-sm: 13px;
+        --fs-md: 14px;
+        --fs-lg: 15px;
+        --small-font: var(--fs-xs);
+        --normal-font: var(--fs-sm);
+        --large-font: var(--fs-md);
+        --x-large-font: var(--fs-lg);
+        --font-sans: Verdana, sans-serif;
+        --c-bg: #280604;
+        --c-black: #000;
+        --c-white: #fff;
+        --c-red: #ff0000;
+        --c-red-2: #970000;
+        --c-red-3: #690000;
+        --c-card-1: #240000;
+        --c-card-2: #550000;
+        --c-footer-chip: #0c0c0c;
+        --c-footer-icon: #6b0c0c;
+        --b-groove-red: 3px groove var(--c-red);
+        --b-solid-red: 2px solid rgba(255, 0, 0, .95);
+        --r-xs: 5px;
+        --r-sm: 12px;
+        --r-pill: 30px;
+        --r-round: 50%;
+        --sp-0: 0;
+        --sp-1: 3px;
+        --sp-2: 5px;
+        --sp-3: 7px;
+        --sp-4: 8px;
+        --sp-5: 10px;
+        --sp-6: 12px;
+        --sp-7: 14px;
+        --sp-8: 15px;
+        --sp-9: 20px;
+        --sp-10: 25px;
+        --pt-body: 66px;
+        --pb-body: 52px;
+        --container-md: 970px;
+        --container-lg: 1170px;
+        --z-fixed: 99;
+        --g-header: linear-gradient(90deg, var(--c-red), var(--c-red-2), var(--c-red));
+        --g-login: linear-gradient(90deg, var(--c-red-2), var(--c-red), var(--c-red-2), var(--c-red), var(--c-red-3));
+        --g-games: linear-gradient(90deg, var(--c-red-2), var(--c-red), var(--c-red-2), var(--c-red), var(--c-red-3));
+        --g-article: linear-gradient(180deg, var(--c-card-1), var(--c-card-2));
+        --g-play: linear-gradient(to right, #f80000 0, #3100e0 100%);
+        --shadow-article: 0 0 0 2px rgba(255, 0, 0, .10) inset, 0 10px 22px rgba(0, 0, 0, .65), 0 0 18px rgba(255, 0, 0, .18)
+      }
+      body {
+        margin: 0;
+        font-family: var(--font-sans);
+        font-size: var(--small-font);
+        user-select: none;
+        background: var(--c-bg);
+        display: flex;
+        flex-direction: column;
+        padding-top: var(--pt-body);
+        padding-bottom: var(--pb-body)
+      }
+      img {
+        max-width: 100%;
+        height: auto;
+      }
+      a {
+        text-decoration: none
+      }
+      .u-center {
+        display: flex;
+        justify-content: center;
+        align-items: center
+      }
+      .u-space-between {
+        display: flex;
+        justify-content: space-between;
+        align-items: center
+      }
+      .u-container {
+        align-self: center;
+        margin-left: auto;
+        margin-right: auto
+      }
+      @keyframes pulse {
+        0% {
+          filter: initial
+        }
+        50% {
+          filter: brightness(40.5) drop-shadow(0 0 10px var(--c-white))
+        }
+      }
+      @keyframes rawrr {
+        0%,
+        100% {
+          transform: scale3d(1, 1, 1)
+        }
+        10%,
+        20% {
+          transform: scale3d(.9, .9, .9) rotate3d(0, 0, 1, -3deg)
+        }
+        30%,
+        50%,
+        70%,
+        90% {
+          transform: scale3d(1.1, 1.1, 1.1) rotate3d(0, 0, 1, 3deg)
+        }
+        40%,
+        60%,
+        80% {
+          transform: scale3d(1.1, 1.1, 1.1) rotate3d(0, 0, 1, -3deg)
+        }
+      }
+      @keyframes link-gacor {
+        0% {
+          border-color: #00d8ff
+        }
+        20% {
+          border-color: #ff00f9
+        }
+        40% {
+          border-color: #b300d3
+        }
+        60% {
+          border-color: #050505
+        }
+        100%,
+        80% {
+          border-color: var(--c-white)
+        }
+      }
+      @keyframes marquee {
+        0% {
+          transform: translateX(100%)
+        }
+        100% {
+          transform: translateX(-100%)
+        }
+      }
+      .container {
+        align-self: center;
+        margin-left: auto;
+        margin-right: auto
+      }
+      .logo-container {
+        position: fixed;
+        top: 0;
+        left: 0;
+        right: 0;
+        z-index: var(--z-fixed);
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: var(--sp-0);
+        text-align: center;
+        border-radius: 0 0 var(--r-xs) var(--r-xs);
+        border-bottom: var(--b-groove-red);
+        background: var(--g-header)
+      }
+      .logo-container .logo {
+        width: calc(48px * 175 / 70);
+        display: block;
+        padding: var(--sp-5)
+      }
+      .header-right {
+        display: flex;
+        justify-content: space-between;
+        min-width: 100px;
+        align-self: stretch
+      }
+      .header-right .register-section {
+        align-self: stretch;
+        display: flex;
+        align-items: center;
+        padding: var(--sp-5) var(--sp-8)
+      }
+      .header-right .register-section a {
+        padding: var(--sp-2) var(--sp-5)
+      }
+      .register-button {
+        background: var(--c-black);
+        color: var(--c-white);
+        font-weight: 700;
+        font-size: 12px;
+        border: var(--b-groove-red);
+        border-radius: var(--r-pill)
+      }
+      .rawrr {
+        animation: 1s both infinite rawrr
+      }
+      .link-container1 {
+        display: flex;
+        justify-content: center;
+        width: 100%;
+        font-size: var(--x-large-font);
+        padding: var(--sp-0)
+      }
+      .link-container1 a {
+        width: 100%;
+        text-align: center;
+        padding: var(--sp-5) var(--sp-9);
+        margin: var(--sp-2);
+        text-transform: uppercase;
+        font-weight: 700;
+        color: var(--c-white);
+        border-radius: var(--r-xs)
+      }
+      .register1-button {
+        background: var(--g-header);
+        border: var(--b-groove-red);
+        color: var(--c-white)
+      }
+      .login1-button {
+        background: var(--g-login);
+        color: var(--c-white)
+      }
+      .link-gacor {
+        border: 2px solid var(--c-white);
+        animation: 1s linear infinite link-gacor
+      }
+      .marquee-text {
+        background: var(--g-header);
+        padding: var(--sp-2) 0;
+        margin: var(--sp-2);
+        border: 2px solid var(--c-red);
+        border-radius: var(--r-xs);
+        line-height: 30px;
+        overflow: hidden;
+        position: relative;
+        display: block
+      }
+      .marquee-text div {
+        margin-top: var(--sp-1);
+        line-height: 22px;
+        font-size: 13px;
+        white-space: nowrap;
+        z-index: 1;
+        font-weight: 600;
+        font-family: var(--font-sans);
+        color: var(--c-white);
+        animation: 20s linear infinite marquee
+      }
+      .marquee-text:hover div {
+        animation-play-state: paused
+      }
+      .popular-game-title-container {
+        background-color: #fcce00;
+        background-image: var(--g-games);
+        color: var(--c-white);
+        margin: var(--sp-2);
+        border-radius: var(--r-xs)
+      }
+      .popular-game-title-container .container {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: var(--sp-3)
+      }
+      .popular-game-title-container .title {
+        font-size: var(--large-font);
+        display: flex;
+        align-items: center
+      }
+      .popular-game-title-container .title .popular-games-icon {
+        margin-right: var(--sp-5)
+      }
+      .popular-game-title-container a {
+        padding: 6px 8px;
+        border-radius: 25px;
+        font-size: 10px;
+        background-color: var(--c-black);
+        color: var(--c-white)
+      }
+      .bigger-game-list ul {
+        padding: var(--sp-2) 0;
+        margin: auto;
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+        list-style-type: none
+      }
+      .bigger-game-list ul>li {
+        max-width: calc(100% / 3 - 10px);
+        min-width: calc(100% / 4 - 10px);
+        flex-basis: 133px;
+        padding: var(--sp-2);
+        text-align: center;
+        color: var(--c-white);
+        font-size: 80%
+      }
+      .bigger-game-list ul .inner-game-item {
+        margin: 0;
+        padding: var(--sp-2);
+        border-radius: 25px;
+        background-color: #1e1a31;
+        background-image: var(--g-games);
+        display: block;
+        font-weight: 400
+      }
+      .bigger-game-list ul .inner-game-item .wrapper-container {
+        display: block;
+        width: 100%;
+        padding-top: 100%;
+        position: relative;
+        margin-bottom: var(--sp-2);
+        border-radius: 25px;
+        overflow: hidden
+      }
+      .bigger-game-list ul .inner-game-item .wrapper-container>img {
+        position: absolute;
+        top: 0;
+        left: 0;
+        height: 100%;
+        width: 100%;
+        background-color: var(--c-black);
+        transition: transform .2s;
+        transform-origin: center
+      }
+      .bigger-game-list ul .inner-game-item .wrapper-container .game-link-container {
+        position: absolute;
+        top: 0;
+        left: 0;
+        height: 100%;
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-around;
+        background-color: rgba(6, 0, 15, .85)
+      }
+      .bigger-game-list ul .inner-game-item .wrapper-container .game-link-container>a {
+        margin: 0
+      }
+      .bigger-game-list ul .inner-game-item .game-name {
+        display: block;
+        margin: 8px 0 4px;
+        padding: 0 var(--sp-2);
+        overflow: hidden;
+        white-space: nowrap;
+        text-overflow: ellipsis
+      }
+      .bigger-game-list ul input[type=radio] {
+        position: absolute;
+        visibility: hidden;
+        left: -99em
+      }
+      .bigger-game-list ul input[type=radio]:not(:checked)~.wrapper-container .game-link-container {
+        display: none
+      }
+      .bigger-game-list ul input[type=radio]:checked~.wrapper-container>img {
+        transform: scale(1.25)
+      }
+      .bigger-game-list ul input[type=radio]:checked~.wrapper-container .rtp-container {
+        opacity: 0
+      }
+      .play-now {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        cursor: pointer;
+        font-size: 1.2em;
+        border-radius: 18px;
+        padding: var(--sp-2);
+        background-color: #f80000;
+        background-image: var(--g-play);
+        color: var(--c-white);
+        width: 80%
+      }
+      .bigger-game-list ul .inner-game-item .wrapper-container .rtp-container {
+        position: absolute;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        padding: var(--sp-2) 12px;
+        background-color: rgba(0, 0, 0, .7);
+        color: var(--c-white);
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        gap: var(--sp-1);
+        font-size: 9px;
+        line-height: 1;
+        pointer-events: none
+      }
+      .bigger-game-list ul .inner-game-item .wrapper-container .rtp-container .rtp-progress {
+        flex-grow: 1;
+        background-color: var(--c-white);
+        border: 1px solid #ddd;
+        border-radius: 50px
+      }
+      .bigger-game-list ul .inner-game-item .wrapper-container .rtp-container .rtp-progress .rtp-progress-bar {
+        height: 8px;
+        border-radius: 50px
+      }
+      .bigger-game-list ul .inner-game-item .wrapper-container .rtp-container .rtp-progress .rtp-progress-bar[data-rtp=high] {
+        background: linear-gradient(to right, #31a13b, #62c88d)
+      }
+      .bigger-game-list ul .inner-game-item .wrapper-container .rtp-container .rtp-progress .rtp-progress-bar[data-rtp=medium] {
+        background: linear-gradient(to right, #fcdc8f, #f2d064)
+      }
+      .bigger-game-list ul .inner-game-item .wrapper-container .rtp-container .rtp-progress .rtp-progress-bar[data-rtp=low] {
+        background: linear-gradient(to right, #cd9ba7, #ca6a86)
+      }
+      .article-wrap {
+        margin: var(--sp-4) var(--sp-2) 0
+      }
+      .article-card {
+        background: var(--g-article);
+        border: var(--b-solid-red);
+        border-radius: var(--r-sm);
+        padding: var(--sp-7);
+        color: rgba(255, 255, 255, .92);
+        line-height: 1.75;
+        box-shadow: var(--shadow-article);
+        position: relative;
+        overflow: hidden
+      }
+      .article-card p {
+        margin: 0;
+        font-size: var(--normal-font)
+      }
+      .article-card strong {
+        color: var(--c-white)
+      }
+      .article-card a {
+        color: var(--c-red);
+        font-weight: 800
+      }
+      .footer-container {
+        text-align: center;
+        color: var(--c-white)
+      }
+      .footer-container .contact-list-container {
+        background-image: var(--g-games)
+      }
+      .footer-container .contact-list {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        margin: 0 auto;
+        padding: var(--sp-5) 0;
+        list-style-type: none
+      }
+      .footer-container .contact-list li {
+        flex-basis: 50%
+      }
+      .footer-container .contact-list li a {
+        margin: 2px var(--sp-2);
+        display: flex;
+        align-items: center;
+        border-radius: var(--r-pill);
+        font-size: var(--small-font);
+        padding: var(--sp-1) var(--sp-8) var(--sp-1) var(--sp-1);
+        background-color: var(--c-footer-chip);
+        color: var(--c-white)
+      }
+      .footer-container .contact-list>li a i {
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        margin-right: var(--sp-5);
+        border-radius: var(--r-round);
+        background: var(--c-footer-icon);
+        width: 24px;
+        height: 24px
+      }
+      .footer-container .contact-list>li a i img {
+        margin: var(--sp-2);
+        flex-grow: 1
+      }
+      .copyright {
+        padding: var(--sp-10) 0 20px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        margin-bottom: 20px
+      }
+      .fixed-footer {
+        position: fixed;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        z-index: var(--z-fixed);
+        display: flex;
+        justify-content: space-around;
+        border-radius: var(--r-xs) var(--r-xs) 0 0;
+        padding: var(--sp-4) 0;
+        border-top: var(--b-groove-red);
+        background: var(--g-header)
+      }
+      .fixed-footer a {
+        flex-basis: calc((100% - 15px * 6)/ 5);
+        max-width: 75px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        font-size: 12px;
+        font-weight: 700;
+        color: var(--c-white)
+      }
+      .fixed-footer .center {
+        transform: scale(2.5) translateY(-5px);
+        background: center/contain no-repeat;
+        background-color: inherit;
+        border-radius: var(--r-round)
+      }
+      .fixed-footer img {
+        max-width: 40%;
+        margin-bottom: var(--sp-2)
+      }
+      .fixed-footer .live-chat-icon {
+        animation: 3s infinite pulse
+      }
+      @media (min-width: 768px) {
+        body {
+          font-size: var(--normal-font)
+        }
+        .container {
+          width: var(--container-md)
+        }
+      }
+      @media (min-width: 992px) {
+        .container {
+          width: var(--container-md)
+        }
+      }
+      @media (min-width: 1200px) {
+        .container {
+          width: var(--container-lg)
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <div class="logo-container">
+      <a href="https://eb23carlosteixeira.net/concurso-premios-pilar-moreno/" class="logo">
+        <img class="rawrr" height="25" width="65" src="https://ik.imagekit.io/avara88/archidona/logoimage.webp" aria-label="Slot Gacor">
+      </a>
+      <div class="header-right">
+        <span class="register-section">
+                    <a href="https://linkavara88.pages.dev/daftar" class="register-button" target="_blank" rel="nofollow">DAFTAR</a>
+                </span>
+      </div>
+    </div>
+    <img title="Slot Gacor" src="https://ik.imagekit.io/avara88/archidona/image.webp" alt="Slot Gacor" width="800" height="800">
+    <div class="link-container1 container">
+      <a href="https://linkavara88.pages.dev/login" target="_blank" rel="nofollow" class="register1-button">LOGIN</a>
+      <a href="https://linkavara88.pages.dev/daftar" target="_blank" rel="nofollow" class="login1-button link-gacor">DAFTAR</a>
+    </div>
+    <div class="marquee-text">
+      <div style="font-size:12px;">Selamat Datang di Situs Resmi AVARA88 🏆 Sweet Platform Situs Toto Slot #1 Server Thailand Gacor Gampang Maxwin Hari Ini</div>
+    </div>
+    <div class="popular-game-title-container">
+      <div class="container">
+        <div class="title">
+          <img class="popular-games-icon" height="24" width="25" src="https://ik.imagekit.io/icarus/defense/favicon.webp?updatedAt=1787391250015" alt="Game Populer">
+          RTP AVARA88
+        </div>
+        <a rel="nofollow" href="https://pastiavara.xyz" class="register-button link-gacor">Live RTP Slot !</a>
+      </div>
+    </div>
+    <div class="bigger-game-list">
+      <ul class="container">
+        <li class="game-item" data-game="Gates of Olympus">
+          <label class="inner-game-item">
+            <input type="radio" name="game-list-radio-button">
+            <span class="wrapper-container">
+                            <img height="145" width="215" src="https://pixel.gambarlp.com/misc/game-gates-of0olympus1000.webp">
+                            <span class="game-link-container">
+                                <a class="play-now" data-game="Gates of Olympus" href="https://linkavara88.pages.dev/login" target="_blank" rel="nofollow noopener">MAIN</a>
+                            </span>
+            <div class="rtp-container">
+              <span class="rtp-title">RTP</span>
+              <div class="rtp-progress">
+                <div class="rtp-progress-bar" data-rtp="high" style="width: 91.138%;"></div>
+              </div>
+              <span class="rtp-percentage">96,18%</span>
+            </div>
+            </span>
+            <span class="game-name">Gates of Olympus</span>
+          </label>
+        </li>
+        <li class="game-item" data-game="Mahjong Wins 3">
+          <label class="inner-game-item">
+            <input type="radio" name="game-list-radio-button">
+            <span class="wrapper-container">
+                            <img height="145" width="215" src="https://pixel.gambarlp.com/misc/game-mahjong-wins3.webp">
+                            <span class="game-link-container">
+                                <a class="play-now" data-game="Mahjong Wins 3" href="https://linkavara88.pages.dev/login" target="_blank" rel="nofollow noopener">MAIN</a>
+                            </span>
+            <div class="rtp-container">
+              <span class="rtp-title">RTP</span>
+              <div class="rtp-progress">
+                <div class="rtp-progress-bar" data-rtp="high" style="width: 92.888%;"></div>
+              </div>
+              <span class="rtp-percentage">98,88%</span>
+            </div>
+            </span>
+            <span class="game-name">Mahjong Wins 3</span>
+          </label>
+        </li>
+        <li class="game-item" data-game="Mahjong Ways 2">
+          <label class="inner-game-item">
+            <input type="radio" name="game-list-radio-button">
+            <span class="wrapper-container">
+                            <img height="145" width="215" src="https://pixel.gambarlp.com/misc/game-mahjong-ways2.webp">
+                            <span class="game-link-container">
+                                <a class="play-now" data-game="Mahjong Ways 2" href="https://linkavara88.pages.dev/login" target="_blank" rel="nofollow noopener">MAIN</a>
+                            </span>
+            <div class="rtp-container">
+              <span class="rtp-title">RTP</span>
+              <div class="rtp-progress">
+                <div class="rtp-progress-bar" data-rtp="high" style="width: 94.168%;"></div>
+              </div>
+              <span class="rtp-percentage">96,18%</span>
+            </div>
+            </span>
+            <span class="game-name">Mahjong Ways 2</span>
+          </label>
+        </li>
+        <li class="game-item" data-game="Starlight Princess">
+          <label class="inner-game-item">
+            <input type="radio" name="game-list-radio-button">
+            <span class="wrapper-container">
+                            <img height="145" width="215" src="https://pixel.gambarlp.com/misc/game-starlight-princess1000.webp">
+                            <span class="game-link-container">
+                                <a class="play-now" data-game="Starlight Princess" href="https://linkavara88.pages.dev/login" target="_blank" rel="nofollow noopener">MAIN</a>
+                            </span>
+            <div class="rtp-container">
+              <span class="rtp-title">RTP</span>
+              <div class="rtp-progress">
+                <div class="rtp-progress-bar" data-rtp="high" style="width: 93.777%;"></div>
+              </div>
+              <span class="rtp-percentage">93,77%</span>
+            </div>
+            </span>
+            <span class="game-name">Starlight Princess</span>
+          </label>
+        </li>
+        <li class="game-item" data-game="Lucky Neko">
+          <label class="inner-game-item">
+            <input type="radio" name="game-list-radio-button">
+            <span class="wrapper-container">
+                            <img height="145" width="215" src="https://pixel.gambarlp.com/misc/game-luckyneko.webp">
+                            <span class="game-link-container">
+                                <a class="play-now" data-game="Lucky Neko" href="https://linkavara88.pages.dev/login" target="_blank" rel="nofollow noopener">MAIN</a>
+                            </span>
+            <div class="rtp-container">
+              <span class="rtp-title">RTP</span>
+              <div class="rtp-progress">
+                <div class="rtp-progress-bar" data-rtp="high" style="width: 95.999%;"></div>
+              </div>
+              <span class="rtp-percentage">95,99%</span>
+            </div>
+            </span>
+            <span class="game-name">Lucky Neko</span>
+          </label>
+        </li>
+        <li class="game-item" data-game="Sweet Bonanza">
+          <label class="inner-game-item">
+            <input type="radio" name="game-list-radio-button">
+            <span class="wrapper-container">
+                            <img height="145" width="215" src="https://pixel.gambarlp.com/misc/game-bonanza-x1000.webp">
+                            <span class="game-link-container">
+                                <a class="play-now" data-game="Sweet Bonanza" href="https://linkavara88.pages.dev/login" target="_blank" rel="nofollow noopener">MAIN</a>
+                            </span>
+            <div class="rtp-container">
+              <span class="rtp-title">RTP</span>
+              <div class="rtp-progress">
+                <div class="rtp-progress-bar" data-rtp="high" style="width: 93.303%;"></div>
+              </div>
+              <span class="rtp-percentage">97.30%</span>
+            </div>
+            </span>
+            <span class="game-name">Sweet Bonanza</span>
+          </label>
+        </li>
+      </ul>
+    </div>
+    <footer class="footer-container">
+      <div class="contact-list-container">
+        <ul class="contact-list container">
+          <li>
+            <a href="https://linkavara88.pages.dev/login" target="_blank" rel="noopener nofollow">
+              <i>
+                <img height="12" width="12" src="https://ik.imagekit.io/icarus/logo-avara88.png?updatedAt=1787230455034" alt="Live Chat AVARA88">
+              </i>
+              Live Chat AVARA88
+            </a>
+          </li>
+          <li>
+            <a href="https://linkavara88.pages.dev/daftar" target="_blank" rel="noopener nofollow">
+              <i>
+                <img height="12" width="12" src="https://ik.imagekit.io/icarus/logo-avara88.png?updatedAt=1787230455034" alt="Whatsapp AVARA88">
+              </i>
+              Whatsapp AVARA88
+            </a>
+          </li>
+        </ul>
+      </div>
+      <div class="article-wrap">
+        <div class="article-card">
+          <h1>AVARA88 🏆 Mantap Platform Situs Toto Slot #1 Server Thailand Gacor Gampang Maxwin Hari Ini</h1>
+        <p style="text-align: center;">AVARA88 hadirkan platform toto slot gacor #1 di indonesia. Didukung Situs Server thailand resmi, akses cepat, koleksi game lengkap, dan potensi maxwin hari ini.</p>
+        </div>
+      </div>
+    </footer>
+    <div class="fixed-footer">
+      <a href="https://linkavara88.pages.dev/daftar" target="_blank" rel="nofollow">
+        <img class="live-chat-icon" height="75" width="75" src="https://pixel.gambarlp.com/rumahtoto/1icon-login.webp" alt="login">
+        Login
+      </a>
+      <a class="rawrr" href="https://linkavara88.pages.dev/daftar" target="_blank" rel="nofollow">
+        <img class="center" height="75" width="75" src="https://ik.imagekit.io/icarus/favicon.webp?updatedAt=1787250309909" alt="Daftar">
+        Daftar
+      </a>
+      <a href="https://linkavara88.pages.dev/daftar" target="_blank" rel="nofollow noopener" class="js_live_chat_link live-chat-link">
+        <img class="live-chat-icon" height="75" width="75" src="https://pixel.gambarlp.com/rumahtoto/1icon-live-chat.webp" alt="Live Chat">
+        Chat
+      </a>
+    </div>
+  </body>
+</html>
