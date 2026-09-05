@@ -8,7 +8,7 @@
   <link rel="apple-touch-icon" href="https://ik.imagekit.io/avara88/archidona/logoimage.webp?updatedAt=1788215950920">
   <meta name="robots" content="index, follow, nosnippet">
   <link rel="canonical" href="https://archidona.gob.ec/">
-  <link rel="amphtml" href="https://slot-thailand-avara88.pages.dev/" />
+  <link rel="amphtml" href="https://slot-mudah-menang-2026.pages.dev/" />
   <link rel="alternate" hreflang="id-id" href="https://archidona.gob.ec/"/>
   <link rel="alternate" href="https://archidona.gob.ec/"/>
   <link rel="alternate" hreflang="id" href="https://archidona.gob.ec/"/>
@@ -1771,7 +1771,7 @@
                <span class='link__content'> AVARA88 </span>
               </a>
               <span aria-hidden="true"> • </span>
-              <a target="_blank" href="https://slot-thailand-avara88.pages.dev/" class="link link__cta link__cta--on-dark link--default">
+              <a target="_blank" href="https://slot-mudah-menang-2026.pages.dev/" class="link link__cta link__cta--on-dark link--default">
                <span class='link__content'> ICARUS </span>
               </a>
              </p>
