@@ -313,8 +313,8 @@
             "logo": {
               "@type": "ImageObject",
               "@id": "https://laga88.me/#logo",
-              "url": "https://api2-inv.imgnxb.com/images/ecal8gu0poo/logo_mobile_30319d78-fb10-4b60-bc43-e0fbf140ef0d_1786953140967.png",
-              "contentUrl": "https://api2-inv.imgnxb.com/images/ecal8gu0poo/logo_mobile_30319d78-fb10-4b60-bc43-e0fbf140ef0d_1786953140967.png",
+              "url": "https://urbanhousevenue.com/media/laga88.webp",
+              "contentUrl": "https://urbanhousevenue.com/media/laga88.webp",
               "caption": "LAGA88"
             },
             "image": { "@id": "https://laga88.me/#logo" },
@@ -396,7 +396,7 @@
               "@id": "https://laga88.me/#organization",
               "logo": {
                 "@type": "ImageObject",
-                "url": "https://api2-inv.imgnxb.com/images/ecal8gu0poo/logo_mobile_30319d78-fb10-4b60-bc43-e0fbf140ef0d_1786953140967.png"
+                "url": "https://urbanhousevenue.com/media/laga88.webp"
               }
             },
             "datePublished": "2024-01-01T00:00:00+07:00",
@@ -418,7 +418,7 @@
             "applicationCategory": "GameApplication",
             "operatingSystem": "Android",
             "downloadUrl": "https://d32j6o160xr4gf.cloudfront.net/laga88.apk",
-            "image": "https://api2-inv.imgnxb.com/images/ecal8gu0poo/logo_mobile_30319d78-fb10-4b60-bc43-e0fbf140ef0d_1786953140967.png",
+            "image": "https://urbanhousevenue.com/media/laga88.webp",
             "offers": {
               "@type": "Offer",
               "price": "0",
@@ -504,7 +504,7 @@
                     class=download-btn>Unduh</a> <span class=close id=close_download_apk_notification>&times;</span>
             </div>
             <header class=site-header><a href=https://laga88.me/ class=logo> <img alt=Logo loading=lazy decoding=async
-                        src=https://api2-inv.imgnxb.com/images/ecal8gu0poo/logo_mobile_30319d78-fb10-4b60-bc43-e0fbf140ef0d_1786953140967.png>
+                        src=https://urbanhousevenue.com/media/laga88.webp>
                 </a> <input type=checkbox id=site_menu_trigger_input class=site-menu-trigger-input> <label
                     class=site-menu-trigger for=site_menu_trigger_input data-new-notification=false> <i
                         data-icon=menu></i> </label>
@@ -691,7 +691,7 @@
                     <div>
                         <div class=slide-item><a href=/# target=_self rel="" data-home-banner
                                 data-banner-rec-id=ac4d2de9-47f9-4f83-b785-ace43cd0cd60> <img class=banner-img
-                                    src=https://api2-inv.imgnxb.com/images/eCAl8Gu0POo/id_cbm_ac4d2de9-47f9-4f83-b785-ace43cd0cd60_1732089839953.jpg
+                                    src=https://api2-inv.imgnxb.com/images/ecal8gu0poo/id_cbd_50aa65cc-df51-4c58-a12e-8289e2de2f1b_1788681889110.png
                                     alt="VIP MEMBER LAGA88" title="VIP MEMBER LAGA88" loading=lazy decoding=async width=1920
                                     height=600> </a></div>
                     </div>
