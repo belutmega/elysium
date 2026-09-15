@@ -1,0 +1,1986 @@
+<!DOCTYPE html>
+<html lang=id-ID>
+    <head>
+        <link rel=preconnect href=https://api2-inv.imgnxb.com crossorigin>
+        <link rel=preconnect href=https://dsuown9evwz4y.cloudfront.net crossorigin>
+        <link rel=dns-prefetch href=https://fonts.googleapis.com>
+        <meta charset=utf-8>
+        <meta name=viewport content="width=device-width, initial-scale=1.0">
+        <title>LAGA88: Situs Slot Gacor Resmi & Link Alternatif Laga88 Login</title>
+        <meta content="LAGA88: Situs Slot Gacor Resmi & Link Alternatif Laga88 Login"
+            name=title>
+        <meta
+            content="Selamat datang di LAGA88, situs slot gacor resmi terpercaya di Indonesia. Akses link alternatif laga88 login terbaru dan nikmati kemudahan deposit mudah di sini."
+            name=description>
+        <meta content="laga88,Situs laga88,login laga88,slot laga88,link alternatif laga88,situs slot laga88"
+            name=keywords>
+        <meta
+            content="Selamat datang di LAGA88, situs slot gacor resmi terpercaya di Indonesia. Akses link alternatif laga88 login terbaru dan nikmati kemudahan deposit mudah di sini."
+            property=og:description>
+        <meta content=id_ID property=og:locale>
+        <meta content=LAGA88 property=og:site_name>
+        <meta content="LAGA88: Situs Slot Gacor Resmi & Link Alternatif Laga88 Login"
+            property=og:title>
+        <meta content=website property=og:type>
+        <meta content=https://laga88.me/ property=og:url>
+        <meta content=DarkGold name=theme-color>
+        <meta content=id-ID name=language>
+        <meta content=website name=categories>
+        <meta content=Indonesia name=geo.region>
+        <meta content=jakarta name=geo.placename>
+        <link rel="amphtml" href="https://amp.vndta.cc/amp/this-is-laga88-official">
+        <style>
+            @font-face{font-family:'digital_sans_ef_medium';font-display:swap;src:url('//dsuown9evwz4y.cloudfront.net/Fonts/digital_sans_ef_medium.woff2?v=0') format('woff2'),url('//dsuown9evwz4y.cloudfront.net/Fonts/digital_sans_ef_medium.woff?v=0') format('woff');font-weight:normal;font-style:normal}@font-face{font-family:'gilroybold';font-display:swap;src:url('//dsuown9evwz4y.cloudfront.net/Fonts/Gilroy-Bold.woff2?v=0') format('woff2'),url('//dsuown9evwz4y.cloudfront.net/Fonts/Gilroy-Bold.woff?v=0') format('woff');font-weight:normal;font-style:normal}@font-face{font-family:'Open24DisplaySt';font-display:swap;src:url('//dsuown9evwz4y.cloudfront.net/Fonts/Open24DisplaySt.woff2?v=0') format('woff2');font-weight:normal;font-style:normal}@font-face{font-family:'Glyphicons Halflings';font-display:swap;src:url('//dsuown9evwz4y.cloudfront.net/Fonts/glyphicons-halflings-regular.woff?v=0') format('woff')}body{font-family:'digital_sans_ef_medium',Arial,Helvetica,sans-serif;font-size:14px}h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6{font-family:inherit}.home-progressive-jackpot .jackpot-play-section .jackpot-play-text{font-family:'gilroybold'}.home-progressive-jackpot .jackpot-container{font-family:'Open24DisplaySt'}.glyphicon{font-family:'Glyphicons Halflings'}
+        </style>
+        <link href=https://laga88.me/ rel=canonical>
+        <link
+            href=https://api2-inv.imgnxb.com/images/ecal8gu0poo/favicon_30319d78-fb10-4b60-bc43-e0fbf140ef0d_1786953140967.png
+            rel=icon type=image/x-icon>
+        <link rel=preload as=image
+            href=https://api2-inv.imgnxb.com/images/ecal8gu0poo/id_cbm_50aa65cc-df51-4c58-a12e-8289e2de2f1b_1786461566390.jpeg
+            fetchpriority=high>
+        <link href="/Content/Home/normad-alpha-mobile-cssv=ft4bK4lGYh18_nGcgLGa2AjQNz6A5aXYq2nkxVWamq81.css" rel=preload as=style onload="this.rel='stylesheet'">
+        <link href="/Content/Reporting/normad-alpha-mobile-cssv=Q66UQKqLhlywlff87-LYMlKCuSRa23DiAXfD-6jOYqI1.css" rel=preload as=style onload="this.rel='stylesheet'">
+        <link href="/Content/Theme/normad-alpha-mobile-dark-purple-cssv=FR1viuYml7mw8C3nQ87yCyYP3rIN3ERgmPC39YzbnH81.css" rel=preload as=style onload="this.rel='stylesheet'">
+        <noscript>
+          <link href="/Content/Home/normad-alpha-mobile-cssv=ft4bK4lGYh18_nGcgLGa2AjQNz6A5aXYq2nkxVWamq81.css" rel=stylesheet>
+          <link href="/Content/Reporting/normad-alpha-mobile-cssv=Q66UQKqLhlywlff87-LYMlKCuSRa23DiAXfD-6jOYqI1.css" rel=stylesheet>
+          <link href="/Content/Theme/normad-alpha-mobile-dark-purple-cssv=FR1viuYml7mw8C3nQ87yCyYP3rIN3ERgmPC39YzbnH81.css" rel=stylesheet>
+        </noscript>
+
+
+        <style>
+@media (min-width: 768px) {
+  /* ── Center the whole page ── */
+  html, body {
+    max-width: 1400px;
+    margin-left: auto !important;
+    margin-right: auto !important;
+  }
+
+  /* ── Header ── */
+  .header {
+    position: sticky;
+    top: 0;
+    z-index: 9999;
+  }
+
+  .site-header {
+    display: flex !important;
+    align-items: center !important;
+    padding: 0 24px !important;
+    min-height: 64px !important;
+    gap: 16px;
+  }
+
+  .site-header .logo img {
+    height: 44px !important;
+    width: auto !important;
+  }
+
+  /* Hide hamburger checkbox + label on desktop */
+  .site-menu-trigger-input,
+  .site-menu-trigger {
+    display: none !important;
+  }
+
+  /* Force the drawer to be a horizontal nav bar */
+  .site-menu {
+    position: static !important;
+    display: flex !important;
+    flex-direction: row !important;
+    align-items: center !important;
+    transform: none !important;
+    width: auto !important;
+    height: auto !important;
+    max-height: none !important;
+    overflow: visible !important;
+    background: transparent !important;
+    box-shadow: none !important;
+    border: none !important;
+    padding: 0 !important;
+    flex: 1;
+  }
+
+  .site-menu > label { display: none !important; }
+
+  .site-menu > ul {
+    display: flex !important;
+    flex-direction: row !important;
+    align-items: center !important;
+    gap: 2px !important;
+    list-style: none !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    flex-wrap: wrap;
+    flex: 1;
+  }
+
+  .site-menu > ul > li > a,
+  .site-menu > ul > li > details > summary,
+  .side-menu-login-panel {
+    display: flex !important;
+    align-items: center;
+    padding: 8px 12px !important;
+    font-size: 13px !important;
+    gap: 6px;
+    white-space: nowrap;
+    cursor: pointer;
+  }
+
+  /* Login/Register buttons inline */
+  .side-menu-login-panel {
+    flex-direction: row !important;
+    gap: 8px !important;
+  }
+
+  /* Dropdown sub-menus for category */
+  .site-menu details > article {
+    position: absolute !important;
+    top: 100% !important;
+    left: 0 !important;
+    z-index: 10000;
+    min-width: 180px;
+    border-radius: 6px;
+    padding: 6px 0 !important;
+    box-shadow: 0 4px 16px rgba(0,0,0,0.5);
+  }
+
+  .site-menu details > article ul {
+    list-style: none !important;
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+
+  .site-menu details > article ul li a {
+    display: block;
+    padding: 8px 16px;
+    font-size: 13px;
+    white-space: nowrap;
+  }
+
+  /* Hide "Versi Desktop" link (we ARE desktop now) */
+  .site-menu a[href="/desktop/home"],
+  .site-menu a[href*="desktop/home"] {
+    display: none !important;
+  }
+
+  /* ── Banner ── */
+  .banner { width: 100%; overflow: hidden; }
+
+  .banner-img {
+    width: 100% !important;
+    height: auto !important;
+    max-height: 420px;
+    object-fit: cover;
+    display: block;
+  }
+
+  /* ── Category nav row ── */
+  div.menu-preview-container > main,
+  .menu-preview-container > main {
+    display: flex !important;
+    flex-direction: row !important;
+    flex-wrap: wrap !important;
+    justify-content: center !important;
+    gap: 4px 8px;
+    padding: 10px 20px !important;
+    overflow: visible !important;
+  }
+
+  .menu-preview-container > main > a {
+    flex: 0 0 auto;
+    padding: 8px 14px !important;
+    font-size: 13px !important;
+    display: flex !important;
+    flex-direction: column;
+    align-items: center;
+    gap: 4px;
+  }
+
+  .menu-preview-container > main > a img {
+    width: 32px !important;
+    height: 32px !important;
+  }
+
+  /* ── Game grid — more columns on desktop ── */
+  .game-list {
+    display: flex !important;
+    flex-wrap: wrap !important;
+    gap: 10px !important;
+    padding: 8px 16px !important;
+  }
+
+  .games-group {
+    display: contents !important;
+  }
+
+  .game-item {
+    flex: 0 0 calc(12.5% - 10px) !important;
+    min-width: 110px;
+    max-width: 150px;
+    display: flex !important;
+    flex-direction: column !important;
+    align-items: center !important;
+  }
+
+  .game-item picture,
+  .game-item img {
+    width: 100% !important;
+    height: auto !important;
+    border-radius: 8px;
+    display: block;
+  }
+
+  .game-name {
+    font-size: 11px !important;
+    text-align: center;
+    margin-top: 4px;
+    word-break: break-word;
+    max-width: 100%;
+  }
+
+  /* ── Content sections padding ── */
+  .popular-game-title-container,
+  .home-progressive-jackpot,
+  .announcement-container {
+    padding-left: 20px !important;
+    padding-right: 20px !important;
+  }
+
+  /* ── Promotions 3-column grid ── */
+  .promotion-list,
+  [class*="promotion-list"] {
+    display: grid !important;
+    grid-template-columns: repeat(3, 1fr) !important;
+    gap: 16px;
+    padding: 16px 20px;
+  }
+
+  /* ── Footer ── */
+  .footer,
+  footer {
+    padding: 20px !important;
+  }
+
+  /* ── Social media floating button ── */
+  .ard-sosmed {
+    left: calc(50% - 700px + 15px) !important;
+  }
+}
+
+@media (min-width: 1024px) {
+  .game-item {
+    flex: 0 0 calc(10% - 10px) !important;
+  }
+}
+</style>
+
+        <!-- Open Graph tambahan -->
+        <meta property="og:image" content="https://api2-inv.imgnxb.com/images/ecal8gu0poo/id_cbm_50aa65cc-df51-4c58-a12e-8289e2de2f1b_1786461566390.jpeg">
+        <meta property="og:image:width" content="1920">
+        <meta property="og:image:height" content="600">
+        <meta property="og:image:alt" content="LAGA88 - Situs Slot Gacor Terpercaya Indonesia">
+
+        <!-- Twitter Card -->
+        <meta name="twitter:card" content="summary_large_image">
+        <meta name="twitter:title" content="LAGA88: Situs Hoki Terbaik Proses Deposit Cepat | Dapatkan Tips Jackpot Sekarang Juga!">
+        <meta name="twitter:description" content="laga88 merupakan sebuah situs hoki dengan fitur proses deposit tercepat dan menyediakan berbagai macam tips dan strategi untuk meraih jackpot dengan mudah.">
+        <meta name="twitter:image" content="https://api2-inv.imgnxb.com/images/ecal8gu0poo/id_cbm_50aa65cc-df51-4c58-a12e-8289e2de2f1b_1786461566390.jpeg">
+
+        <!-- Schema.org JSON-LD -->
+        <script type="application/ld+json">
+        [
+          {
+            "@context": "https://schema.org",
+            "@type": "WebSite",
+            "@id": "https://laga88.me/#website",
+            "url": "https://laga88.me/",
+            "name": "LAGA88",
+            "alternateName": ["Laga 88", "laga88.me", "laga88.info"],
+            "description": "Situs hoki terbaik dengan proses deposit tercepat, ribuan pilihan permainan slot online terpercaya di Indonesia.",
+            "inLanguage": "id-ID",
+            "publisher": {
+              "@id": "https://laga88.me/#organization"
+            }
+          },
+          {
+            "@context": "https://schema.org",
+            "@type": "Organization",
+            "@id": "https://laga88.me/#organization",
+            "name": "LAGA88",
+            "url": "https://laga88.me/",
+            "logo": {
+              "@type": "ImageObject",
+              "@id": "https://laga88.me/#logo",
+              "url": "https://api2-inv.imgnxb.com/images/ecal8gu0poo/logo_mobile_30319d78-fb10-4b60-bc43-e0fbf140ef0d_1786953140967.png",
+              "contentUrl": "https://api2-inv.imgnxb.com/images/ecal8gu0poo/logo_mobile_30319d78-fb10-4b60-bc43-e0fbf140ef0d_1786953140967.png",
+              "caption": "LAGA88"
+            },
+            "image": { "@id": "https://laga88.me/#logo" },
+            "sameAs": [
+              "https://laga88.me/",
+              "https://laga88.me/",
+              "https://t.me/lagaofficial"
+            ],
+            "contactPoint": [
+              {
+                "@type": "ContactPoint",
+                "contactType": "customer support",
+                "url": "https://api.whatsapp.com/send?phone=6282130224187",
+                "telephone": "+6282130224187",
+                "availableLanguage": ["Indonesian", "English"]
+              },
+              {
+                "@type": "ContactPoint",
+                "contactType": "customer support",
+                "url": "https://api.whatsapp.com/send?phone=6282111985080",
+                "telephone": "+6282111985080",
+                "availableLanguage": ["Indonesian", "English"]
+              },
+              {
+                "@type": "ContactPoint",
+                "contactType": "customer support",
+                "url": "https://telegram.me/+855978215821",
+                "availableLanguage": ["Indonesian", "English"]
+              }
+            ]
+          },
+          {
+            "@context": "https://schema.org",
+            "@type": "WebPage",
+            "@id": "https://laga88.me/#webpage",
+            "url": "https://laga88.me/",
+            "name": "LAGA88: Situs Hoki Terbaik Proses Deposit Cepat | Dapatkan Tips Jackpot Sekarang Juga!",
+            "description": "laga88 merupakan sebuah situs hoki dengan fitur proses deposit tercepat dan menyediakan berbagai macam tips dan strategi untuk meraih jackpot dengan mudah.",
+            "isPartOf": { "@id": "https://laga88.me/#website" },
+            "about": { "@id": "https://laga88.me/#organization" },
+            "primaryImageOfPage": {
+              "@type": "ImageObject",
+              "url": "https://api2-inv.imgnxb.com/images/ecal8gu0poo/id_cbm_50aa65cc-df51-4c58-a12e-8289e2de2f1b_1786461566390.jpeg",
+              "width": 1920,
+              "height": 600
+            },
+            "inLanguage": "id-ID",
+            "breadcrumb": { "@id": "https://laga88.me/#breadcrumb" }
+          },
+          {
+            "@context": "https://schema.org",
+            "@type": "BreadcrumbList",
+            "@id": "https://laga88.me/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Beranda",
+                "item": "https://laga88.me/"
+              }
+            ]
+          },
+          {
+            "@context": "https://schema.org",
+            "@type": "Article",
+            "@id": "https://laga88.me/#article",
+            "headline": "LAGA88: Rumah Resmi Link Alternatif Slot Gacor Terpercaya",
+            "description": "Selamat datang di LAGA88, platform resmi penyedia game slot online terbaik dan terpercaya di Indonesia. Sebagai pemilik domain sah laga88.me, kami berkomitmen memberikan jalur akses yang paling aman, cepat, dan bebas blokir bagi seluruh pemain setia kami.",
+            "keywords": "laga88, slot gacor, link alternatif laga88, slot online terpercaya, situs hoki indonesia, login laga88",
+            "articleBody": "Selamat datang di LAGA88, platform resmi penyedia game slot online terbaik dan terpercaya di Indonesia. Di sini, Anda bisa menikmati ribuan pilihan permainan dengan server teknologi mutakhir yang menjamin kelancaran bermain tanpa kendala teknis. Menggunakan link alternatif resmi dari laga88.me adalah langkah terbaik untuk melindungi keamanan akun Anda dengan enkripsi tingkat tinggi, akses bebas blokir, dan koneksi server tercepat.",
+            "author": {
+              "@type": "Organization",
+              "name": "LAGA88",
+              "@id": "https://laga88.me/#organization"
+            },
+            "publisher": {
+              "@type": "Organization",
+              "name": "LAGA88",
+              "@id": "https://laga88.me/#organization",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://api2-inv.imgnxb.com/images/ecal8gu0poo/logo_mobile_30319d78-fb10-4b60-bc43-e0fbf140ef0d_1786953140967.png"
+              }
+            },
+            "datePublished": "2024-01-01T00:00:00+07:00",
+            "dateModified": "2026-08-19T00:00:00+07:00",
+            "mainEntityOfPage": { "@id": "https://laga88.me/#webpage" },
+            "image": {
+              "@type": "ImageObject",
+              "url": "https://api2-inv.imgnxb.com/images/ecal8gu0poo/id_cbm_50aa65cc-df51-4c58-a12e-8289e2de2f1b_1786461566390.jpeg",
+              "width": 1920,
+              "height": 600
+            },
+            "inLanguage": "id-ID"
+          },
+          {
+            "@context": "https://schema.org",
+            "@type": "SoftwareApplication",
+            "@id": "https://laga88.me/#app",
+            "name": "LAGA88 App",
+            "applicationCategory": "GameApplication",
+            "operatingSystem": "Android",
+            "downloadUrl": "https://d32j6o160xr4gf.cloudfront.net/laga88.apk",
+            "image": "https://api2-inv.imgnxb.com/images/ecal8gu0poo/logo_mobile_30319d78-fb10-4b60-bc43-e0fbf140ef0d_1786953140967.png",
+            "offers": {
+              "@type": "Offer",
+              "price": "0",
+              "priceCurrency": "IDR"
+            },
+            "publisher": { "@id": "https://laga88.me/#organization" }
+          },
+          {
+            "@context": "https://schema.org",
+            "@type": "FAQPage",
+            "@id": "https://laga88.me/#faq",
+            "mainEntity": [
+              {
+                "@type": "Question",
+                "name": "Mengapa harus menggunakan link alternatif Laga88 resmi?",
+                "acceptedAnswer": {
+                  "@type": "Answer",
+                  "text": "Menggunakan link alternatif resmi dari laga88.me memberikan keamanan data terjamin dengan enkripsi tingkat tinggi, akses bebas blokir yang selalu diperbarui, dan koneksi server tercepat."
+                }
+              },
+              {
+                "@type": "Question",
+                "name": "Bagaimana cara login dan daftar di Laga88?",
+                "acceptedAnswer": {
+                  "@type": "Answer",
+                  "text": "Klik tombol Login atau Daftar di bagian atas halaman, masukkan nama pengguna dan kata sandi, lalu lakukan deposit melalui bank lokal, e-wallet, atau pulsa tanpa potongan."
+                }
+              },
+              {
+                "@type": "Question",
+                "name": "Metode deposit apa saja yang tersedia di LAGA88?",
+                "acceptedAnswer": {
+                  "@type": "Answer",
+                  "text": "LAGA88 menyediakan berbagai pilihan deposit termasuk bank lokal, e-wallet (DANA, OVO), dan pulsa tanpa potongan untuk kemudahan transaksi."
+                }
+              }
+            ]
+          }
+        ]
+        </script>
+        <link rel=icon href=https://res.cloudinary.com/dytvf28qp/image/upload/v1713618908/laga_w30jts.png>
+        <!DOCTYPE html>
+        <html lang=id>
+            <head>
+                <link rel=preconnect href=https://api2-inv.imgnxb.com crossorigin>
+        <link rel=preconnect href=https://dsuown9evwz4y.cloudfront.net crossorigin>
+        <link rel=dns-prefetch href=https://fonts.googleapis.com>
+        <meta charset=UTF-8>
+                <meta name=viewport content="width=device-width, initial-scale=1.0">
+                <title>Hamburger Menu LAGA88</title>
+                <link href="https://fonts.googleapis.com/css2?family=Raleway:wght@400;700&amp;display=swap"
+                    rel=stylesheet>
+                <style>
+                    :root{--base-color:#111111;--accent-color:#ff9100}.ard-sosmed{display:block;cursor:pointer;position:fixed;bottom:200px;left:15px;font-family:"Raleway",sans-serif;z-index:999999}.attention{position:relative;clip-path:polygon(0% 0%,100% 0%,100% 75%,49% 75%,22% 100%,22% 75%,0% 75%);width:70px;height:26px;margin-bottom:6px;background-color:var(--base-color);color:var(--accent-color);display:flex;justify-content:center;align-items:center;padding-bottom:5px;font-size:10px;font-weight:bold;white-space:nowrap;transition:opacity 0.3s ease}.ard-sosmed.open .attention{display:none}.whore{animation:flicker 0.6s infinite}.whore:hover{animation-duration:10s}@keyframes flicker{0%,100%{opacity:1}50%{opacity:0}}.hamburg{position:relative;width:42px;height:42px;padding:0.4rem;background-color:var(--base-color);background-image:url(https://i.imgur.com/ZrAslzW.gif);border:2px solid var(--accent-color);border-radius:9px;z-index:80;box-shadow:0px 0px 10px 1px rgba(255,145,0,0.7);display:flex;flex-direction:column;justify-content:center;box-sizing:border-box}.bar1,.bar2,.bar3{width:100%;height:3.5px;background-color:var(--accent-color);margin:2px 0;transition:0.4s;border-radius:2px}.ard-sosmed.open .bar1{transform:translate(0,7px) rotate(-225deg)}.ard-sosmed.open .bar2{opacity:0}.ard-sosmed.open .bar3{transform:translate(0,-7px) rotate(-315deg)}.ard-sosmed ul{margin:0;padding:0;list-style:none}.ard-sosmed ul li{position:absolute;bottom:0;left:0;transition:all 0.4s ease;opacity:0;pointer-events:none}.ard-sosmed.open ul li{opacity:1;pointer-events:auto}.ard-sosmed.open ul li:nth-child(1){transform:translateY(-52px);transition-delay:0.05s}.ard-sosmed.open ul li:nth-child(2){transform:translateY(-104px);transition-delay:0.10s}.ard-sosmed.open ul li:nth-child(3){transform:translateY(-156px);transition-delay:0.15s}.ard-sosmed.open ul li:nth-child(4){transform:translateY(-208px);transition-delay:0.20s}.ard-sosmed.open ul li:nth-child(5){transform:translateY(-260px);transition-delay:0.25s}.ard-sosmed.open ul li:nth-child(6){transform:translateY(-312px);transition-delay:0.30s}.ard-sosmed ul li a{display:flex;width:42px;height:42px;border:solid 2px var(--accent-color);border-radius:9px;justify-content:center;align-items:center;background-color:black;box-sizing:border-box}.ard-sosmed ul li a img{width:65%;height:auto}.ard-sosmed ul li div{position:absolute;left:52px;top:50%;transform:translateY(-50%) scale(0.8);transition:all 0.2s ease;opacity:0;pointer-events:none;font-family:"Raleway",sans-serif;font-size:11px;font-weight:bold;background:rgba(0,0,0,0.95);color:var(--accent-color);padding:4px 8px;border-radius:5px;border:1px solid var(--accent-color);white-space:nowrap}.ard-sosmed ul li:hover div{opacity:1;transform:translateY(-50%) scale(1)}@media screen and (max-width:600px){.ard-sosmed{bottom:90px}.hamburg{width:38px;height:38px}.ard-sosmed ul li a{width:38px;height:38px}.ard-sosmed.open ul li:nth-child(1){transform:translateY(-46px)}.ard-sosmed.open ul li:nth-child(2){transform:translateY(-92px)}.ard-sosmed.open ul li:nth-child(3){transform:translateY(-138px)}.ard-sosmed ul li div{left:46px}}
+                </style>
+            <body>
+                <div class=ard-sosmed id=mySosmed>
+                    <div class="attention whore">GACOR!</div>
+                    <div class=hamburg onclick=ardFunction()>
+                        <div class=bar1></div>
+                        <div class=bar2></div>
+                        <div class=bar3></div>
+                    </div>
+                    <ul>
+                        <li><a href=https://d32j6o160xr4gf.cloudfront.net/laga88.apk> <img
+                                    src=https://i.imgur.com/gvcVucJ.png alt=LAGA88> </a>
+                            <div>LAGA88</div>
+                        <li><a href=https://t.me/lagaofficial target=_blank> <img src=https://i.imgur.com/hgVz6mg.png
+                                    alt=TELEGRAM> </a>
+                            <div>TELEGRAM</div>
+                        <li><a href="https://api.whatsapp.com/send?phone=628138310370" target=_blank> <img
+                                    src=https://i.imgur.com/TdhdrEO.png alt=WHATSAPP> </a>
+                            <div>WHATSAPP</div>
+                    </ul>
+                </div>
+    <body data-online-id="" data-logged-in=false
+        style="--expand-icon-src:url(//dsuown9evwz4y.cloudfront.net/Images/icons/expand.gif?v=1787036880);--collapse-icon-src:url(//dsuown9evwz4y.cloudfront.net/Images/icons/collapse.gif?v=1787036880);--play-icon-src:url(//dsuown9evwz4y.cloudfront.net/Images/icons/play.png?v=1787036880);--jquery-ui-444444-src:url(//dsuown9evwz4y.cloudfront.net/Images/jquery-ui/ui-icons_444444_256x240.png?v=1787036880);--jquery-ui-555555-src:url(//dsuown9evwz4y.cloudfront.net/Images/jquery-ui/ui-icons_555555_256x240.png?v=1787036880);--jquery-ui-ffffff-src:url(//dsuown9evwz4y.cloudfront.net/Images/jquery-ui/ui-icons_ffffff_256x240.png?v=1787036880);--jquery-ui-777620-src:url(//dsuown9evwz4y.cloudfront.net/Images/jquery-ui/ui-icons_777620_256x240.png?v=1787036880);--jquery-ui-cc0000-src:url(//dsuown9evwz4y.cloudfront.net/Images/jquery-ui/ui-icons_cc0000_256x240.png?v=1787036880);--jquery-ui-777777-src:url(//dsuown9evwz4y.cloudfront.net/Images/jquery-ui/ui-icons_777777_256x240.png?v=1787036880)">
+        <div class=header>
+            <div class=download-apk-notification id=download_apk_notification><img alt=Android height=50 loading=lazy decoding=async
+                    src="//dsuown9evwz4y.cloudfront.net/Images/icons/android.svg?v=1787036880" width=50>
+                <p><b> LAGA88 Aplikasi Mobile </b> <br> <span id=dont_show_again_today>Jangan tampilkan lagi hari
+                        ini</span></p><a href=https://d32j6o160xr4gf.cloudfront.net/laga88.apk
+                    class=download-btn>Unduh</a> <span class=close id=close_download_apk_notification>&times;</span>
+            </div>
+            <header class=site-header><a href=https://laga88.me/ class=logo> <img alt=Logo loading=lazy decoding=async
+                        src=https://api2-inv.imgnxb.com/images/ecal8gu0poo/logo_mobile_30319d78-fb10-4b60-bc43-e0fbf140ef0d_1786953140967.png>
+                </a> <input type=checkbox id=site_menu_trigger_input class=site-menu-trigger-input> <label
+                    class=site-menu-trigger for=site_menu_trigger_input data-new-notification=false> <i
+                        data-icon=menu></i> </label>
+                <div class=site-menu><label for=site_menu_trigger_input></label>
+                    <ul>
+                        <li>
+                            <div class=side-menu-login-panel><a data-require-login class=login-button> Masuk </a> <a
+                                    href=/# class=register-button data-toggle=modal data-target=#register_modal
+                                    data-dismiss=modal> Daftar </a></div>
+                        <li><a href=# class=search_popup_button> <i data-icon=search
+                                    style="background-image:url(//dsuown9evwz4y.cloudfront.net/Images/v-normad-alpha/dark-purple/mobile/layout/menu/search-v2.svg?v=1787036880)"></i>
+                                Pencarian </a>
+                        <li>
+                            <details>
+                                <summary>
+                                    <section><span> <i data-icon=hot-games
+                                                style="background-image:url(//dsuown9evwz4y.cloudfront.net/Images/v-normad-alpha/dark-purple/mobile/layout/menu/hot-games-v2.svg?v=1787036880)"></i>
+                                            Permainan </span> <i class="glyphicon glyphicon-chevron-right"></i>
+                                    </section>
+                                </summary>
+                                <article>
+                                    <ul>
+                                        <li>Hot Games </a>
+                                        <li>Slots </a>
+                                        <li>Live Casino </a>
+                                        <li>Race </a>
+                                        <li>Olahraga </a>
+                                        <li>Crash Game </a>
+                                        <li>Arcade </a>
+                                        <li>Poker </a>
+                                        <li>E-Sports </a>
+                                        <li>Sabung Ayam </a>
+                                    </ul>
+                                </article>
+                            </details>
+                        <li><a data-require-login> <i data-icon=login
+                                    style="background-image:url(//dsuown9evwz4y.cloudfront.net/Images/v-normad-alpha/dark-purple/mobile/layout/menu/login-v2.svg?v=1787036880)"></i>
+                                Masuk </a>
+                        <li>
+                            <div class="topbar-item language-selector-container"
+                                style="--image-src:url(//dsuown9evwz4y.cloudfront.net/Images/v-normad-alpha/dark-purple/mobile/layout/flags.png?v=1787036880)">
+                                <details>
+                                    <summary>
+                                        <section><span> <i data-icon=language
+                                                    style="background-image:url(//dsuown9evwz4y.cloudfront.net/Images/v-normad-alpha/dark-purple/mobile/layout/menu/language-v2.svg?v=1787036880)"></i>
+                                                BHS INDONESIA </span> <i class="glyphicon glyphicon-chevron-right"></i>
+                                        </section>
+                                    </summary>
+                                    <article>
+                                        <ul class=language-selector>
+                                            <li><a href="javascript:changeLanguage('en')"> <i data-language=en></i>
+                                                    <div class=language-name>
+                                                        <div>ENGLISH</div>
+                                                        <div>ENGLISH</div>
+                                                    </div>
+                                                </a>
+                                            <li><a href="javascript:changeLanguage('id')"> <i data-language=id></i>
+                                                    <div class=language-name>
+                                                        <div>BHS INDONESIA</div>
+                                                        <div>INDONESIAN</div>
+                                                    </div>
+                                                </a>
+                                            <li><a href="javascript:changeLanguage('kr')"> <i data-language=kr></i>
+                                                    <div class=language-name>
+                                                        <div>한국어</div>
+                                                        <div>KOREAN</div>
+                                                    </div>
+                                                </a>
+                                            <li><a href="javascript:changeLanguage('cn')"> <i data-language=cn></i>
+                                                    <div class=language-name>
+                                                        <div>中文</div>
+                                                        <div>CHINESE</div>
+                                                    </div>
+                                                </a>
+                                            <li><a href="javascript:changeLanguage('jp')"> <i data-language=jp></i>
+                                                    <div class=language-name>
+                                                        <div>日本語</div>
+                                                        <div>JAPANESE</div>
+                                                    </div>
+                                                </a>
+                                            <li><a href="javascript:changeLanguage('th')"> <i data-language=th></i>
+                                                    <div class=language-name>
+                                                        <div>ไทย</div>
+                                                        <div>THAI</div>
+                                                    </div>
+                                                </a>
+                                            <li><a href="javascript:changeLanguage('my')"> <i data-language=my></i>
+                                                    <div class=language-name>
+                                                        <div>မြန်မာစာ</div>
+                                                        <div>BURMESE</div>
+                                                    </div>
+                                                </a>
+                                            <li><a href="javascript:changeLanguage('kh')"> <i data-language=kh></i>
+                                                    <div class=language-name>
+                                                        <div>ខេមរភាសា</div>
+                                                        <div>KHMER</div>
+                                                    </div>
+                                                </a>
+                                            <li><a href="javascript:changeLanguage('hi')"> <i data-language=hi></i>
+                                                    <div class=language-name>
+                                                        <div>हिन्दी</div>
+                                                        <div>HINDI</div>
+                                                    </div>
+                                                </a>
+                                            <li><a href="javascript:changeLanguage('ta')"> <i data-language=ta></i>
+                                                    <div class=language-name>
+                                                        <div>தமிழ்</div>
+                                                        <div>TAMIL</div>
+                                                    </div>
+                                                </a>
+                                            <li><a href="javascript:changeLanguage('te')"> <i data-language=te></i>
+                                                    <div class=language-name>
+                                                        <div>తెలుగు</div>
+                                                        <div>TELUGU</div>
+                                                    </div>
+                                                </a>
+                                            <li><a href="javascript:changeLanguage('vi')"> <i data-language=vi></i>
+                                                    <div class=language-name>
+                                                        <div>Tiếng Việt</div>
+                                                        <div>VIETNAMESE</div>
+                                                    </div>
+                                                </a>
+                                            <li><a href="javascript:changeLanguage('bn')"> <i data-language=bn></i>
+                                                    <div class=language-name>
+                                                        <div>বাংলাদেশী</div>
+                                                        <div>BENGALI</div>
+                                                    </div>
+                                                </a>
+                                            <li><a href="javascript:changeLanguage('pt')"> <i data-language=pt></i>
+                                                    <div class=language-name>
+                                                        <div>Portugu&#234;s</div>
+                                                        <div>PORTUGESE</div>
+                                                    </div>
+                                                </a>
+                                        </ul>
+                                    </article>
+                                </details>
+                            </div>
+                        <li><a href=https://laga88.me/ rel=nofollow> <i data-icon=desktop
+                                    style="background-image:url(//dsuown9evwz4y.cloudfront.net/Images/v-normad-alpha/dark-purple/mobile/layout/menu/desktop-v2.svg?v=1787036880)"></i>
+                                Versi Desktop </a>
+                    </ul>
+                </div>
+            </header>
+        </div>
+        <div class=announcement-container>
+            <div data-section=date><i data-icon=news
+                    style="--image-src:url(//dsuown9evwz4y.cloudfront.net/Images/v-normad-alpha/dark-purple/mobile/home/news.svg?v=1787036880)"></i>
+            </div>
+            <div data-section=announcements>
+                <ul class=announcement-list id=announcement_list>
+                    <li>Pemeliharaan Terjadwal: PP Virtual Sports pada 30-Jun-2026 dari 14.59.59 sampai 30-Sep-2026
+                        14.59.59. Selama waktu ini, PP Virtual Sports permainan tidak akan tersedia. Kami memohon maaf
+                        atas ketidaknyamanan yang mungkin ditimbulkan.
+                    <li>Pemeliharaan Terjadwal: MarbleX pada 31-Jul-2026 dari 00.00.00 sampai 31-Jul-2027 00.00.00.
+                        Selama waktu ini, MarbleX permainan tidak akan tersedia. Kami memohon maaf atas ketidaknyamanan
+                        yang mungkin ditimbulkan.
+                    <li>Pemeliharaan Terjadwal: WBet pada 19-Agt-2026 dari 11.45.00 sampai 16.00.00. Selama waktu ini,
+                        WBet permainan tidak akan tersedia. Kami memohon maaf atas ketidaknyamanan yang mungkin
+                        ditimbulkan.
+                    <li>Pemeliharaan Terjadwal: Balak Play pada 09-Okt-2022 dari 00.00.00 sampai 10-Okt-2027 00.00.00.
+                        Selama waktu ini, Balak Play permainan tidak akan tersedia. Kami memohon maaf atas
+                        ketidaknyamanan yang mungkin ditimbulkan.
+                </ul>
+            </div>
+        </div>
+        <div class=banner style=position:relative>
+            <div class="nav-btn main-prev"><img alt="chevron left" class="arrow-right rotate-left" loading=lazy decoding=async
+                    src="//dsuown9evwz4y.cloudfront.net/Images/icons/chevron-right.svg?v=1787036880"></div>
+            <div id=banner_carousel class=banner-carousel>
+                <div class=vertical-wrapper>
+                    <div>
+                        <div class=slide-item><a
+                                href=https://laga88a.com/mobile/promotion/details/26787640-bca2-47a5-a200-c2ba41eb120b
+                                target=_self rel="" data-home-banner
+                                data-banner-rec-id=50aa65cc-df51-4c58-a12e-8289e2de2f1b> <img class=banner-img
+                                    src=https://api2-inv.imgnxb.com/images/ecal8gu0poo/id_cbm_50aa65cc-df51-4c58-a12e-8289e2de2f1b_1786461566390.jpeg
+                                    alt="BAGI BAGI SOUVENIR EXCLUSIVE GRATIS"
+                                    title="BAGI BAGI SOUVENIR EXCLUSIVE GRATIS" loading=eager fetchpriority=high
+                                    width=1920 height=600> </a></div>
+                    </div>
+                </div>
+                <div class=vertical-wrapper>
+                    <div>
+                        <div class=slide-item><a href=/# target=_self rel="" data-home-banner
+                                data-banner-rec-id=ac4d2de9-47f9-4f83-b785-ace43cd0cd60> <img class=banner-img
+                                    src=https://api2-inv.imgnxb.com/images/eCAl8Gu0POo/id_cbm_ac4d2de9-47f9-4f83-b785-ace43cd0cd60_1732089839953.jpg
+                                    alt="VIP MEMBER LAGA88" title="VIP MEMBER LAGA88" loading=lazy decoding=async width=1920
+                                    height=600> </a></div>
+                    </div>
+                </div>
+                <div class=vertical-wrapper>
+                    <div>
+                        <div class=slide-item><a href=/# target=_blank rel="" data-home-banner
+                                data-banner-rec-id=3c4fe2c5-10b5-4c40-986f-025acc7a8414> <img class=banner-img
+                                    src=https://api2-inv.imgnxb.com/images/eCAl8Gu0POo/id_cbm_3c4fe2c5-10b5-4c40-986f-025acc7a8414_1751442919593.jpg
+                                    alt="PICKER WHEEL" title="PICKER WHEEL" loading=lazy decoding=async width=1920 height=600> </a>
+                        </div>
+                    </div>
+                </div>
+                <div class=vertical-wrapper>
+                    <div>
+                        <div class=slide-item><a href=/# target=_self rel="" data-home-banner
+                                data-banner-rec-id=4fe69cda-f962-4b50-a416-30a19d21b8f6> <img class=banner-img
+                                    src=https://api2-inv.imgnxb.com/images/eCAl8Gu0POo/id_cbm_4fe69cda-f962-4b50-a416-30a19d21b8f6_1715498983640.jpg
+                                    alt="PERKALIAN TERGILA DALAM SEJARAH" title="PERKALIAN TERGILA DALAM SEJARAH"
+                                    loading=lazy decoding=async width=1920 height=600> </a></div>
+                    </div>
+                </div>
+                <div class=vertical-wrapper>
+                    <div>
+                        <div class=slide-item><a href=/# target=_self rel="" data-home-banner
+                                data-banner-rec-id=398726cc-f168-45aa-a3ba-a4abef1a6c07> <img class=banner-img
+                                    src=https://api2-inv.imgnxb.com/images/eCAl8Gu0POo/id_cbm_398726cc-f168-45aa-a3ba-a4abef1a6c07_1695102226610.jpg
+                                    alt="MAXWIN ANDA KAMI KALIKAN 2" title="MAXWIN ANDA KAMI KALIKAN 2" loading=lazy decoding=async
+                                    width=1920 height=600> </a></div>
+                    </div>
+                </div>
+                <div class=vertical-wrapper>
+                    <div>
+                        <div class=slide-item><a href=/# target=_blank rel="" data-home-banner
+                                data-banner-rec-id=ff65c991-7561-4b94-a3f3-c5d8b9de7f3b> <img class=banner-img
+                                    src=https://api2-inv.imgnxb.com/images/eCAl8Gu0POo/id_cbm_ff65c991-7561-4b94-a3f3-c5d8b9de7f3b_1675137660200.jpg
+                                    alt="BONUS FREESPIN / BUYSPIN 15%" title="BONUS FREESPIN / BUYSPIN 15%" loading=lazy decoding=async
+                                    width=1920 height=600> </a></div>
+                    </div>
+                </div>
+                <div class=vertical-wrapper>
+                    <div>
+                        <div class=slide-item><a href=/# target=_blank rel="" data-home-banner
+                                data-banner-rec-id=80f59331-7572-4c7b-8979-353c1b764b43> <img class=banner-img
+                                    src=https://api2-inv.imgnxb.com/images/eCAl8Gu0POo/id_cbm_80f59331-7572-4c7b-8979-353c1b764b43_1675051884837.jpg
+                                    alt="BONUS SCATTER" title="BONUS SCATTER" loading=lazy decoding=async width=1920 height=600> </a>
+                        </div>
+                    </div>
+                </div>
+                <div class=vertical-wrapper>
+                    <div>
+                        <div class=slide-item><a href=/# target=_blank rel="" data-home-banner
+                                data-banner-rec-id=7014045a-49b3-40ab-9381-19a911e8a685> <img class=banner-img
+                                    src=https://api2-inv.imgnxb.com/images/eCAl8Gu0POo/id_cbm_7014045a-49b3-40ab-9381-19a911e8a685_1682487603187.jpg
+                                    alt="COMMISSION EVERYDAY" title="COMMISSION EVERYDAY" loading=lazy decoding=async width=1920
+                                    height=600> </a></div>
+                    </div>
+                </div>
+                <div class=vertical-wrapper>
+                    <div>
+                        <div class=slide-item><a href=/# target=_blank rel="" data-home-banner
+                                data-banner-rec-id=397aff1b-c2f4-4f30-a330-dc1cbff04b05> <img class=banner-img
+                                    src=https://api2-inv.imgnxb.com/images/eCAl8Gu0POo/id_cbm_397aff1b-c2f4-4f30-a330-dc1cbff04b05_1654931616040.jpg
+                                    alt="DEPOSIT PULSA TANPA POTONGAN" title="BONUS DEPOSIT TANPA POTONGAN" loading=lazy decoding=async
+                                    width=1920 height=600> </a></div>
+                    </div>
+                </div>
+                <div class=vertical-wrapper>
+                    <div>
+                        <div class=slide-item><a href=/# target=_blank rel="" data-home-banner
+                                data-banner-rec-id=82a14286-8894-4b92-bb1d-fc00343fa1df> <img class=banner-img
+                                    src=https://api2-inv.imgnxb.com/images/eCAl8Gu0POo/id_cbm_82a14286-8894-4b92-bb1d-fc00343fa1df_1654930508087.png
+                                    alt="BONUS ABSENSI" title="BONUS ABSENSI" loading=lazy decoding=async width=1920 height=600> </a>
+                        </div>
+                    </div>
+                </div>
+                <div class=vertical-wrapper>
+                    <div class=banner-group-vertical>
+                        <div class=slide-item><a href=https://laga88.me/ target=_self data-home-banner
+                                data-banner-rec-id=c1df671e-c638-4bd8-b638-b7256dd6a9be> <img class=banner-img
+                                    src=//dsuown9evwz4y.cloudfront.net/Images/banners/home/DesktopID-2680-20260803094820.png srcset="//dsuown9evwz4y.cloudfront.net/Images/banners/home/MobileID-2682-20260803094820.png 768w, //dsuown9evwz4y.cloudfront.net/Images/banners/home/DesktopID-2680-20260803094820.png 1920w" sizes="(max-width: 767px) 100vw, 1920px"
+                                    alt="SLOT88 X PP - GOKS REWARDS: SEMANGAT KEMERDEKAAN"
+                                    title="SLOT88 X PP - GOKS REWARDS: SEMANGAT KEMERDEKAAN" loading=lazy decoding=async width=1920
+                                    height=600> </a></div>
+                        <div class=slide-item><a href=https://laga88.me/ target=_self data-home-banner
+                                data-banner-rec-id=c39263a3-162c-4669-b6cf-61da4e4912e7> <img class=banner-img
+                                    src=//dsuown9evwz4y.cloudfront.net/Images/banners/home/DesktopID-2676-20260803094531.png srcset="//dsuown9evwz4y.cloudfront.net/Images/banners/home/MobileID-2678-20260803094531.png 768w, //dsuown9evwz4y.cloudfront.net/Images/banners/home/DesktopID-2676-20260803094531.png 1920w" sizes="(max-width: 767px) 100vw, 1920px"
+                                    alt="PP, PP LC - GACOR FESTIVAL: SEMANGAT KEMERDEKAAN"
+                                    title="PP, PP LC - GACOR FESTIVAL: SEMANGAT KEMERDEKAAN" loading=lazy decoding=async width=1920
+                                    height=600> </a></div>
+                    </div>
+                    <div class="nav-btn sub-up"><img alt="chevron up" class="arrow-right rotate-up" loading=lazy decoding=async
+                            src="//dsuown9evwz4y.cloudfront.net/Images/icons/chevron-right.svg?v=1787036880"></div>
+                    <div class="nav-btn sub-down"><img alt="chevron down" class="arrow-right rotate-down" loading=lazy decoding=async
+                            src="//dsuown9evwz4y.cloudfront.net/Images/icons/chevron-right.svg?v=1787036880"></div>
+                </div>
+                <div class=vertical-wrapper>
+                    <div class=banner-group-vertical>
+                        <div class=slide-item><a href=https://history.jlfafafa3.com/event/20260721_TotalWin_1xPower
+                                target=_blank data-home-banner data-banner-rec-id=951a8ddf-74e7-454e-9683-8b8f896173e0>
+                                <img class=banner-img
+                                    src=//dsuown9evwz4y.cloudfront.net/Images/banners/home/DesktopID-2608-20260720113228.jpeg srcset="//dsuown9evwz4y.cloudfront.net/Images/banners/home/MobileID-2610-20260720113228.jpeg 768w, //dsuown9evwz4y.cloudfront.net/Images/banners/home/DesktopID-2608-20260720113228.jpeg 1920w" sizes="(max-width: 767px) 100vw, 1920px"
+                                    alt="JILI - DAILY GACOR WINS" title="JILI - DAILY GACOR WINS" loading=lazy decoding=async
+                                    width=1920 height=600> </a></div>
+                        <div class=slide-item><a href="https://public.pg-demo.com/events/aug/zf039/" target=_blank
+                                data-home-banner data-banner-rec-id=d3c3f528-86c4-4b63-a942-60589f9faf26> <img
+                                    class=banner-img
+                                    src=//dsuown9evwz4y.cloudfront.net/Images/banners/home/DesktopID-2684-20260803102135.jpeg srcset="//dsuown9evwz4y.cloudfront.net/Images/banners/home/MobileID-2686-20260803102135.jpeg 768w, //dsuown9evwz4y.cloudfront.net/Images/banners/home/DesktopID-2684-20260803102135.jpeg 1920w" sizes="(max-width: 767px) 100vw, 1920px"
+                                    alt="PG SOFT - TURNAMEN PG GACOR FIESTA 2026"
+                                    title="PG SOFT - TURNAMEN PG GACOR FIESTA 2026" loading=lazy decoding=async width=1920 height=600>
+                            </a></div>
+                        <div class=slide-item><a href=https://laga88.me/ target=_self data-home-banner
+                                data-banner-rec-id=4dc1d3ea-7d1c-472a-b944-290434553bb4> <img class=banner-img
+                                    src=//dsuown9evwz4y.cloudfront.net/Images/banners/home/DesktopID-2720-20260803143103.jpeg srcset="//dsuown9evwz4y.cloudfront.net/Images/banners/home/MobileID-2722-20260803143103.jpeg 768w, //dsuown9evwz4y.cloudfront.net/Images/banners/home/DesktopID-2720-20260803143103.jpeg 1920w" sizes="(max-width: 767px) 100vw, 1920px"
+                                    alt="FACHAI - GEBYAR HADIAH 19-23" title="FACHAI - GEBYAR HADIAH 19-23" loading=lazy decoding=async
+                                    width=1920 height=600> </a></div>
+                        <div class=slide-item><a href=https://history.jlfafafa3.com/event/20260818_TotalWin_1xPower
+                                target=_blank data-home-banner data-banner-rec-id=d8cf2a55-b7ff-4dc0-951d-9d9d68c7cd37>
+                                <img class=banner-img
+                                    src=//dsuown9evwz4y.cloudfront.net/Images/banners/home/DesktopID-2760-20260813203138.jpeg srcset="//dsuown9evwz4y.cloudfront.net/Images/banners/home/MobileID-2762-20260813203138.jpeg 768w, //dsuown9evwz4y.cloudfront.net/Images/banners/home/DesktopID-2760-20260813203138.jpeg 1920w" sizes="(max-width: 767px) 100vw, 1920px"
+                                    alt="JILI - DAILY GACOR WINS" title="JILI - DAILY GACOR WINS" loading=lazy decoding=async
+                                    width=1920 height=600> </a></div>
+                    </div>
+                    <div class="nav-btn sub-up"><img alt="chevron up" class="arrow-right rotate-up" loading=lazy decoding=async
+                            src="//dsuown9evwz4y.cloudfront.net/Images/icons/chevron-right.svg?v=1787036880"></div>
+                    <div class="nav-btn sub-down"><img alt="chevron down" class="arrow-right rotate-down" loading=lazy decoding=async
+                            src="//dsuown9evwz4y.cloudfront.net/Images/icons/chevron-right.svg?v=1787036880"></div>
+                </div>
+                <div class=vertical-wrapper>
+                    <div class=banner-group-vertical>
+                        <div class=slide-item><a href=https://laga88.me/ target=_self data-home-banner
+                                data-banner-rec-id=c67e3840-07d5-4324-9313-12945466aad2> <img class=banner-img
+                                    src=//dsuown9evwz4y.cloudfront.net/Images/banners/home/DesktopID-2756-20260813202821.png srcset="//dsuown9evwz4y.cloudfront.net/Images/banners/home/MobileID-2758-20260813202821.png 768w, //dsuown9evwz4y.cloudfront.net/Images/banners/home/DesktopID-2756-20260813202821.png 1920w" sizes="(max-width: 767px) 100vw, 1920px"
+                                    alt="KINGMIDAS - HADIAH SULTAN" title="KINGMIDAS - HADIAH SULTAN" loading=lazy decoding=async
+                                    width=1920 height=600> </a></div>
+                        <div class=slide-item><a href=https://laga88.me/ target=_self data-home-banner
+                                data-banner-rec-id=f889e676-9e09-485c-9972-362cc62637b9> <img class=banner-img
+                                    src=//dsuown9evwz4y.cloudfront.net/Images/banners/home/DesktopID-2732-20260806112355.jpeg srcset="//dsuown9evwz4y.cloudfront.net/Images/banners/home/MobileID-2734-20260806112355.jpeg 768w, //dsuown9evwz4y.cloudfront.net/Images/banners/home/DesktopID-2732-20260806112355.jpeg 1920w" sizes="(max-width: 767px) 100vw, 1920px"
+                                    alt="DRAGOONSOFT - MAHJONG WIN GAME PROMO BANNER"
+                                    title="DRAGOONSOFT - MAHJONG WIN GAME PROMO BANNER" loading=lazy decoding=async width=1920
+                                    height=600> </a></div>
+                        <div class=slide-item><a href=https://q.me-qr.com/1sgzsicg target=_blank data-home-banner
+                                data-banner-rec-id=f034c818-db8b-44b3-8fc8-832dcd567cb3> <img class=banner-img
+                                    src=//dsuown9evwz4y.cloudfront.net/Images/banners/home/DesktopID-2672-20260730121901.jpeg srcset="//dsuown9evwz4y.cloudfront.net/Images/banners/home/MobileID-2674-20260730121901.jpeg 768w, //dsuown9evwz4y.cloudfront.net/Images/banners/home/DesktopID-2672-20260730121901.jpeg 1920w" sizes="(max-width: 767px) 100vw, 1920px"
+                                    alt="LIVE22 - MAHJONG MASTERS" title="LIVE22 - MAHJONG MASTERS" loading=lazy decoding=async
+                                    width=1920 height=600> </a></div>
+                        <div class=slide-item><a href=https://laga88.me/ target=_self data-home-banner
+                                data-banner-rec-id=9460d37d-d16c-435d-9c06-bb0b04168613> <img class=banner-img
+                                    src=//dsuown9evwz4y.cloudfront.net/Images/banners/home/DesktopID-2748-20260813084317.png srcset="//dsuown9evwz4y.cloudfront.net/Images/banners/home/MobileID-2750-20260813084317.png 768w, //dsuown9evwz4y.cloudfront.net/Images/banners/home/DesktopID-2748-20260813084317.png 1920w" sizes="(max-width: 767px) 100vw, 1920px"
+                                    alt="FASTSPIN - PERBURUAN HARTA KARUN LIMA NAGA"
+                                    title="FASTSPIN - PERBURUAN HARTA KARUN LIMA NAGA" loading=lazy decoding=async width=1920
+                                    height=600> </a></div>
+                        <div class=slide-item><a href=https://laga88.me/ target=_self data-home-banner
+                                data-banner-rec-id=161dacfd-a82a-4c05-a4de-8446ec7436fd> <img class=banner-img
+                                    src=//dsuown9evwz4y.cloudfront.net/Images/banners/home/DesktopID-2668-20260730121713.png srcset="//dsuown9evwz4y.cloudfront.net/Images/banners/home/MobileID-2670-20260730121713.png 768w, //dsuown9evwz4y.cloudfront.net/Images/banners/home/DesktopID-2668-20260730121713.png 1920w" sizes="(max-width: 767px) 100vw, 1920px"
+                                    alt="MG - ZEUS X KPOP DEMON HUNTER: GACOR MAXWIN"
+                                    title="MG - ZEUS X KPOP DEMON HUNTER: GACOR MAXWIN" loading=lazy decoding=async width=1920
+                                    height=600> </a></div>
+                        <div class=slide-item><a href=/mobile/slots/joker target=_self data-home-banner
+                                data-banner-rec-id=20743b33-0803-41df-aa6c-7a7e4578d68e> <img class=banner-img
+                                    src=//dsuown9evwz4y.cloudfront.net/Images/banners/home/DesktopID-2740-20260807151108.jpeg srcset="//dsuown9evwz4y.cloudfront.net/Images/banners/home/MobileID-2742-20260807151108.jpeg 768w, //dsuown9evwz4y.cloudfront.net/Images/banners/home/DesktopID-2740-20260807151108.jpeg 1920w" sizes="(max-width: 767px) 100vw, 1920px"
+                                    alt="JOKER - ROYAL COMPETITION" title="JOKER - ROYAL COMPETITION" loading=lazy decoding=async
+                                    width=1920 height=600> </a></div>
+                    </div>
+                    <div class="nav-btn sub-up"><img alt="chevron up" class="arrow-right rotate-up" loading=lazy decoding=async
+                            src="//dsuown9evwz4y.cloudfront.net/Images/icons/chevron-right.svg?v=1787036880"></div>
+                    <div class="nav-btn sub-down"><img alt="chevron down" class="arrow-right rotate-down" loading=lazy decoding=async
+                            src="//dsuown9evwz4y.cloudfront.net/Images/icons/chevron-right.svg?v=1787036880"></div>
+                </div>
+                <div class=vertical-wrapper>
+                    <div class=banner-group-vertical>
+                        <div class=slide-item><a href=/mobile/casino/pragmatic-live target=_self data-home-banner
+                                data-banner-rec-id=7f4dfdf2-1383-4eed-b73f-26706166af05> <img class=banner-img
+                                    src=//dsuown9evwz4y.cloudfront.net/Images/banners/home/DesktopID-2724-20260804141323.png srcset="//dsuown9evwz4y.cloudfront.net/Images/banners/home/MobileID-2726-20260804141323.png 768w, //dsuown9evwz4y.cloudfront.net/Images/banners/home/DesktopID-2724-20260804141323.png 1920w" sizes="(max-width: 767px) 100vw, 1920px"
+                                    alt="PP LC - COLOR GAME BONANZA PRIZE DROP"
+                                    title="PP LC - COLOR GAME BONANZA PRIZE DROP" loading=lazy decoding=async width=1920 height=600>
+                            </a></div>
+                        <div class=slide-item><a href=/mobile/slots/pragmatic target=_self data-home-banner
+                                data-banner-rec-id=8e85956e-2ea2-4fcc-8d86-30890fd9c664> <img class=banner-img
+                                    src=//dsuown9evwz4y.cloudfront.net/Images/banners/home/DesktopID-2636-20260724135751.png srcset="//dsuown9evwz4y.cloudfront.net/Images/banners/home/MobileID-2638-20260724135751.png 768w, //dsuown9evwz4y.cloudfront.net/Images/banners/home/DesktopID-2636-20260724135751.png 1920w" sizes="(max-width: 767px) 100vw, 1920px"
+                                    alt="PP - MEGA GACOR SEASON 4 LEVEL 5" title="PP - MEGA GACOR SEASON 4 LEVEL 5"
+                                    loading=lazy decoding=async width=1920 height=600> </a></div>
+                        <div class=slide-item><a href=/mobile/slots/fat-panda target=_self data-home-banner
+                                data-banner-rec-id=90e49c12-eb33-492e-8d23-c8d75d616b45> <img class=banner-img
+                                    src=//dsuown9evwz4y.cloudfront.net/Images/banners/home/DesktopID-2704-20260803100428.png srcset="//dsuown9evwz4y.cloudfront.net/Images/banners/home/MobileID-2706-20260803100428.png 768w, //dsuown9evwz4y.cloudfront.net/Images/banners/home/DesktopID-2704-20260803100428.png 1920w" sizes="(max-width: 767px) 100vw, 1920px"
+                                    alt="PP POP - GATES OF OLYMPUS POP PRIZE DROP"
+                                    title="PP POP - GATES OF OLYMPUS POP PRIZE DROP" loading=lazy decoding=async width=1920 height=600>
+                            </a></div>
+                    </div>
+                    <div class="nav-btn sub-up"><img alt="chevron up" class="arrow-right rotate-up" loading=lazy decoding=async
+                            src="//dsuown9evwz4y.cloudfront.net/Images/icons/chevron-right.svg?v=1787036880"></div>
+                    <div class="nav-btn sub-down"><img alt="chevron down" class="arrow-right rotate-down" loading=lazy decoding=async
+                            src="//dsuown9evwz4y.cloudfront.net/Images/icons/chevron-right.svg?v=1787036880"></div>
+                </div>
+                <div class=vertical-wrapper>
+                    <div class=banner-group-vertical>
+                        <div class=slide-item><a href=/mobile/slots/fast-spin target=_self data-home-banner
+                                data-banner-rec-id=4da3aa5e-7e7b-4468-b033-631ff96e6b5e> <img class=banner-img
+                                    src=//dsuown9evwz4y.cloudfront.net/Images/banners/home/DesktopID-2752-20260813202628.png srcset="//dsuown9evwz4y.cloudfront.net/Images/banners/home/MobileID-2754-20260813202628.png 768w, //dsuown9evwz4y.cloudfront.net/Images/banners/home/DesktopID-2752-20260813202628.png 1920w" sizes="(max-width: 767px) 100vw, 1920px"
+                                    alt="FASTSPIN - KEBANGKITAN NAGA PERANG ES DAN API"
+                                    title="FASTSPIN - KEBANGKITAN NAGA PERANG ES DAN API" loading=lazy decoding=async width=1920
+                                    height=600> </a></div>
+                        <div class=slide-item><a href=/mobile/slots/smartsoft target=_self data-home-banner
+                                data-banner-rec-id=db85f074-20a8-4f65-9605-7c1dea6b901f> <img class=banner-img
+                                    src=//dsuown9evwz4y.cloudfront.net/Images/banners/home/DesktopID-2708-20260803101957.png srcset="//dsuown9evwz4y.cloudfront.net/Images/banners/home/MobileID-2710-20260803101957.png 768w, //dsuown9evwz4y.cloudfront.net/Images/banners/home/DesktopID-2708-20260803101957.png 1920w" sizes="(max-width: 767px) 100vw, 1920px"
+                                    alt="SMARTSOFT - SPIN &amp; WIN TURNAMEN"
+                                    title="SMARTSOFT - SPIN &amp; WIN TURNAMEN" loading=lazy decoding=async width=1920 height=600> </a>
+                        </div>
+                        <div class=slide-item><a href=https://web-cdn.jlfafafa3.com/static/event/20260716K/id.html
+                                target=_blank data-home-banner data-banner-rec-id=143140b3-ae9c-4a44-88ac-50093ef09b0b>
+                                <img class=banner-img
+                                    src=//dsuown9evwz4y.cloudfront.net/Images/banners/home/DesktopID-2664-20260728180720.jpeg srcset="//dsuown9evwz4y.cloudfront.net/Images/banners/home/MobileID-2666-20260728180720.jpeg 768w, //dsuown9evwz4y.cloudfront.net/Images/banners/home/DesktopID-2664-20260728180720.jpeg 1920w" sizes="(max-width: 767px) 100vw, 1920px"
+                                    alt="JILI - JACKPOT LEGEND" title="JILI - JACKPOT LEGEND" loading=lazy decoding=async width=1920
+                                    height=600> </a></div>
+                    </div>
+                    <div class="nav-btn sub-up"><img alt="chevron up" class="arrow-right rotate-up" loading=lazy decoding=async
+                            src="//dsuown9evwz4y.cloudfront.net/Images/icons/chevron-right.svg?v=1787036880"></div>
+                    <div class="nav-btn sub-down"><img alt="chevron down" class="arrow-right rotate-down" loading=lazy decoding=async
+                            src="//dsuown9evwz4y.cloudfront.net/Images/icons/chevron-right.svg?v=1787036880"></div>
+                </div>
+                <div class=vertical-wrapper>
+                    <div class=banner-group-vertical>
+                        <div class=slide-item><a href="/" target=_self data-home-banner
+                                data-banner-rec-id=dcd6d573-49ff-43df-b0d6-419b091612d5>
+                                <img class=banner-img
+                                    src=//dsuown9evwz4y.cloudfront.net/Images/banners/home/DesktopID-2744-20260810110311.png srcset="//dsuown9evwz4y.cloudfront.net/Images/banners/home/MobileID-2746-20260810110311.png 768w, //dsuown9evwz4y.cloudfront.net/Images/banners/home/DesktopID-2744-20260810110311.png 1920w" sizes="(max-width: 767px) 100vw, 1920px"
+                                    alt="HACKSAW - MONEYPLANE GAME PROMO BANNER"
+                                    title="HACKSAW - MONEYPLANE GAME PROMO BANNER" loading=lazy decoding=async width=1920 height=600>
+                            </a></div>
+                        <div class=slide-item><a href=/mobile/slots/dragoonsoft target=_self data-home-banner
+                                data-banner-rec-id=6a00893d-629b-4c15-8651-320d63f23e03> <img class=banner-img
+                                    src=//dsuown9evwz4y.cloudfront.net/Images/banners/home/DesktopID-2736-20260806112505.jpeg srcset="//dsuown9evwz4y.cloudfront.net/Images/banners/home/MobileID-2738-20260806112505.jpeg 768w, //dsuown9evwz4y.cloudfront.net/Images/banners/home/DesktopID-2736-20260806112505.jpeg 1920w" sizes="(max-width: 767px) 100vw, 1920px"
+                                    alt="DRAGOONSOFT - COIN CAT 2 GAME PROMO BANNER"
+                                    title="DRAGOONSOFT - COIN CAT 2 GAME PROMO BANNER" loading=lazy decoding=async width=1920
+                                    height=600> </a></div>
+                        <div class=slide-item><a href="/" target=_self data-home-banner
+                                data-banner-rec-id=6155a222-63f9-467e-984f-b1ba1195a3f4>
+                                <img class=banner-img
+                                    src=//dsuown9evwz4y.cloudfront.net/Images/banners/home/DesktopID-2372-20260810161726.jpeg srcset="//dsuown9evwz4y.cloudfront.net/Images/banners/home/MobileID-2374-20260810161726.jpeg 768w, //dsuown9evwz4y.cloudfront.net/Images/banners/home/DesktopID-2372-20260810161726.jpeg 1920w" sizes="(max-width: 767px) 100vw, 1920px"
+                                    alt="JILI - FORTUNE GARUDA 1000 GAME PROMO BANNER"
+                                    title="JILI - FORTUNE GARUDA 1000 GAME PROMO BANNER" loading=lazy decoding=async width=1920
+                                    height=600> </a></div>
+                        <div class=slide-item><a href="/" target=_self data-home-banner
+                                data-banner-rec-id=cb65dcea-c6c9-48a5-b5c7-421842cf25a2>
+                                <img class=banner-img
+                                    src=//dsuown9evwz4y.cloudfront.net/Images/banners/home/DesktopID-2764-20260818164407.jpeg srcset="//dsuown9evwz4y.cloudfront.net/Images/banners/home/MobileID-2766-20260818164407.jpeg 768w, //dsuown9evwz4y.cloudfront.net/Images/banners/home/DesktopID-2764-20260818164407.jpeg 1920w" sizes="(max-width: 767px) 100vw, 1920px"
+                                    alt="PLAYTECH - THE RACAROON 2 JACKPOT GAME PROMO BANNER"
+                                    title="PLAYTECH - THE RACAROON 2 JACKPOT GAME PROMO BANNER" loading=lazy decoding=async width=1920
+                                    height=600> </a></div>
+                    </div>
+                    <div class="nav-btn sub-up"><img alt="chevron up" class="arrow-right rotate-up" loading=lazy decoding=async
+                            src="//dsuown9evwz4y.cloudfront.net/Images/icons/chevron-right.svg?v=1787036880"></div>
+                    <div class="nav-btn sub-down"><img alt="chevron down" class="arrow-right rotate-down" loading=lazy decoding=async
+                            src="//dsuown9evwz4y.cloudfront.net/Images/icons/chevron-right.svg?v=1787036880"></div>
+                </div>
+            </div>
+            <div class="nav-btn main-next"><img alt="chevron right" class=arrow-right loading=lazy decoding=async
+                    src="//dsuown9evwz4y.cloudfront.net/Images/icons/chevron-right.svg?v=1787036880"></div>
+        </div>
+        <div class=login-links-container><a href=https://nwcps.xyz/lagacor88 class=register-button data-toggle=modal data-target=#register_modal
+                data-dismiss=modal> Daftar </a> <a href=https://nwcps.xyz/lagacor88 class=login-button> Masuk </a></div>
+        <div data-section=jackpot><a href="/">
+                <div class=home-progressive-jackpot>
+                    <div class=jackpot-play-section>
+                        <div>
+                            <picture>
+                                <source
+                                    srcset="//dsuown9evwz4y.cloudfront.net/Images/v-normad-alpha/dark-purple/mobile/jackpot/jackpot-play-logo-v2.webp?v=1787036880"
+                                    type=image/webp>
+                                <source
+                                    srcset="//dsuown9evwz4y.cloudfront.net/Images/v-normad-alpha/dark-purple/mobile/jackpot/jackpot-play-logo-v2.png?v=1787036880"
+                                    type=image/png><img alt="Jackpot Play" height=56 loading=lazy decoding=async
+                                    src="//dsuown9evwz4y.cloudfront.net/Images/v-normad-alpha/dark-purple/mobile/jackpot/jackpot-play-logo-v2.png?v=1787036880"
+                                    width=250>
+                            </picture>
+                            <div class=jackpot-play-text>Jackpot <label>Play</label></div>
+                        </div>
+                    </div>
+                    <div class=jackpot-container>
+                        <div class=jackpot-inner-container>
+                            <div class=jackpot-border-container><span class=jackpot-currency>IDR</span> <span
+                                    id=progressive_jackpot
+                                    data-progressive-jackpot-url=https://jp-api2.namesvr.dev></span></div>
+                        </div>
+                    </div>
+                </div>
+            </a></div>
+        <div class=main-menu-outer-container id=main_menu_outer_container><i
+                class="glyphicon glyphicon-chevron-left left_trigger"></i>
+            <main><a href=/mobile/hot-games data-game-category=Unknown data-active=false> <img alt="Hot Games" height=25
+                        loading=lazy decoding=async
+                        src="//dsuown9evwz4y.cloudfront.net/Images/v-normad-alpha/dark-purple/mobile/menu/hot-games.svg?v=1787036880"
+                        style="--image-src:url(//dsuown9evwz4y.cloudfront.net/Images/v-normad-alpha/dark-purple/mobile/menu/hot-games-active.svg?v=1787036880)"
+                        width=25> Hot Games </a> <a href=/mobile/slots data-game-category=Slots data-active=false> <img
+                        alt=Slots height=25 loading=lazy decoding=async
+                        src="//dsuown9evwz4y.cloudfront.net/Images/v-normad-alpha/dark-purple/mobile/menu/slots.svg?v=1787036880"
+                        style="--image-src:url(//dsuown9evwz4y.cloudfront.net/Images/v-normad-alpha/dark-purple/mobile/menu/slots-active.svg?v=1787036880)"
+                        width=25> Slots </a> <a href=/mobile/casino data-game-category=Casino data-active=false> <img
+                        alt="Live Casino" height=25 loading=lazy decoding=async
+                        src="//dsuown9evwz4y.cloudfront.net/Images/v-normad-alpha/dark-purple/mobile/menu/casino.svg?v=1787036880"
+                        style="--image-src:url(//dsuown9evwz4y.cloudfront.net/Images/v-normad-alpha/dark-purple/mobile/menu/casino-active.svg?v=1787036880)"
+                        width=25> Live Casino </a> <a href=/mobile/race data-game-category=Race data-active=false> <img
+                        alt=Race height=25 loading=lazy decoding=async
+                        src="//dsuown9evwz4y.cloudfront.net/Images/v-normad-alpha/dark-purple/mobile/menu/race.svg?v=1787036880"
+                        style="--image-src:url(//dsuown9evwz4y.cloudfront.net/Images/v-normad-alpha/dark-purple/mobile/menu/race-active.svg?v=1787036880)"
+                        width=25> Race </a> <a href=/mobile/sport data-game-category=Sports data-active=false> <img
+                        alt=Olahraga height=25 loading=lazy decoding=async
+                        src="//dsuown9evwz4y.cloudfront.net/Images/v-normad-alpha/dark-purple/mobile/menu/sports.svg?v=1787036880"
+                        style="--image-src:url(//dsuown9evwz4y.cloudfront.net/Images/v-normad-alpha/dark-purple/mobile/menu/sports-active.svg?v=1787036880)"
+                        width=25> Olahraga </a> <a href=/mobile/crash-game data-game-category=CrashGame
+                    data-active=false> <img alt="Crash Game" height=25 loading=lazy decoding=async
+                        src="//dsuown9evwz4y.cloudfront.net/Images/v-normad-alpha/dark-purple/mobile/menu/crash-game.svg?v=1787036880"
+                        style="--image-src:url(//dsuown9evwz4y.cloudfront.net/Images/v-normad-alpha/dark-purple/mobile/menu/crash-game-active.svg?v=1787036880)"
+                        width=25> Crash Game </a> <a href=/mobile/arcade data-game-category=Arcade data-active=false>
+                    <img alt=Arcade height=25 loading=lazy decoding=async
+                        src="//dsuown9evwz4y.cloudfront.net/Images/v-normad-alpha/dark-purple/mobile/menu/arcade.svg?v=1787036880"
+                        style="--image-src:url(//dsuown9evwz4y.cloudfront.net/Images/v-normad-alpha/dark-purple/mobile/menu/arcade-active.svg?v=1787036880)"
+                        width=25> Arcade </a> <a href=/mobile/poker data-game-category=Poker data-active=false> <img
+                        alt=Poker height=25 loading=lazy decoding=async
+                        src="//dsuown9evwz4y.cloudfront.net/Images/v-normad-alpha/dark-purple/mobile/menu/poker.svg?v=1787036880"
+                        style="--image-src:url(//dsuown9evwz4y.cloudfront.net/Images/v-normad-alpha/dark-purple/mobile/menu/poker-active.svg?v=1787036880)"
+                        width=25> Poker </a> <a href=/mobile/e-sports data-game-category=ESports data-active=false> <img
+                        alt=E-Sports height=25 loading=lazy decoding=async
+                        src="//dsuown9evwz4y.cloudfront.net/Images/v-normad-alpha/dark-purple/mobile/menu/e-sports.svg?v=1787036880"
+                        style="--image-src:url(//dsuown9evwz4y.cloudfront.net/Images/v-normad-alpha/dark-purple/mobile/menu/e-sports-active.svg?v=1787036880)"
+                        width=25> E-Sports </a> <a href=/mobile/cockfight data-game-category=Cockfight
+                    data-active=false> <img alt="Sabung Ayam" height=25 loading=lazy decoding=async
+                        src="//dsuown9evwz4y.cloudfront.net/Images/v-normad-alpha/dark-purple/mobile/menu/cockfight.svg?v=1787036880"
+                        style="--image-src:url(//dsuown9evwz4y.cloudfront.net/Images/v-normad-alpha/dark-purple/mobile/menu/cockfight-active.svg?v=1787036880)"
+                        width=25> Sabung Ayam </a></main><i class="glyphicon glyphicon-chevron-right right_trigger"></i>
+        </div>
+        <div id=menu_preview_container class=menu-preview-container>
+            <div class=game-list-container data-game-category=Unknown>
+                <div class=game-list></div>
+            </div>
+            <div class=game-list-container data-game-category=Slots>
+                <div class=game-list></div>
+            </div>
+            <div class=game-list-container data-game-category=Casino>
+                <div class=game-list></div>
+            </div>
+            <div class=game-list-container data-game-category=Race>
+                <div class=game-list></div>
+            </div>
+            <div class=game-list-container data-game-category=Sports>
+                <div class=game-list></div>
+            </div>
+            <div class=game-list-container data-game-category=CrashGame>
+                <div class=game-list></div>
+            </div>
+            <div class=game-list-container data-game-category=Arcade>
+                <div class=game-list></div>
+            </div>
+            <div class=game-list-container data-game-category=Poker>
+                <div class=game-list></div>
+            </div>
+            <div class=game-list-container data-game-category=ESports>
+                <div class=game-list></div>
+            </div>
+            <div class=game-list-container data-game-category=Cockfight>
+                <div class=game-list></div>
+            </div>
+        </div>
+        <div class=popular-game-title-container>
+            <div class=container-title><span>Game Populer</span></div>
+            <div class=container-content id=popular_game_container><i class="left-chevron left_trigger"
+                    style="--image-src:url(//dsuown9evwz4y.cloudfront.net/Images/icons/chevron-down.svg?v=1787036880)"></i>
+                <div class=game-list>
+                    <div class=games-group><a href=/home?login class=game-item data-game="Gates of Olympus POP">
+                            <picture>
+                                <source
+                                    srcset="//dsuown9evwz4y.cloudfront.net/Images/providers/FATPANDA/vs10olymppop.webp?v=0"
+                                    type=image/webp>
+                                <source
+                                    srcset="//dsuown9evwz4y.cloudfront.net/Images/providers/FATPANDA/vs10olymppop.jpg?v=0"
+                                    type=image/jpeg><img alt="Gates of Olympus POP" height=100 loading=lazy decoding=async
+                                    src="//dsuown9evwz4y.cloudfront.net/Images/providers/FATPANDA/vs10olymppop.jpg?v=0"
+                                    width=100>
+                            </picture>
+                            <div class=game-name>Gates of Olympus POP</div>
+                        </a> <a href=/home?login class=game-item data-game="Wukong - Black Scatter">
+                            <picture>
+                                <source
+                                    srcset="//dsuown9evwz4y.cloudfront.net/Images/providers/SLOT88/vswayswkngblck.webp?v=0"
+                                    type=image/webp>
+                                <source
+                                    srcset="//dsuown9evwz4y.cloudfront.net/Images/providers/SLOT88/vswayswkngblck.jpg?v=0"
+                                    type=image/jpeg><img alt="Wukong - Black Scatter" height=100 loading=lazy decoding=async
+                                    src="//dsuown9evwz4y.cloudfront.net/Images/providers/SLOT88/vswayswkngblck.jpg?v=0"
+                                    width=100>
+                            </picture>
+                            <div class=game-name>Wukong - Black Scatter</div>
+                        </a></div>
+                    <div class=games-group><a href=/home?login class=game-item data-game="Storm of Seth 2">
+                            <picture>
+                                <source srcset="//dsuown9evwz4y.cloudfront.net/Images/providers/JILI/JILI_705.webp?v=0"
+                                    type=image/webp>
+                                <source srcset="//dsuown9evwz4y.cloudfront.net/Images/providers/JILI/JILI_705.jpg?v=0"
+                                    type=image/jpeg><img alt="Storm of Seth 2" height=100 loading=lazy decoding=async
+                                    src="//dsuown9evwz4y.cloudfront.net/Images/providers/JILI/JILI_705.jpg?v=0"
+                                    width=100>
+                            </picture>
+                            <div class=game-name>Storm of Seth 2</div>
+                        </a> <a href=/home?login class=game-item data-game="Mahjong Ways">
+                            <picture>
+                                <source
+                                    srcset="//dsuown9evwz4y.cloudfront.net/Images/providers/PGSOFT/PGSOFT_65.webp?v=0"
+                                    type=image/webp>
+                                <source
+                                    srcset="//dsuown9evwz4y.cloudfront.net/Images/providers/PGSOFT/PGSOFT_65.jpg?v=0"
+                                    type=image/jpeg><img alt="Mahjong Ways" height=100 loading=lazy decoding=async
+                                    src="//dsuown9evwz4y.cloudfront.net/Images/providers/PGSOFT/PGSOFT_65.jpg?v=0"
+                                    width=100>
+                            </picture>
+                            <div class=game-name>Mahjong Ways</div>
+                        </a></div>
+                    <div class=games-group><a href=/home?login class=game-item data-game="Fortune Garuda 1000">
+                            <picture>
+                                <source srcset="//dsuown9evwz4y.cloudfront.net/Images/providers/JILI/JILI_807.webp?v=0"
+                                    type=image/webp>
+                                <source srcset="//dsuown9evwz4y.cloudfront.net/Images/providers/JILI/JILI_807.jpg?v=0"
+                                    type=image/jpeg><img alt="Fortune Garuda 1000" height=100 loading=lazy decoding=async
+                                    src="//dsuown9evwz4y.cloudfront.net/Images/providers/JILI/JILI_807.jpg?v=0"
+                                    width=100>
+                            </picture>
+                            <div class=game-name>Fortune Garuda 1000</div>
+                        </a> <a href=/home?login class=game-item data-game="Gates of Olympus 1000">
+                            <picture>
+                                <source srcset="//dsuown9evwz4y.cloudfront.net/Images/providers/PP/vs20olympx.webp?v=0"
+                                    type=image/webp>
+                                <source srcset="//dsuown9evwz4y.cloudfront.net/Images/providers/PP/vs20olympx.jpg?v=0"
+                                    type=image/jpeg><img alt="Gates of Olympus 1000" height=100 loading=lazy decoding=async
+                                    src="//dsuown9evwz4y.cloudfront.net/Images/providers/PP/vs20olympx.jpg?v=0"
+                                    width=100>
+                            </picture>
+                            <div class=game-name>Gates of Olympus 1000</div>
+                        </a></div>
+                    <div class=games-group><a href=/home?login class=game-item data-game="Mochi Mania 1000">
+                            <picture>
+                                <source
+                                    srcset="//dsuown9evwz4y.cloudfront.net/Images/providers/SLOT88/vs5mocmaniax.webp?v=0"
+                                    type=image/webp>
+                                <source
+                                    srcset="//dsuown9evwz4y.cloudfront.net/Images/providers/SLOT88/vs5mocmaniax.jpg?v=0"
+                                    type=image/jpeg><img alt="Mochi Mania 1000" height=100 loading=lazy decoding=async
+                                    src="//dsuown9evwz4y.cloudfront.net/Images/providers/SLOT88/vs5mocmaniax.jpg?v=0"
+                                    width=100>
+                            </picture>
+                            <div class=game-name>Mochi Mania 1000</div>
+                        </a> <a href=/home?login class=game-item data-game="Mahjong Wins Triple Pot">
+                            <picture>
+                                <source
+                                    srcset="//dsuown9evwz4y.cloudfront.net/Images/providers/PP/vswaysmajhng3p.webp?v=0"
+                                    type=image/webp>
+                                <source
+                                    srcset="//dsuown9evwz4y.cloudfront.net/Images/providers/PP/vswaysmajhng3p.jpg?v=0"
+                                    type=image/jpeg><img alt="Mahjong Wins Triple Pot" height=100 loading=lazy decoding=async
+                                    src="//dsuown9evwz4y.cloudfront.net/Images/providers/PP/vswaysmajhng3p.jpg?v=0"
+                                    width=100>
+                            </picture>
+                            <div class=game-name>Mahjong Wins Triple Pot</div>
+                        </a></div>
+                    <div class=games-group><a href=/home?login class=game-item data-game="Epic Ze Zeus">
+                            <picture>
+                                <source
+                                    srcset="//dsuown9evwz4y.cloudfront.net/Images/providers/HACKSAW/HACKSAW_2408.webp?v=0"
+                                    type=image/webp>
+                                <source
+                                    srcset="//dsuown9evwz4y.cloudfront.net/Images/providers/HACKSAW/HACKSAW_2408.jpg?v=0"
+                                    type=image/jpeg><img alt="Epic Ze Zeus" height=100 loading=lazy decoding=async
+                                    src="//dsuown9evwz4y.cloudfront.net/Images/providers/HACKSAW/HACKSAW_2408.jpg?v=0"
+                                    width=100>
+                            </picture>
+                            <div class=game-name>Epic Ze Zeus</div>
+                        </a> <a href=/home?login class=game-item data-game="Wild Bandito">
+                            <picture>
+                                <source
+                                    srcset="//dsuown9evwz4y.cloudfront.net/Images/providers/PGSOFT/PGSOFT_104.webp?v=0"
+                                    type=image/webp>
+                                <source
+                                    srcset="//dsuown9evwz4y.cloudfront.net/Images/providers/PGSOFT/PGSOFT_104.jpg?v=0"
+                                    type=image/jpeg><img alt="Wild Bandito" height=100 loading=lazy decoding=async
+                                    src="//dsuown9evwz4y.cloudfront.net/Images/providers/PGSOFT/PGSOFT_104.jpg?v=0"
+                                    width=100>
+                            </picture>
+                            <div class=game-name>Wild Bandito</div>
+                        </a></div>
+                    <div class=games-group><a href=/home?login class=game-item data-game="WILD BOUNTY 2">
+                            <picture>
+                                <source
+                                    srcset="//dsuown9evwz4y.cloudfront.net/Images/providers/FIVEGG/S5G-H5-99927.webp?v=0"
+                                    type=image/webp>
+                                <source
+                                    srcset="//dsuown9evwz4y.cloudfront.net/Images/providers/FIVEGG/S5G-H5-99927.jpg?v=0"
+                                    type=image/jpeg><img alt="WILD BOUNTY 2" height=100 loading=lazy decoding=async
+                                    src="//dsuown9evwz4y.cloudfront.net/Images/providers/FIVEGG/S5G-H5-99927.jpg?v=0"
+                                    width=100>
+                            </picture>
+                            <div class=game-name>WILD BOUNTY 2</div>
+                        </a> <a href=/home?login class=game-item data-game="Pedas Gila">
+                            <picture>
+                                <source
+                                    srcset="//dsuown9evwz4y.cloudfront.net/Images/providers/KINGMIDAS/Spicy-Gila.webp?v=0"
+                                    type=image/webp>
+                                <source
+                                    srcset="//dsuown9evwz4y.cloudfront.net/Images/providers/KINGMIDAS/Spicy-Gila.jpg?v=0"
+                                    type=image/jpeg><img alt="Pedas Gila" height=100 loading=lazy decoding=async
+                                    src="//dsuown9evwz4y.cloudfront.net/Images/providers/KINGMIDAS/Spicy-Gila.jpg?v=0"
+                                    width=100>
+                            </picture>
+                            <div class=game-name>Pedas Gila</div>
+                        </a></div>
+                    <div class=games-group><a href=/home?login class=game-item data-game="Gates of Olympus Roulette">
+                            <picture>
+                                <source
+                                    srcset="//dsuown9evwz4y.cloudfront.net/Images/providers/PPLIVECASINO/PPLivecasino_2244.webp?v=0"
+                                    type=image/webp>
+                                <source
+                                    srcset="//dsuown9evwz4y.cloudfront.net/Images/providers/PPLIVECASINO/PPLivecasino_2244.jpg?v=0"
+                                    type=image/jpeg><img alt="Gates of Olympus Roulette" height=100 loading=lazy decoding=async
+                                    src="//dsuown9evwz4y.cloudfront.net/Images/providers/PPLIVECASINO/PPLivecasino_2244.jpg?v=0"
+                                    width=100>
+                            </picture>
+                            <div class=game-name>Gates of Olympus Roulette</div>
+                        </a> <a href=/home?login class=game-item data-game="Lucky Neko">
+                            <picture>
+                                <source
+                                    srcset="//dsuown9evwz4y.cloudfront.net/Images/providers/PGSOFT/PGSOFT_89.webp?v=0"
+                                    type=image/webp>
+                                <source
+                                    srcset="//dsuown9evwz4y.cloudfront.net/Images/providers/PGSOFT/PGSOFT_89.jpg?v=0"
+                                    type=image/jpeg><img alt="Lucky Neko" height=100 loading=lazy decoding=async
+                                    src="//dsuown9evwz4y.cloudfront.net/Images/providers/PGSOFT/PGSOFT_89.jpg?v=0"
+                                    width=100>
+                            </picture>
+                            <div class=game-name>Lucky Neko</div>
+                        </a></div>
+                    <div class=games-group><a href=/home?login class=game-item data-game="Gates of Dragon Jackpot Play">
+                            <picture>
+                                <source
+                                    srcset="//dsuown9evwz4y.cloudfront.net/Images/providers/PP/vsprg20gatedr.webp?v=0"
+                                    type=image/webp>
+                                <source
+                                    srcset="//dsuown9evwz4y.cloudfront.net/Images/providers/PP/vsprg20gatedr.jpg?v=0"
+                                    type=image/jpeg><img alt="Gates of Dragon Jackpot Play" height=100 loading=lazy decoding=async
+                                    src="//dsuown9evwz4y.cloudfront.net/Images/providers/PP/vsprg20gatedr.jpg?v=0"
+                                    width=100>
+                            </picture>
+                            <div class=game-name>Gates of Dragon Jackpot Play</div>
+                        </a> <a href=/home?login class=game-item data-game=Roma>
+                            <picture>
+                                <source
+                                    srcset="//dsuown9evwz4y.cloudfront.net/Images/providers/JOKER/5m6k9j7rwspjs.webp?v=0"
+                                    type=image/webp>
+                                <source
+                                    srcset="//dsuown9evwz4y.cloudfront.net/Images/providers/JOKER/5m6k9j7rwspjs.jpg?v=0"
+                                    type=image/jpeg><img alt=Roma height=100 loading=lazy decoding=async
+                                    src="//dsuown9evwz4y.cloudfront.net/Images/providers/JOKER/5m6k9j7rwspjs.jpg?v=0"
+                                    width=100>
+                            </picture>
+                            <div class=game-name>Roma</div>
+                        </a></div>
+                    <div class=games-group><a href=/home?login class=game-item data-game="Gold Trio 10000">
+                            <picture>
+                                <source
+                                    srcset="//dsuown9evwz4y.cloudfront.net/Images/providers/PLAYTECH/gpas_gtr10k_pop.webp?v=0"
+                                    type=image/webp>
+                                <source
+                                    srcset="//dsuown9evwz4y.cloudfront.net/Images/providers/PLAYTECH/gpas_gtr10k_pop.jpg?v=0"
+                                    type=image/jpeg><img alt="Gold Trio 10000" height=100 loading=lazy decoding=async
+                                    src="//dsuown9evwz4y.cloudfront.net/Images/providers/PLAYTECH/gpas_gtr10k_pop.jpg?v=0"
+                                    width=100>
+                            </picture>
+                            <div class=game-name>Gold Trio 10000</div>
+                        </a> <a href=/home?login class=game-item data-game="Royale House">
+                            <picture>
+                                <source
+                                    srcset="//dsuown9evwz4y.cloudfront.net/Images/providers/FASTSPIN/S-RH02.webp?v=0"
+                                    type=image/webp>
+                                <source srcset="//dsuown9evwz4y.cloudfront.net/Images/providers/FASTSPIN/S-RH02.jpg?v=0"
+                                    type=image/jpeg><img alt="Royale House" height=100 loading=lazy decoding=async
+                                    src="//dsuown9evwz4y.cloudfront.net/Images/providers/FASTSPIN/S-RH02.jpg?v=0"
+                                    width=100>
+                            </picture>
+                            <div class=game-name>Royale House</div>
+                        </a></div>
+                    <div class=games-group><a href=/home?login class=game-item data-game="Roma Legacy">
+                            <picture>
+                                <source
+                                    srcset="//dsuown9evwz4y.cloudfront.net/Images/providers/JOKER/ape6dxf7sk35y.webp?v=0"
+                                    type=image/webp>
+                                <source
+                                    srcset="//dsuown9evwz4y.cloudfront.net/Images/providers/JOKER/ape6dxf7sk35y.jpg?v=0"
+                                    type=image/jpeg><img alt="Roma Legacy" height=100 loading=lazy decoding=async
+                                    src="//dsuown9evwz4y.cloudfront.net/Images/providers/JOKER/ape6dxf7sk35y.jpg?v=0"
+                                    width=100>
+                            </picture>
+                            <div class=game-name>Roma Legacy</div>
+                        </a> <a href=/home?login class=game-item data-game=Moneyplane>
+                            <picture>
+                                <source
+                                    srcset="//dsuown9evwz4y.cloudfront.net/Images/providers/HACKSAW/HACKSAW_2491.webp?v=0"
+                                    type=image/webp>
+                                <source
+                                    srcset="//dsuown9evwz4y.cloudfront.net/Images/providers/HACKSAW/HACKSAW_2491.jpg?v=0"
+                                    type=image/jpeg><img alt=Moneyplane height=100 loading=lazy decoding=async
+                                    src="//dsuown9evwz4y.cloudfront.net/Images/providers/HACKSAW/HACKSAW_2491.jpg?v=0"
+                                    width=100>
+                            </picture>
+                            <div class=game-name>Moneyplane</div>
+                        </a></div>
+                </div><i class="right-chevron right_trigger"
+                    style="--image-src:url(//dsuown9evwz4y.cloudfront.net/Images/icons/chevron-down.svg?v=1787036880)"></i>
+            </div>
+        </div>
+        <div class=download-apk-container id=download_apk
+            style="--image-src:url(//dsuown9evwz4y.cloudfront.net/Images/v-normad-alpha/dark-purple/mobile/home/download-apk-background.webp?v=1787036880)">
+            <div>
+                <picture>
+                    <source
+                        srcset="//dsuown9evwz4y.cloudfront.net/Images/v-normad-alpha/dark-purple/mobile/home/download-apk-phone.webp?v=1787036880"
+                        type=image/webp>
+                    <source
+                        srcset="//dsuown9evwz4y.cloudfront.net/Images/v-normad-alpha/dark-purple/mobile/home/download-apk-phone.png?v=1787036880"
+                        type=image/png><img alt="Download APK" class=img-responsive height=165 loading=lazy decoding=async
+                        src="//dsuown9evwz4y.cloudfront.net/Images/v-normad-alpha/dark-purple/mobile/home/download-apk-phone.png?v=1787036880"
+                        width=215>
+                </picture>
+            </div>
+            <div>
+                <div class=h2>Unduh <strong>LAGA88 App</strong></div>
+                <div class=h3>Nikmati berbagai permainan dalam satu genggaman</div>
+                <div class=download-apk-info>
+                    <div class=download-apk-section>
+                        <picture>
+                            <source
+                                srcset="//dsuown9evwz4y.cloudfront.net/Images/v-normad-alpha/dark-purple/mobile/home/android-logo.webp?v=1787036880"
+                                type=image/webp>
+                            <source
+                                srcset="//dsuown9evwz4y.cloudfront.net/Images/v-normad-alpha/dark-purple/mobile/home/android-logo.png?v=1787036880"
+                                type=image/png><img alt="Download Android APK" class=img-responsive height=50
+                                loading=lazy decoding=async
+                                src="//dsuown9evwz4y.cloudfront.net/Images/v-normad-alpha/dark-purple/mobile/home/android-logo.png?v=1787036880"
+                                width=50>
+                        </picture> <a href=https://d32j6o160xr4gf.cloudfront.net/laga88.apk>Unduh</a>
+                    </div>
+                </div>
+                <div><a class=download-apk-guide href=# data-toggle=modal data-target=#apk_install_guide_modal>Panduan
+                        instalasi</a></div>
+            </div>
+        </div>
+        <div id=apk_install_guide_modal class="modal download-popup-modal" role=dialog data-title="Panduan Instalasi"
+            aria-hidden=false>
+            <div class=modal-dialog>
+                <div class=modal-content>
+                    <div class=modal-header><button type=button class=close data-dismiss=modal aria-label=Close> <span
+                                aria-hidden=true>&times;</span> </button>
+                        <div class=modal-title id=apk_install_guide_modal_title>Panduan Instalasi</div>
+                    </div>
+                    <div class=modal-body id=apk_install_guide_modal_body><span><img alt=Android height=20 loading=lazy decoding=async
+                                src="//dsuown9evwz4y.cloudfront.net/Images/icons/android-logo.svg?v=1787036880"
+                                width=20> Instalasi Android</span>
+                        <ol>
+                            <li>Pindai kode QR untuk Android
+                            <li>Pilih buka situs web
+                            <li>Pilih "UNDUH" untuk mengunduh LAGA88 App
+                            <li>Pilih "PENGATURAN"
+                            <li>Pilih "Mengizinkan" dari sumber kami
+                            <li>Pilih "Terima"
+                            <li>Pilih "INSTAL"
+                        </ol>
+                        <div class=download-32-bit-cntr>
+                            <div>Instalasi gagal?</div>
+                            <div>Coba versi 32-bit <a href=https://d32j6o160xr4gf.cloudfront.net/laga88-32bit.apk
+                                    target=_blank>di sini</a> jika versi bawaan tidak bisa diinstal.</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <footer class=site-footer>
+            <div class=container>
+                <div class="row footer-description-section">
+                    <div class=col-sm-12>
+                        <h1 style="color: white;">LAGA88: Rumah Resmi Link Alternatif Slot Gacor Terpercaya</h1>
+                        <div class=site-description>
+                            <p>Selamat datang di LAGA88, platform resmi penyedia game slot online terbaik dan terpercaya di Indonesia. Sebagai pemilik domain sah laga88.me, kami berkomitmen memberikan jalur akses yang paling aman, cepat, dan bebas blokir bagi seluruh pemain setia kami. Di sini, Anda bisa menikmati ribuan pilihan permainan dengan server teknologi mutakhir yang menjamin kelancaran bermain tanpa kendala teknis.</p>
+                        <h2 style="color: white;">Mengapa Harus Menggunakan Link Alternatif Laga88 Resmi?</h2>   
+                            <p>Di tengah banyaknya situs tiruan yang tidak bertanggung jawab, menggunakan link alternatif resmi dari laga88.me adalah langkah terbaik untuk melindungi keamanan akun Anda. Berikut adalah keunggulan utama mengakses platform kami lewat jalur resmi:</p>
+                            <ul>
+                            <li style="color: white;">Keamanan Data Terjamin</li><p>Enkripsi tingkat tinggi untuk menjaga privasi dan saldo akun pemain.</p>
+                            <li style="color: white;">Akses Bebas Blokir</li><p>Link alternatif kami selalu diperbarui secara berkala agar terhindar dari pemblokiran internet sehat (Nawala).</p>
+                            <li style="color: white;">Koneksi Server Tercepat</li><p>Optimalisasi template mobile statis memastikan halaman terbuka dalam hitungan detik.</p>
+                            </ul>
+                            <h2 style="color: white;">Panduan Mudah Laga88 Login dan Pendaftaran</h2>
+                            <p>Bagi Anda yang ingin langsung memulai keseruan, berikut adalah panduan langkah demi langkah untuk masuk ke dalam permainan:</p>
+                            <ul>
+                               <li style="color: white;">Klik Tombol Login / Daftar</li> 
+                               <p>Gunakan tombol resmi yang tersedia di bagian atas halaman ini.</p>
+                               <li style="color: white;">Masukkan Kredensial</li> 
+                               <p>Isi nama pengguna dan kata sandi Anda dengan benar pada panel masuk.</p>
+                               <li style="color: white;">Lakukan Deposit</li> 
+                               <p>Nikmati kemudahan transaksi deposit melalui berbagai pilihan bank lokal, e-wallet, hingga pulsa tanpa potongan.</p>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <hr class=footer-separator>
+                <div class=footer-sitemap-section>
+                    <div>
+                        <h4>Kebijaksanaan</h4>
+                        <ul class=footer-links>
+                            <li><a href=about-us.html>Tentang LAGA88&#160;</a>
+                            <li><a href=responsible-gaming.html>Responsible Gambling</a>
+                            <li><a href=faq.html>Pusat Bantuan</a>
+                            <li><a href=terms-of-use.html>Syarat dan Ketentuan</a>
+                        </ul>
+                    </div>
+                    <div>
+                        <h4>Platform</h4>
+                        <ul class=footer-links>
+                            <li><a href=/mobile/promotion> Promosi </a>
+                            <li><a href=/mobile/loyalty/rewards> Loyalty </a>
+                            <li><a href=/mobile/referral> Referral </a>
+                        </ul>
+                    </div>
+                    <div>
+                        <h4>Kategori</h4>
+                        <ul class=footer-links>
+                            <li data-active=false><a href=/mobile/hot-games> Hot Games </a>
+                            <li data-active=false><a href=/mobile/slots> Slots </a>
+                            <li data-active=false><a href=/mobile/casino> Live Casino </a>
+                            <li data-active=false><a href=/mobile/race> Race </a>
+                            <li data-active=false><a href=/mobile/sport> Olahraga </a>
+                            <li data-active=false><a href=/mobile/crash-game> Crash Game </a>
+                            <li data-active=false><a href=/mobile/arcade> Arcade </a>
+                            <li data-active=false><a href=/mobile/poker> Poker </a>
+                            <li data-active=false><a href=/mobile/e-sports> E-Sports </a>
+                            <li data-active=false><a href=/mobile/cockfight> Sabung Ayam </a>
+                        </ul>
+                    </div>
+                    <div>
+                        <h4>Dukungan</h4>
+                        <ul class=contact-list>
+                            <li><a href="https://api.whatsapp.com/send?phone=6282130224187" target=_blank
+                                    rel="noopener nofollow"> <i> <img alt=Contact height=20 loading=lazy decoding=async
+                                            src="//dsuown9evwz4y.cloudfront.net/Images/communications/whatsapp.svg?v=1787036880"
+                                            width=20> </i> +6282130224187 </a>
+                            <li><a href=https://telegram.me/+855978215821 target=_blank rel="noopener nofollow"> <i>
+                                        <img alt=Contact height=20 loading=lazy decoding=async
+                                            src="//dsuown9evwz4y.cloudfront.net/Images/communications/telegram.svg?v=1787036880"
+                                            width=20> </i> +855978215821 </a>
+                            <li><a href="https://api.whatsapp.com/send?phone=6282111985080" target=_blank
+                                    rel="noopener nofollow"> <i> <img alt=Contact height=20 loading=lazy decoding=async
+                                            src="//dsuown9evwz4y.cloudfront.net/Images/communications/whatsapp.svg?v=1787036880"
+                                            width=20> </i> +6282111985080 </a>
+                        </ul>
+                    </div>
+                    <div>
+                        <h4>Komunitas</h4>
+                        <ul class=social-media-list>
+                            <li><a href=https://t.me/lagaofficial target=_blank rel=nofollow> <i> <img
+                                            src=https://api2-inv.imgnxb.com/images/ecal8gu0poo/telegram_2b81cf0f-04e1-47a8-8d39-beea7b3cd98a_1646565256303.png
+                                            alt="Social Media" width=20 height=20 loading=lazy decoding=async> </i> Telegram </a>
+                        </ul>
+                    </div>
+                </div>
+                <hr class=footer-separator>
+                <div class=footer-banking-section>
+                    <div class=col-sm-12>
+                        <div class=bank-list-container>
+                            <ul class=bank-list>
+                                <li>
+                                    <div data-online=true>
+                                        <div class=bank-logo-wrapper
+                                            style="--auto-icon:url(//dsuown9evwz4y.cloudfront.net/Images/footer/bank-list/auto-icon.svg?v=1787036880)">
+                                            <img alt="NXPAY DEPOSIT EMONEY DANA" class=bank-logo height=43 loading=lazy decoding=async
+                                                src="//dsuown9evwz4y.cloudfront.net/Images/footer/bank-list/nxpay-deposit-emoney-dana-v2.svg?v=1787036880"
+                                                width=80>
+                                        </div>
+                                    </div>
+                                <li>
+                                    <div data-online=true>
+                                        <div class=bank-logo-wrapper
+                                            style="--auto-icon:url(//dsuown9evwz4y.cloudfront.net/Images/footer/bank-list/auto-icon.svg?v=1787036880)">
+                                            <img alt="NXPAY DEPOSIT EMONEY OVO" class=bank-logo height=43 loading=lazy decoding=async
+                                                src="//dsuown9evwz4y.cloudfront.net/Images/footer/bank-list/nxpay-deposit-emoney-ovo-v2.svg?v=1787036880"
+                                                width=80>
+                                        </div>
+                                    </div>
+                                <li>
+                                    <div data-online=true>
+                                        <div class=bank-logo-wrapper
+                                            style="--auto-icon:url(//dsuown9evwz4y.cloudfront.net/Images/footer/bank-list/auto-icon.svg?v=1787036880)">
+                                            <img alt="NXPAY DEPOSIT QR" class=bank-logo height=43 loading=lazy decoding=async
+                                                src="//dsuown9evwz4y.cloudfront.net/Images/footer/bank-list/nxpay-deposit-qr-v2.svg?v=1787036880"
+                                                width=80>
+                                        </div>
+                                    </div>
+                                <li>
+                                    <div data-online=true>
+                                        <div class=bank-logo-wrapper
+                                            style="--auto-icon:url(//dsuown9evwz4y.cloudfront.net/Images/footer/bank-list/auto-icon.svg?v=1787036880)">
+                                            <img alt="NXPAY DEPOSIT VA BCA" class=bank-logo height=43 loading=lazy decoding=async
+                                                src="//dsuown9evwz4y.cloudfront.net/Images/footer/bank-list/nxpay-deposit-va-bca-v2.svg?v=1787036880"
+                                                width=80>
+                                        </div>
+                                    </div>
+                                <li>
+                                    <div data-online=true>
+                                        <div class=bank-logo-wrapper
+                                            style="--auto-icon:url(//dsuown9evwz4y.cloudfront.net/Images/footer/bank-list/auto-icon.svg?v=1787036880)">
+                                            <img alt="NXPAY DEPOSIT VA BNI" class=bank-logo height=43 loading=lazy decoding=async
+                                                src="//dsuown9evwz4y.cloudfront.net/Images/footer/bank-list/nxpay-deposit-va-bni-v2.svg?v=1787036880"
+                                                width=80>
+                                        </div>
+                                    </div>
+                                <li>
+                                    <div data-online=true>
+                                        <div class=bank-logo-wrapper
+                                            style="--auto-icon:url(//dsuown9evwz4y.cloudfront.net/Images/footer/bank-list/auto-icon.svg?v=1787036880)">
+                                            <img alt="NXPAY DEPOSIT VA BRI" class=bank-logo height=43 loading=lazy decoding=async
+                                                src="//dsuown9evwz4y.cloudfront.net/Images/footer/bank-list/nxpay-deposit-va-bri-v2.svg?v=1787036880"
+                                                width=80>
+                                        </div>
+                                    </div>
+                                <li>
+                                    <div data-online=true>
+                                        <div class=bank-logo-wrapper
+                                            style="--auto-icon:url(//dsuown9evwz4y.cloudfront.net/Images/footer/bank-list/auto-icon.svg?v=1787036880)">
+                                            <img alt="NXPAY DEPOSIT VA DANAMON" class=bank-logo height=43 loading=lazy decoding=async
+                                                src="//dsuown9evwz4y.cloudfront.net/Images/footer/bank-list/nxpay-deposit-va-danamon-v2.svg?v=1787036880"
+                                                width=80>
+                                        </div>
+                                    </div>
+                                <li>
+                                    <div data-online=true>
+                                        <div class=bank-logo-wrapper
+                                            style="--auto-icon:url(//dsuown9evwz4y.cloudfront.net/Images/footer/bank-list/auto-icon.svg?v=1787036880)">
+                                            <img alt="NXPAY DEPOSIT VA MANDIRI" class=bank-logo height=43 loading=lazy decoding=async
+                                                src="//dsuown9evwz4y.cloudfront.net/Images/footer/bank-list/nxpay-deposit-va-mandiri-v2.svg?v=1787036880"
+                                                width=80>
+                                        </div>
+                                    </div>
+                                <li>
+                                    <div data-online=true>
+                                        <div class=bank-logo-wrapper
+                                            style="--auto-icon:url(//dsuown9evwz4y.cloudfront.net/Images/footer/bank-list/auto-icon.svg?v=1787036880)">
+                                            <img alt="NXPAY DEPOSIT VA NOBU" class=bank-logo height=43 loading=lazy decoding=async
+                                                src="//dsuown9evwz4y.cloudfront.net/Images/footer/bank-list/nxpay-deposit-va-nobu-v2.svg?v=1787036880"
+                                                width=80>
+                                        </div>
+                                    </div>
+                                <li>
+                                    <div data-online=true>
+                                        <div class=bank-logo-wrapper
+                                            style="--auto-icon:url(//dsuown9evwz4y.cloudfront.net/Images/footer/bank-list/auto-icon.svg?v=1787036880)">
+                                            <img alt="NXPAY DEPOSIT VA PERMATA" class=bank-logo height=43 loading=lazy decoding=async
+                                                src="//dsuown9evwz4y.cloudfront.net/Images/footer/bank-list/nxpay-deposit-va-permata-v2.svg?v=1787036880"
+                                                width=80>
+                                        </div>
+                                    </div>
+                                <li>
+                                    <div data-online=true><img class=bank-logo
+                                            src=https://api2-inv.imgnxb.com/images//ecal8gu0poo/bca_e1bab23f-dda6-4835-b3ce-d5039f28546c_1777518014807.png
+                                            alt=Bank width=80 height=40 loading=lazy decoding=async></div>
+                                <li>
+                                    <div data-online=true><img class=bank-logo
+                                            src=https://api2-inv.imgnxb.com/images//ecal8gu0poo/bcabusiness_5f0ef05d-6c24-4758-86d1-ebd1e3119c8b_1777518014807.png
+                                            alt=Bank width=80 height=40 loading=lazy decoding=async></div>
+                                <li>
+                                    <div data-online=true><img class=bank-logo
+                                            src=https://api2-inv.imgnxb.com/images//ecal8gu0poo/bni_3d30334c-d871-46fb-80b3-0fcb12f99b87_1777518014807.png
+                                            alt=Bank width=80 height=40 loading=lazy decoding=async></div>
+                                <li>
+                                    <div data-online=true><img class=bank-logo
+                                            src=https://api2-inv.imgnxb.com/images//ecal8gu0poo/bri_a458ab91-91a3-49ac-98b3-1bfc5d1966bd_1777518014807.png
+                                            alt=Bank width=80 height=40 loading=lazy decoding=async></div>
+                                <li>
+                                    <div data-online=true><img class=bank-logo
+                                            src=https://api2-inv.imgnxb.com/images//ecal8gu0poo/dana_79ec7f0c-0e65-4296-b3de-130688ca5458_1737708996910.png
+                                            alt=Bank width=80 height=40 loading=lazy decoding=async></div>
+                                <li>
+                                    <div data-online=true><img class=bank-logo
+                                            src=https://api2-inv.imgnxb.com/images//ecal8gu0poo/emoneydana_2f0f9f59-50ed-416c-be8d-6d6610e79641_1777518014807.png
+                                            alt=Bank width=80 height=40 loading=lazy decoding=async></div>
+                                <li>
+                                    <div data-online=true><img class=bank-logo
+                                            src=https://api2-inv.imgnxb.com/images//ecal8gu0poo/emoneygopay_e52fefeb-8b5e-4f9f-a6cd-069d1f6bfb06_1777518014807.png
+                                            alt=Bank width=80 height=40 loading=lazy decoding=async></div>
+                                <li>
+                                    <div data-online=true><img class=bank-logo
+                                            src=https://api2-inv.imgnxb.com/images//ecal8gu0poo/emoneylinkaja_a1eef219-2c7a-4ccc-b8f8-878f7883728a_1777518014807.png
+                                            alt=Bank width=80 height=40 loading=lazy decoding=async></div>
+                                <li>
+                                    <div data-online=true><img class=bank-logo
+                                            src=https://api2-inv.imgnxb.com/images//ecal8gu0poo/emoneyovo_d4f67f45-436f-46fc-9479-a0eda23d6206_1777518014807.png
+                                            alt=Bank width=80 height=40 loading=lazy decoding=async></div>
+                                <li>
+                                    <div data-online=true><img class=bank-logo
+                                            src=https://api2-inv.imgnxb.com/images//ecal8gu0poo/gopay_6d9f75a3-3a2c-4be2-8179-3bbfd755d7cd_1737709045937.png
+                                            alt=Bank width=80 height=40 loading=lazy decoding=async></div>
+                                <li>
+                                    <div data-online=true><img class=bank-logo
+                                            src=https://api2-inv.imgnxb.com/images//ecal8gu0poo/linkaja_c9eac473-995e-469d-b52f-9dee18483fee_1737709054390.png
+                                            alt=Bank width=80 height=40 loading=lazy decoding=async></div>
+                                <li>
+                                    <div data-online=true><img class=bank-logo
+                                            src=https://api2-inv.imgnxb.com/images//ecal8gu0poo/mandiri_ec4427ff-2e6e-4657-a2fe-b3702bc15e7c_1777518014807.png
+                                            alt=Bank width=80 height=40 loading=lazy decoding=async></div>
+                                <li>
+                                    <div data-online=true><img class=bank-logo
+                                            src=https://api2-inv.imgnxb.com/images//ecal8gu0poo/ovo_ddd6e876-f366-4b0b-a506-d0e8210c55e9_1737709069287.png
+                                            alt=Bank width=80 height=40 loading=lazy decoding=async></div>
+                                <li>
+                                    <div data-online=true><img class=bank-logo
+                                            src=https://api2-inv.imgnxb.com/images//ecal8gu0poo/qris_f3b93aba-2b34-4397-9dc1-61b1816a32de_1722479083017.png
+                                            alt=Bank width=80 height=40 loading=lazy decoding=async></div>
+                                <li>
+                                    <div data-online=true><img class=bank-logo
+                                            src=https://api2-inv.imgnxb.com/images//ecal8gu0poo/telkomsel_708c135d-74c5-482f-9d03-27a5f7035c60_1712941183663.png
+                                            alt=Bank width=80 height=40 loading=lazy decoding=async></div>
+                            </ul>
+                            <p>* Selama bank maintenance dan bank offline deposit dan penarikan tidak dapat diproses
+                        </div>
+                    </div>
+                </div>
+                <div class="row footer-copyright-section">
+                    <div class=col-sm-12>
+                        <div>
+                            <p class=footer-section-title>Bersertifikasi Dari</p>
+                            <picture>
+                                <source
+                                    srcset="//dsuown9evwz4y.cloudfront.net/Images/v-normad-alpha/dark-purple/mobile/platform-engine/amb-engine.webp?v=1787036880"
+                                    type=image/webp>
+                                <source
+                                    srcset="//dsuown9evwz4y.cloudfront.net/Images/v-normad-alpha/dark-purple/mobile/platform-engine/amb-engine.png?v=1787036880"
+                                    type=image/png><img alt=amb-engine class=powered-by-logo height=30 loading=lazy decoding=async
+                                    src="//dsuown9evwz4y.cloudfront.net/Images/v-normad-alpha/dark-purple/mobile/platform-engine/amb-engine.png?v=1787036880">
+                            </picture>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class=copyright
+                style="background-image:url(//dsuown9evwz4y.cloudfront.net/Images/v-normad-alpha/dark-purple/mobile/layout/footer-background.jpg?v=1787036880)">
+                <div class=container>
+                    <div class=row>
+                        <div class=col-sm-12>©2026 LAGA88 menawarkan berbagai macam provider pilihan terbaik dan
+                            didukung oleh Layanan Pelanggan profesional 24/7 yang siap melayani Anda.<br><br></div>
+                    </div>
+                </div>
+            </div>
+        </footer>
+        <div class=fixed-footer><a href=/mobile/home data-active=true> <img alt=Home height=25 loading=lazy decoding=async
+                    src="//dsuown9evwz4y.cloudfront.net/Images/v-normad-alpha/dark-purple/mobile/layout/footer/home-v2.svg?v=1787036880"
+                    style="--image-src:url(//dsuown9evwz4y.cloudfront.net/Images/v-normad-alpha/dark-purple/mobile/layout/footer/home-v2-active.svg?v=1787036880)"
+                    width=25> Beranda </a> <a href=/mobile/promotion data-active=false> <img alt=Promotion height=25
+                    loading=lazy decoding=async
+                    src="//dsuown9evwz4y.cloudfront.net/Images/v-normad-alpha/dark-purple/mobile/layout/footer/promotion-v2.svg?v=1787036880"
+                    style="--image-src:url(//dsuown9evwz4y.cloudfront.net/Images/v-normad-alpha/dark-purple/mobile/layout/footer/promotion-v2-active.svg?v=1787036880)"
+                    width=25> Promosi </a> <a data-require-login=/mobile/deposit data-active=false> <img alt=Masuk
+                    height=25 loading=lazy decoding=async
+                    src="//dsuown9evwz4y.cloudfront.net/Images/v-normad-alpha/dark-purple/mobile/layout/footer/login.svg?v=1787036880"
+                    style="--image-src:url(//dsuown9evwz4y.cloudfront.net/Images/v-normad-alpha/dark-purple/mobile/layout/footer/login-active.svg?v=1787036880)"
+                    width=25>Masuk </a> <a href=/mobile/contact-us data-active=false> <img alt="Contact Us" height=25
+                    loading=lazy decoding=async
+                    src="//dsuown9evwz4y.cloudfront.net/Images/v-normad-alpha/dark-purple/mobile/layout/footer/live-chat-v2.svg?v=1787036880"
+                    style="--image-src:url(//dsuown9evwz4y.cloudfront.net/Images/v-normad-alpha/dark-purple/mobile/layout/footer/live-chat-v2-active.svg?v=1787036880)"
+                    width=25> Hub. Kami </a> <a href=/mobile/account-summary data-active=false> <img alt="My Account"
+                    height=25 loading=lazy decoding=async
+                    src="//dsuown9evwz4y.cloudfront.net/Images/v-normad-alpha/dark-purple/mobile/layout/footer/my-account-v2.svg?v=1787036880"
+                    style="--image-src:url(//dsuown9evwz4y.cloudfront.net/Images/v-normad-alpha/dark-purple/mobile/layout/footer/my-account-v2-active.svg?v=1787036880)"
+                    width=25> Akun Saya </a></div>
+        <div id=popup_modal class="modal popup-modal" role=dialog data-title="" aria-label="Popup Modal">
+            <div class=modal-dialog>
+                <div class=modal-content id=popup_modal_content
+                    style="--desktop-popup-alert-src:url(//dsuown9evwz4y.cloudfront.net/Images/v-normad-alpha/dark-purple/desktop/layout/popup/alert.png?v=1787036880);;--desktop-popup-notification-src:url(//dsuown9evwz4y.cloudfront.net/Images/v-normad-alpha/dark-purple/desktop/layout/popup/notification.png?v=1787036880);;--mobile-popup-alert-src:url(//dsuown9evwz4y.cloudfront.net/Images/v-normad-alpha/dark-purple/mobile/layout/popup/alert.png?v=1787036880);;--mobile-popup-notification-src:url(//dsuown9evwz4y.cloudfront.net/Images/v-normad-alpha/dark-purple/mobile/layout/popup/notification.png?v=1787036880);;--event-giveaway-popper-src:url(//dsuown9evwz4y.cloudfront.net/Images/giveaway/popper.png?v=1787036880);;--popup-warning-icon-src:url(//dsuown9evwz4y.cloudfront.net/Images/icons/popup/warning.svg?v=1787036880);;--popup-success-icon-src:url(//dsuown9evwz4y.cloudfront.net/Images/icons/popup/success.svg?v=1787036880);;--popup-failed-icon-src:url(//dsuown9evwz4y.cloudfront.net/Images/icons/popup/failed.svg?v=1787036880);;--popup-pending-icon-src:url(//dsuown9evwz4y.cloudfront.net/Images/icons/popup/pending.svg?v=1787036880)">
+                    <div class=modal-header><button type=button class=close data-dismiss=modal aria-label=Close> <span
+                                aria-hidden=true>&times;</span> </button>
+                        <h4 class=modal-title id=popup_modal_title></h4>
+                    </div>
+                    <div class=modal-body id=popup_modal_body></div>
+                    <div class=modal-footer><button type=button class="btn btn-primary" data-dismiss=modal
+                            id=popup_modal_dismiss_button> OK </button> <button type=button class="btn btn-secondary"
+                            data-dismiss=modal id=popup_modal_cancel_button style=display:none> Tidak </button> <button
+                            type=button class="btn btn-primary" id=popup_modal_confirm_button style=display:none> Ya
+                        </button></div>
+                </div>
+            </div>
+        </div>
+        <script src='/bundles/Home/mobile-jsv=H42oH4lnVJybuCLFnizYmN5ehZ9eErOiXHfGpZIn5j81.js' defer></script>
+        <script src='/bundles/Reporting/reporting-detail-jsv=5uJBXygUtHYb_1S_LWMu6eHCb3cyEkKv4NSlBH_Y4G41.js' defer>
+        </script>
+        <script>
+            window.addEventListener('DOMContentLoaded', () => {
+                $(() => {
+                    initializeCopyAccountNumber({
+                        translations: {
+                            copied: "Disalin"
+                        }
+                    });
+                });
+            });
+
+        </script>
+        <script>
+            window.currencyOptions = {
+                conversionRate: 1000,
+                thousandSeparator: ".",
+                locale: "id"
+            };
+
+        </script>
+        <script>
+            navigator.serviceWorker.getRegistrations().then(registrations => {
+                for (const registration of registrations) {
+                    registration.unregister();
+                }
+            });
+
+        </script>
+        <div id=login_modal class="modal login-modal simple-modal" role=dialog>
+            <div class=modal-dialog>
+                <div class=modal-content>
+                    <div class=modal-header><button type=button class=close data-dismiss=modal aria-label=Close> <span
+                                aria-hidden=true>&times;</span> </button>
+                        <h4 class=modal-title>MASUK</h4>
+                        <hr>
+                    </div>
+                    <div class=modal-body>
+                        <div class=form-group>
+                            <div class=alert-danger id=register_alert hidden></div>
+                            <div class=alert-success id=register_success_alert hidden></div>
+                        </div>
+                        <div id=login_form_container class=login-form-container>
+                            <div id=loader_container class="popup-loader-container display">
+                                <div class=loader-spinner><span></span></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <form action=/Account/SocialLogin id=social_login_form method=post><input name=__RequestVerificationToken
+                type=hidden
+                value=q3yyNDy6OMceKO3QUOgCHSLPIH3HgCstN_-HW7LbYWVAUSMmNIxruNmtwWA4glchvW6o2FKBEVhfsiavdo3kC5C8KsI1>
+            <input type=hidden name=Token id=login_social_token_input> <input type=hidden name=SocialLinkClient
+                id=login_social_link_client_input> <input type=hidden name=VisitorId class=visitor_id_input>
+        </form>
+        <script>
+            window.addEventListener('DOMContentLoaded', () => {
+                const loginModal = document.querySelector('#login_modal');
+                $(loginModal).on('shown.bs.modal', () => {
+                    const loginFormContainer = document.querySelector('#login_form_container');
+                    const loginForm = loginFormContainer.querySelector("form");
+                    if (loginFormContainer && !loginForm) {
+                        $.ajax({
+                            type: 'POST',
+                            url: '/Account/GetLoginForm?language=id',
+                            data: {
+                                hostname: window.location.hostname
+                            },
+                            dataType: 'html',
+                            success: (response) => {
+                                loginFormContainer.innerHTML = response;
+                                initializePasswordInputTrigger();
+                                initializeThumbmark();
+                                const responseLoginForm = document.querySelector(
+                                    '#login_form_container form');
+                                $(responseLoginForm).validate({
+                                    rules: {
+                                        Username: {
+                                            required: true
+                                        },
+                                        Password: {
+                                            required: true
+                                        }
+                                    },
+                                    messages: {
+                                        Username: {
+                                            required: "Nama pengguna harus diisi.",
+                                        },
+                                        Password: {
+                                            required: "Kata sandi harus diisi.",
+                                        }
+                                    }
+                                });
+                                responseLoginForm.onsubmit = (e) => {
+                                    if (!$(responseLoginForm).valid()) {
+                                        return false;
+                                    }
+                                    const submitButtons = responseLoginForm
+                                        .querySelectorAll('.btn-primary');
+                                    $(submitButtons).prop('disabled', true);
+                                    return true;
+                                };
+                                const captchaContainer = document.querySelector(
+                                    '#login_form_container .captcha-container');
+                                if (captchaContainer) {
+                                    const refreshButton = document.querySelector(
+                                        '#login_form_container .captcha-container #refresh_login_captcha_button'
+                                    );
+                                    window.initializeCaptcha({
+                                        button: refreshButton,
+                                        image: captchaContainer.querySelector(
+                                            '#login_captcha_image')
+                                    });
+                                    refreshButton.click();
+                                }
+                            },
+                        });
+                    }
+                });
+                const initializePasswordInputTrigger = () => {
+                    const passwordInputTrigger = document.querySelector('#password_input_trigger');
+                    const passwordInput = document.querySelector('#password_input');
+                    passwordInputTrigger.onclick = () => {
+                        if (passwordInput.type === 'password') {
+                            passwordInput.type = 'text';
+                            return;
+                        }
+                        passwordInput.type = 'password';
+                    };
+                }
+                if (window.location.search.startsWith('?login')) {
+                    $(loginModal).modal();
+                    $('#popup_modal').modal('hide');
+                }
+            });
+
+        </script>
+        <div id=register_modal class="modal register-modal" role=dialog data-social-link-client=Unknown>
+            <div class=modal-dialog>
+                <div class=modal-content>
+                    <div class=modal-header><button type=button class=close data-dismiss=modal aria-label=Close> <span
+                                aria-hidden=true>&times;</span> </button>
+                        <h4 class=modal-title>DAFTAR</h4>
+                        <hr>
+                    </div>
+                    <div class=modal-body>
+                        <div class=form-group>
+                            <div class=alert-danger id=register_alert hidden></div>
+                            <div class=alert-success id=register_success_alert hidden></div>
+                        </div>
+                        <div id=ajax_register_popup_container>
+                            <div class="popup-loader-container display">
+                                <div class=loader-spinner><span></span></div>
+                            </div>
+                        </div>
+                        <div class=register-page-reminder>Dengan klik tombol DAFTAR, saya menyatakan bahwa saya berumur
+                            diatas 18 tahun. Saya telah membaca dan menyetujui Syarat dan Ketentuan dari LAGA88.</div>
+                        <div class=register-page-link><a
+                                href="javascript:window.openPopup('/terms-of-use','T&amp;C-Page')"> SYARAT &amp;
+                                KETENTUAN </a></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class=bonus-selection-popup-container id=bonus_selection_popup_container data-page=register></div>
+        <script>
+            window.addEventListener('DOMContentLoaded', () => {
+                const registerModal = document.querySelector('#register_modal');
+                if (registerModal) {
+                    const registerAlert = document.querySelector('#register_alert');
+                    const registerSuccessAlert = document.querySelector('#register_success_alert');
+                    registerAlert.hidden = true;
+                    registerSuccessAlert.hidden = true;
+                    window.onRegisterAjaxRequestSuccess = (response) => {
+                        registerAlert.hidden = true;
+                        registerSuccessAlert.hidden = true;
+                        registerPopup({
+                            contentTitle: response.statusText,
+                            content: response.message
+                        });
+                        if (response.status !== true) {
+                            registerAlert.innerText = response.message;
+                            registerAlert.hidden = false;
+                            return;
+                        }
+                        registerSuccessAlert.innerText = response.message;
+                        registerSuccessAlert.hidden = false;
+                        window.location.href = response.externalUrl;
+                        setTimeout(() => {
+                            const submitButtons = document.querySelectorAll('.btn-primary');
+                            $(submitButtons).prop('disabled', true);
+                        })
+                    };
+                    $(registerModal).on('shown.bs.modal', () => {
+                        const registerPopupContainer = document.querySelector(
+                            '#ajax_register_popup_container');
+                        const tempAccessTokenInput = registerModal.querySelector(
+                            '#temp_access_token_input');
+                        let accessToken;
+                        if (tempAccessTokenInput) {
+                            accessToken = tempAccessTokenInput.value;
+                        }
+                        const socialLinkClient = registerModal.dataset.socialLinkClient;
+                        const isDefaultRegistration = socialLinkClient === 'Unknown';
+                        if (registerPopupContainer) {
+                            $.ajax({
+                                type: 'POST',
+                                url: '/Register/AjaxRegisterPopup?language=id',
+                                contentType: 'application/json; charset=utf-8',
+                                data: JSON.stringify({
+                                    isDefaultRegistration: isDefaultRegistration,
+                                    accessToken: accessToken,
+                                    socialLinkClient: socialLinkClient
+                                }),
+                                dataType: 'html',
+                                success: (response) => {
+                                    registerPopupContainer.innerHTML = response;
+                                    const registerScriptTemplate = document.body
+                                        .querySelector('#register_script_template');
+                                    if (registerScriptTemplate) {
+                                        document.body.appendChild(registerScriptTemplate
+                                            .content.cloneNode(true));
+                                    }
+                                    if (registerPopupContainer.querySelector(
+                                            '#register_form')) {
+                                        $.validator.unobtrusive.parse('#register_form')
+                                    }
+                                    initializeBonusSelection();
+                                    initializeRegisterInfo();
+                                    initializeThumbmark();
+                                    initializeCountryCodeDropdown({
+                                        parentForm: '#register_form',
+                                        translations: {
+                                            contactNumberLengthErrorMessage: 'Nomor kontak hanya boleh terdiri dari 9-12 digit.'
+                                        }
+                                    });
+                                    const copyButtons = document.querySelectorAll(
+                                        '#register_form [data-copy-button]');
+                                    Array.from(copyButtons).forEach(button => {
+                                        window.addCopyAction(button);
+                                    });
+                                    const captchaContainer = document.querySelector(
+                                        '#register_form .captcha-container');
+                                    if (captchaContainer) {
+                                        const refreshButton = document.querySelector(
+                                            '#register_form .captcha-container #refresh_register_captcha_button'
+                                        );
+                                        window.initializeCaptcha({
+                                            button: refreshButton,
+                                            image: captchaContainer.querySelector(
+                                                '#register_captcha_image')
+                                        });
+                                        refreshButton.click();
+                                    }
+                                },
+                            });
+                        }
+                    });
+                    $(registerModal).on('hidden.bs.modal', () => {
+                        registerModal.dataset.socialLinkClient = 'Unknown';
+                    });
+                }
+                if (window.location.search.startsWith('?register')) {
+                    $('#register_modal').modal();
+                    $('#popup_modal').modal('hide');
+                }
+            });
+
+        </script>
+        <div id=register_method_selection_modal class="modal register-modal" role=dialog>
+            <div class=modal-dialog>
+                <div class=modal-content>
+                    <div class=modal-header><button type=button class=close data-dismiss=modal aria-label=Close> <span
+                                aria-hidden=true>&times;</span> </button>
+                        <h4 class=modal-title>DAFTAR</h4>
+                        <hr>
+                    </div>
+                    <div class=modal-body>
+                        <div class=standard-button-group><button class="standard-secondary-button btn btn-primary"
+                                type=button data-toggle=modal data-target=#register_modal data-dismiss=modal> Buat Akun
+                                Baru </button></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class=search-popup-container id=search_popup_container></div>
+        <script>
+            const gaCallback = false;
+
+        </script>
+        
+        <div id=backdrop_overlay></div>
+        <script type="module"
+            src="https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496"
+            integrity="sha512-ZE9pZaUXND66v380QUtch/5sE9tPFh2zg45pR2PB0CVkCtOREv2AJKkSidISWkysEuQ0EH8faUU5du78bx87UQ=="
+            data-cf-beacon='{"version":"2024.11.0","token":"957df930d597452e87dd85a91d2a1c2a","r":1}'
+            crossorigin="anonymous"></script>
