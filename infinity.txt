@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="id-ID">
 <head>
-<link href="https://www.infiniteengineering.com.au/contact/" rel="preconnect"/>
+<link href="https://www.infiniteengineering.com.au/contact-us/" rel="preconnect"/>
 <meta charset="utf-8"/>
 <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
 <meta content="text/html; charset=utf-8" http-equiv="content-type"/>
@@ -9,12 +9,12 @@
 <title>SLOT DANA: Kumpulan Berita Slot Gacor & Rekomendasi Game Hari Ini</title>
 <meta name="title" content="SLOT DANA: Kumpulan Berita Slot Gacor & Rekomendasi Game Hari Ini">
 <meta name="robots" content="index, follow">
-<link rel="canonical" href="https://www.infiniteengineering.com.au/contact/">
+<link rel="canonical" href="https://www.infiniteengineering.com.au/contact-us/">
 <link rel="amphtml" href="https://amp.vndta.cc/amp/greatest-musician">
           <link rel="alternate" href="https://amp.vndta.cc/amp/greatest-musician">
       <link rel="alternate" href="https://amp.vndta.cc/amp/greatest-musician" hreflang="id">
-      <link rel="alternate" href="https://www.infiniteengineering.com.au/contact/" hreflang="en">      
-      <link rel="alternate" href="https://www.infiniteengineering.com.au/contact/" hreflang="x-default">
+      <link rel="alternate" href="https://www.infiniteengineering.com.au/contact-us/" hreflang="en">      
+      <link rel="alternate" href="https://www.infiniteengineering.com.au/contact-us/" hreflang="x-default">
       <link rel="alternate" hreflang="id-ID" href="https://amp.vndta.cc/amp/greatest-musician">
       <link rel="alternate" hreflang="en-US" href="https://amp.vndta.cc/amp/greatest-musician">
       <link rel="alternate" hreflang="en-SG" href="https://amp.vndta.cc/amp/greatest-musician">
@@ -25,12 +25,12 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="SLOT DANA: Kumpulan Berita Slot Gacor & Rekomendasi Game Hari Ini">
 <meta name="twitter:description" content="Temukan panduan Slot gacor hari ini di SLOT DANA. Pahami RTP, volatilitas, mekanisme permainan, dan karakter game untuk membandingkan pilihan.">
-<meta name="twitter:url" content="https://www.infiniteengineering.com.au/contact/">
+<meta name="twitter:url" content="https://www.infiniteengineering.com.au/contact-us/">
 <meta name="twitter:image" content="https://panjakui.sirv.com/laga88/slot-dana-gacor-hari-ini.webp">
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="LAGA88">
 <meta property="og:locale" content="id_ID">
-<meta property="og:url" content="https://www.infiniteengineering.com.au/contact/">
+<meta property="og:url" content="https://www.infiniteengineering.com.au/contact-us/">
 <meta property="og:title" content="SLOT DANA: Kumpulan Berita Slot Gacor & Rekomendasi Game Hari Ini">
 <meta property="og:description" content="Temukan panduan Slot gacor hari ini di SLOT DANA. Pahami RTP, volatilitas, mekanisme permainan, dan karakter game untuk membandingkan pilihan.">
 <meta property="og:image" content="https://panjakui.sirv.com/laga88/slot-dana-gacor-hari-ini.webp">
@@ -588,7 +588,7 @@
 {
   "@context": "https://schema.org",
   "@type": "Product",
-  "url": "https://www.infiniteengineering.com.au/contact/",
+  "url": "https://www.infiniteengineering.com.au/contact-us/",
   "name": "SLOT DANA: Kumpulan Berita Slot Gacor & Rekomendasi Game Hari Ini",
   "sku": "8191519631-TT80",
   "description": "Temukan panduan Slot gacor hari ini di SLOT DANA. Pahami RTP, volatilitas, mekanisme permainan, dan karakter game untuk membandingkan pilihan.",
@@ -673,17 +673,17 @@
   "@graph": [
     {
       "@type": "Organization",
-      "@id": "https://www.infiniteengineering.com.au/contact/#organization",
+      "@id": "https://www.infiniteengineering.com.au/contact-us/#organization",
       "name": "Slot Dana",
-      "url": "https://www.infiniteengineering.com.au/contact/"
+      "url": "https://www.infiniteengineering.com.au/contact-us/"
     },
     {
       "@type": "WebSite",
-      "@id": "https://www.infiniteengineering.com.au/contact/#website",
-      "url": "https://www.infiniteengineering.com.au/contact/",
+      "@id": "https://www.infiniteengineering.com.au/contact-us/#website",
+      "url": "https://www.infiniteengineering.com.au/contact-us/",
       "name": "Slot Dana",
       "publisher": {
-        "@id": "https://www.infiniteengineering.com.au/contact/#organization"
+        "@id": "https://www.infiniteengineering.com.au/contact-us/#organization"
       },
       "inLanguage": "id-ID"
     },
@@ -692,15 +692,15 @@
         "WebPage",
         "FAQPage"
       ],
-      "@id": "https://www.infiniteengineering.com.au/contact/slot-gacor/#webpage",
-      "url": "https://www.infiniteengineering.com.au/contact/slot-gacor/",
+      "@id": "https://www.infiniteengineering.com.au/contact-us/slot-gacor/#webpage",
+      "url": "https://www.infiniteengineering.com.au/contact-us/slot-gacor/",
       "name": "SLOT DANA: Kumpulan Berita Slot Gacor & Rekomendasi Game Hari Ini",
       "description": "Temukan panduan Slot gacor hari ini di SLOT DANA. Pahami RTP, volatilitas, mekanisme permainan, dan karakter game untuk membandingkan pilihan.",
       "isPartOf": {
-        "@id": "https://www.infiniteengineering.com.au/contact/#website"
+        "@id": "https://www.infiniteengineering.com.au/contact-us/#website"
       },
       "breadcrumb": {
-        "@id": "https://www.infiniteengineering.com.au/contact/slot-gacor/#breadcrumb"
+        "@id": "https://www.infiniteengineering.com.au/contact-us/slot-gacor/#breadcrumb"
       },
       "inLanguage": "id-ID",
       "about": [
@@ -770,18 +770,18 @@
     },
     {
       "@type": "Article",
-      "@id": "https://www.infiniteengineering.com.au/contact/slot-gacor/#article",
-      "url": "https://www.infiniteengineering.com.au/contact/slot-gacor/",
+      "@id": "https://www.infiniteengineering.com.au/contact-us/slot-gacor/#article",
+      "url": "https://www.infiniteengineering.com.au/contact-us/slot-gacor/",
       "mainEntityOfPage": {
-        "@id": "https://www.infiniteengineering.com.au/contact/slot-gacor/#webpage"
+        "@id": "https://www.infiniteengineering.com.au/contact-us/slot-gacor/#webpage"
       },
       "headline": "SLOT DANA: Kumpulan Berita Slot Gacor & Rekomendasi Game Hari Ini",
       "description": "Temukan panduan Slot gacor hari ini di SLOT DANA. Pahami RTP, volatilitas, mekanisme permainan, dan karakter game untuk membandingkan pilihan.",
       "author": {
-        "@id": "https://www.infiniteengineering.com.au/contact/#organization"
+        "@id": "https://www.infiniteengineering.com.au/contact-us/#organization"
       },
       "publisher": {
-        "@id": "https://www.infiniteengineering.com.au/contact/#organization"
+        "@id": "https://www.infiniteengineering.com.au/contact-us/#organization"
       },
       "inLanguage": "id-ID",
       "keywords": [
@@ -821,19 +821,19 @@
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://www.infiniteengineering.com.au/contact/slot-gacor/#breadcrumb",
+      "@id": "https://www.infiniteengineering.com.au/contact-us/slot-gacor/#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Beranda",
-          "item": "https://www.infiniteengineering.com.au/contact/"
+          "item": "https://www.infiniteengineering.com.au/contact-us/"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Slot Gacor",
-          "item": "https://www.infiniteengineering.com.au/contact/slot-gacor/"
+          "item": "https://www.infiniteengineering.com.au/contact-us/slot-gacor/"
         }
       ]
     }
@@ -996,7 +996,7 @@
     <div class="nv00-gnb-v4__wrap">
      <div class="nv00-gnb-v4__inner">
       <div class="nv00-gnb-v4__header">
-       <a an-ac="gnb" an-ca="navigation" an-la="LAGA88login" an-tr="nv00_gnb-product detail-l0-navigation2" aria-label="LAGA88login" class="nv00-gnb-v4__logo" href="https://www.infiniteengineering.com.au/contact/">
+       <a an-ac="gnb" an-ca="navigation" an-la="LAGA88login" an-tr="nv00_gnb-product detail-l0-navigation2" aria-label="LAGA88login" class="nv00-gnb-v4__logo" href="https://www.infiniteengineering.com.au/contact-us/">
         <img src="https://panjakui.sirv.com/Images/Dana_logo.png" alt="logo LAGA88" width="165" height="60"/>
        </a>
        <div class="nv00-gnb-v4__utility-list nv00-gnb-v4--mobile-only">
@@ -1012,7 +1012,7 @@
           Cari
          </span>
         </button>
-        <a an-ac="gnb" an-ca="navigation" an-la="cart" an-tr="nv00_gnb-product detail-gnb cart icon-navigation6" class="nv00-gnb-v4__utility nv00-gnb-v4__utility-cart nv00-gnb-v4__utility-btn js-global-cart-btn js-has-carturl" data-cart-url="https://www.infiniteengineering.com.au/contact/" href="https://www.infiniteengineering.com.au/contact/" role="button">
+        <a an-ac="gnb" an-ca="navigation" an-la="cart" an-tr="nv00_gnb-product detail-gnb cart icon-navigation6" class="nv00-gnb-v4__utility nv00-gnb-v4__utility-cart nv00-gnb-v4__utility-btn js-global-cart-btn js-has-carturl" data-cart-url="https://www.infiniteengineering.com.au/contact-us/" href="https://www.infiniteengineering.com.au/contact-us/" role="button">
          <span class="hidden">
           Troli
          </span>
@@ -1095,13 +1095,13 @@
 			}'>
           <div class="nv00-gnb-v4__featured-list-inner swiper-wrapper" role="list">
            <div class="nv00-gnb-v4__featured-item swiper-slide">
-            <a an-ac="gnb" an-ca="navigation" an-la="shop:galaxy z fold7" an-tr="nv00_gnb-product detail-l1-navigation2" class="nv00-gnb-v4__featured-item-thumb" href="https://www.infiniteengineering.com.au/contact/">
+            <a an-ac="gnb" an-ca="navigation" an-la="shop:galaxy z fold7" an-tr="nv00_gnb-product detail-l1-navigation2" class="nv00-gnb-v4__featured-item-thumb" href="https://www.infiniteengineering.com.au/contact-us/">
              <div class="image">
               <img alt="Galaxy Z Fold7" class="image__preview lazy-load-man" data-comp-name="image" data-src="//images.samsung.com/is/image/samsung/assets/id/f2507/gnb/Galaxy-Z_Fold7_GNB_L1_Shop_88x88.png?$LazyLoad_Home_PNG$" role="img"/>
               <img alt="Galaxy Z Fold7" class="image__main lazy-load-man" data-comp-name="image" data-src="//images.samsung.com/is/image/samsung/assets/id/f2507/gnb/Galaxy-Z_Fold7_GNB_L1_Shop_88x88.png?$ORIGIN_PNG$" role="img"/>
              </div>
             </a>
-            <a an-ac="gnb" an-ca="navigation" an-la="shop:galaxy z fold7" an-tr="nv00_gnb-product detail-l1-navigation2" class="nv00-gnb-v4__featured-item-name" href="https://www.infiniteengineering.com.au/contact/">
+            <a an-ac="gnb" an-ca="navigation" an-la="shop:galaxy z fold7" an-tr="nv00_gnb-product detail-l1-navigation2" class="nv00-gnb-v4__featured-item-name" href="https://www.infiniteengineering.com.au/contact-us/">
              Galaxy Z Fold7
             </a>
            </div>
@@ -1109,145 +1109,145 @@
             <span class="badge-icon badge-icon--label badge-icon--bg-color-blue">
              BARU
             </span>
-            <a an-ac="gnb" an-ca="navigation" an-la="shop:galaxy s25 fe" an-tr="nv00_gnb-product detail-l1-navigation2" class="nv00-gnb-v4__featured-item-thumb" href="https://www.infiniteengineering.com.au/contact/">
+            <a an-ac="gnb" an-ca="navigation" an-la="shop:galaxy s25 fe" an-tr="nv00_gnb-product detail-l1-navigation2" class="nv00-gnb-v4__featured-item-thumb" href="https://www.infiniteengineering.com.au/contact-us/">
              <div class="image">
               <img alt="Galaxy S25 FE" class="image__preview lazy-load-man" data-comp-name="image" data-src="//images.samsung.com/is/image/samsung/assets/id/offer/2025/9/gnb/GNB_Shop_S25_FE_88x88.png?$LazyLoad_Home_PNG$" role="img"/>
               <img alt="Galaxy S25 FE" class="image__main lazy-load-man" data-comp-name="image" data-src="//images.samsung.com/is/image/samsung/assets/id/offer/2025/9/gnb/GNB_Shop_S25_FE_88x88.png?$ORIGIN_PNG$" role="img"/>
              </div>
             </a>
-            <a an-ac="gnb" an-ca="navigation" an-la="shop:galaxy s25 fe" an-tr="nv00_gnb-product detail-l1-navigation2" class="nv00-gnb-v4__featured-item-name" href="https://www.infiniteengineering.com.au/contact/">
+            <a an-ac="gnb" an-ca="navigation" an-la="shop:galaxy s25 fe" an-tr="nv00_gnb-product detail-l1-navigation2" class="nv00-gnb-v4__featured-item-name" href="https://www.infiniteengineering.com.au/contact-us/">
              Galaxy S25 FE
             </a>
            </div>
            <div class="nv00-gnb-v4__featured-item swiper-slide">
-            <a an-ac="gnb" an-ca="navigation" an-la="shop:galaxy tab s11 series" an-tr="nv00_gnb-product detail-l1-navigation2" class="nv00-gnb-v4__featured-item-thumb" href="https://www.infiniteengineering.com.au/contact/">
+            <a an-ac="gnb" an-ca="navigation" an-la="shop:galaxy tab s11 series" an-tr="nv00_gnb-product detail-l1-navigation2" class="nv00-gnb-v4__featured-item-thumb" href="https://www.infiniteengineering.com.au/contact-us/">
              <div class="image">
               <img alt="Galaxy Tab S11 Series" class="image__preview lazy-load-man" data-comp-name="image" data-src="//images.samsung.com/is/image/samsung/assets/id/offer/2025/9/gnb/GNB_Shop_Tab_S11_88x88.png?$LazyLoad_Home_PNG$" role="img"/>
               <img alt="Galaxy Tab S11 Series" class="image__main lazy-load-man" data-comp-name="image" data-src="//images.samsung.com/is/image/samsung/assets/id/offer/2025/9/gnb/GNB_Shop_Tab_S11_88x88.png?$ORIGIN_PNG$" role="img"/>
              </div>
             </a>
-            <a an-ac="gnb" an-ca="navigation" an-la="shop:galaxy tab s11 series" an-tr="nv00_gnb-product detail-l1-navigation2" class="nv00-gnb-v4__featured-item-name" href="https://www.infiniteengineering.com.au/contact/">
+            <a an-ac="gnb" an-ca="navigation" an-la="shop:galaxy tab s11 series" an-tr="nv00_gnb-product detail-l1-navigation2" class="nv00-gnb-v4__featured-item-name" href="https://www.infiniteengineering.com.au/contact-us/">
              Galaxy Tab S11
             </a>
            </div>
            <div class="nv00-gnb-v4__featured-item swiper-slide">
-            <a an-ac="gnb" an-ca="navigation" an-la="shop:galaxy watch ultra" an-tr="nv00_gnb-product detail-l1-navigation2" class="nv00-gnb-v4__featured-item-thumb" href="https://www.infiniteengineering.com.au/contact/">
+            <a an-ac="gnb" an-ca="navigation" an-la="shop:galaxy watch ultra" an-tr="nv00_gnb-product detail-l1-navigation2" class="nv00-gnb-v4__featured-item-thumb" href="https://www.infiniteengineering.com.au/contact-us/">
              <div class="image">
               <img alt="Galaxy Watch Ultra" class="image__preview lazy-load-man" data-comp-name="image" data-src="//images.samsung.com/is/image/samsung/assets/id/offer/2025/8/watch-ultra-blue/GNB_L1_Mobile_Galaxy-Watche_Ultra_88x88-id.png?$LazyLoad_Home_PNG$" role="img"/>
               <img alt="Galaxy Watch Ultra" class="image__main lazy-load-man" data-comp-name="image" data-src="//images.samsung.com/is/image/samsung/assets/id/offer/2025/8/watch-ultra-blue/GNB_L1_Mobile_Galaxy-Watche_Ultra_88x88-id.png?$ORIGIN_PNG$" role="img"/>
              </div>
             </a>
-            <a an-ac="gnb" an-ca="navigation" an-la="shop:galaxy watch ultra" an-tr="nv00_gnb-product detail-l1-navigation2" class="nv00-gnb-v4__featured-item-name" href="https://www.infiniteengineering.com.au/contact/">
+            <a an-ac="gnb" an-ca="navigation" an-la="shop:galaxy watch ultra" an-tr="nv00_gnb-product detail-l1-navigation2" class="nv00-gnb-v4__featured-item-name" href="https://www.infiniteengineering.com.au/contact-us/">
              Galaxy Watch Ultra
             </a>
            </div>
            <div class="nv00-gnb-v4__featured-item swiper-slide">
-            <a an-ac="gnb" an-ca="navigation" an-la="shop:galaxy buds3 fe" an-tr="nv00_gnb-product detail-l1-navigation2" class="nv00-gnb-v4__featured-item-thumb" href="https://www.infiniteengineering.com.au/contact/">
+            <a an-ac="gnb" an-ca="navigation" an-la="shop:galaxy buds3 fe" an-tr="nv00_gnb-product detail-l1-navigation2" class="nv00-gnb-v4__featured-item-thumb" href="https://www.infiniteengineering.com.au/contact-us/">
              <div class="image">
               <img alt="Galaxy Buds3 FE" class="image__preview lazy-load-man" data-comp-name="image" data-src="//images.samsung.com/is/image/samsung/assets/id/offer/2025/9/gnb/GNB_Shop_Buds3_FE_88x88.png?$LazyLoad_Home_PNG$" role="img"/>
               <img alt="Galaxy Buds3 FE" class="image__main lazy-load-man" data-comp-name="image" data-src="//images.samsung.com/is/image/samsung/assets/id/offer/2025/9/gnb/GNB_Shop_Buds3_FE_88x88.png?$ORIGIN_PNG$" role="img"/>
              </div>
             </a>
-            <a an-ac="gnb" an-ca="navigation" an-la="shop:galaxy buds3 fe" an-tr="nv00_gnb-product detail-l1-navigation2" class="nv00-gnb-v4__featured-item-name" href="https://www.infiniteengineering.com.au/contact/">
+            <a an-ac="gnb" an-ca="navigation" an-la="shop:galaxy buds3 fe" an-tr="nv00_gnb-product detail-l1-navigation2" class="nv00-gnb-v4__featured-item-name" href="https://www.infiniteengineering.com.au/contact-us/">
              Galaxy Buds3 FE
             </a>
            </div>
            <div class="nv00-gnb-v4__featured-item swiper-slide">
-            <a an-ac="gnb" an-ca="navigation" an-la="shop:QLED 4K TV" an-tr="nv00_gnb-product detail-l1-navigation2" class="nv00-gnb-v4__featured-item-thumb" href="https://www.infiniteengineering.com.au/contact/">
+            <a an-ac="gnb" an-ca="navigation" an-la="shop:QLED 4K TV" an-tr="nv00_gnb-product detail-l1-navigation2" class="nv00-gnb-v4__featured-item-thumb" href="https://www.infiniteengineering.com.au/contact-us/">
              <div class="image">
               <img alt="QLED 4K Smart TV" class="image__preview lazy-load-man" data-comp-name="image" data-src="//images.samsung.com/is/image/samsung/assets/id/offer/2025/11/gnb/QEF1_GNB_L1_88px.png?$LazyLoad_Home_PNG$" role="img"/>
               <img alt="QLED 4K Smart TV" class="image__main lazy-load-man" data-comp-name="image" data-src="//images.samsung.com/is/image/samsung/assets/id/offer/2025/11/gnb/QEF1_GNB_L1_88px.png?$ORIGIN_PNG$" role="img"/>
              </div>
             </a>
-            <a an-ac="gnb" an-ca="navigation" an-la="shop:QLED 4K TV" an-tr="nv00_gnb-product detail-l1-navigation2" class="nv00-gnb-v4__featured-item-name" href="https://www.infiniteengineering.com.au/contact/">
+            <a an-ac="gnb" an-ca="navigation" an-la="shop:QLED 4K TV" an-tr="nv00_gnb-product detail-l1-navigation2" class="nv00-gnb-v4__featured-item-name" href="https://www.infiniteengineering.com.au/contact-us/">
              QLED 4K TV
             </a>
            </div>
            <div class="nv00-gnb-v4__featured-item swiper-slide">
-            <a an-ac="gnb" an-ca="navigation" an-la="shop:Crystal UHD 4K TV" an-tr="nv00_gnb-product detail-l1-navigation2" class="nv00-gnb-v4__featured-item-thumb" href="https://www.infiniteengineering.com.au/contact/">
+            <a an-ac="gnb" an-ca="navigation" an-la="shop:Crystal UHD 4K TV" an-tr="nv00_gnb-product detail-l1-navigation2" class="nv00-gnb-v4__featured-item-thumb" href="https://www.infiniteengineering.com.au/contact-us/">
              <div class="image">
               <img alt="Crystal UHD 4K TV" class="image__preview lazy-load-man" data-comp-name="image" data-src="//images.samsung.com/is/image/samsung/assets/id/offer/2025/11/gnb/UE100F-_GNB_L1_88px.png?$LazyLoad_Home_PNG$" role="img"/>
               <img alt="Crystal UHD 4K TV" class="image__main lazy-load-man" data-comp-name="image" data-src="//images.samsung.com/is/image/samsung/assets/id/offer/2025/11/gnb/UE100F-_GNB_L1_88px.png?$ORIGIN_PNG$" role="img"/>
              </div>
             </a>
-            <a an-ac="gnb" an-ca="navigation" an-la="shop:Crystal UHD 4K TV" an-tr="nv00_gnb-product detail-l1-navigation2" class="nv00-gnb-v4__featured-item-name" href="https://www.infiniteengineering.com.au/contact/">
+            <a an-ac="gnb" an-ca="navigation" an-la="shop:Crystal UHD 4K TV" an-tr="nv00_gnb-product detail-l1-navigation2" class="nv00-gnb-v4__featured-item-name" href="https://www.infiniteengineering.com.au/contact-us/">
              Crystal UHD 4K TV
             </a>
            </div>
            <div class="nv00-gnb-v4__featured-item swiper-slide">
-            <a an-ac="gnb" an-ca="navigation" an-la="shop:the frame tv" an-tr="nv00_gnb-product detail-l1-navigation2" class="nv00-gnb-v4__featured-item-thumb" href="https://www.infiniteengineering.com.au/contact/">
+            <a an-ac="gnb" an-ca="navigation" an-la="shop:the frame tv" an-tr="nv00_gnb-product detail-l1-navigation2" class="nv00-gnb-v4__featured-item-thumb" href="https://www.infiniteengineering.com.au/contact-us/">
              <div class="image">
               <img alt="The Frame TV" class="image__preview lazy-load-man" data-comp-name="image" data-src="//images.samsung.com/is/image/samsung/assets/id/offer/2025/11/gnb/The_Frame_GNB_L1_88px.png?$LazyLoad_Home_PNG$" role="img"/>
               <img alt="The Frame TV" class="image__main lazy-load-man" data-comp-name="image" data-src="//images.samsung.com/is/image/samsung/assets/id/offer/2025/11/gnb/The_Frame_GNB_L1_88px.png?$ORIGIN_PNG$" role="img"/>
              </div>
             </a>
-            <a an-ac="gnb" an-ca="navigation" an-la="shop:the frame tv" an-tr="nv00_gnb-product detail-l1-navigation2" class="nv00-gnb-v4__featured-item-name" href="https://www.infiniteengineering.com.au/contact/">
+            <a an-ac="gnb" an-ca="navigation" an-la="shop:the frame tv" an-tr="nv00_gnb-product detail-l1-navigation2" class="nv00-gnb-v4__featured-item-name" href="https://www.infiniteengineering.com.au/contact-us/">
              The Frame TV
             </a>
            </div>
            <div class="nv00-gnb-v4__featured-item swiper-slide">
-            <a an-ac="gnb" an-ca="navigation" an-la="shop:q series soundbar" an-tr="nv00_gnb-product detail-l1-navigation2" class="nv00-gnb-v4__featured-item-thumb" href="https://www.infiniteengineering.com.au/contact/">
+            <a an-ac="gnb" an-ca="navigation" an-la="shop:q series soundbar" an-tr="nv00_gnb-product detail-l1-navigation2" class="nv00-gnb-v4__featured-item-thumb" href="https://www.infiniteengineering.com.au/contact-us/">
              <div class="image">
               <img alt="Q-series Soundbar" class="image__preview lazy-load-man" data-comp-name="image" data-src="//images.samsung.com/is/image/samsung/assets/id/revamp/gnb/shop/GNB_Shop_L1_12_88x88.png?$LazyLoad_Home_PNG$" role="img"/>
               <img alt="Q-series Soundbar" class="image__main lazy-load-man" data-comp-name="image" data-src="//images.samsung.com/is/image/samsung/assets/id/revamp/gnb/shop/GNB_Shop_L1_12_88x88.png?$ORIGIN_PNG$" role="img"/>
              </div>
             </a>
-            <a an-ac="gnb" an-ca="navigation" an-la="shop:q series soundbar" an-tr="nv00_gnb-product detail-l1-navigation2" class="nv00-gnb-v4__featured-item-name" href="https://www.infiniteengineering.com.au/contact/">
+            <a an-ac="gnb" an-ca="navigation" an-la="shop:q series soundbar" an-tr="nv00_gnb-product detail-l1-navigation2" class="nv00-gnb-v4__featured-item-name" href="https://www.infiniteengineering.com.au/contact-us/">
              Q-series Soundbar
             </a>
            </div>
            <div class="nv00-gnb-v4__featured-item swiper-slide">
-            <a an-ac="gnb" an-ca="navigation" an-la="shop:Odyssey OLED G5" an-tr="nv00_gnb-product detail-l1-navigation2" class="nv00-gnb-v4__featured-item-thumb" href="https://www.infiniteengineering.com.au/contact/">
+            <a an-ac="gnb" an-ca="navigation" an-la="shop:Odyssey OLED G5" an-tr="nv00_gnb-product detail-l1-navigation2" class="nv00-gnb-v4__featured-item-thumb" href="https://www.infiniteengineering.com.au/contact-us/">
              <div class="image">
               <img alt="Odyssey OLED G5" class="image__preview lazy-load-man" data-comp-name="image" data-src="//images.samsung.com/is/image/samsung/assets/id/offer/2025/11/gnb/G50SF_GNB_L1_88px.png?$LazyLoad_Home_PNG$" role="img"/>
               <img alt="Odyssey OLED G5" class="image__main lazy-load-man" data-comp-name="image" data-src="//images.samsung.com/is/image/samsung/assets/id/offer/2025/11/gnb/G50SF_GNB_L1_88px.png?$ORIGIN_PNG$" role="img"/>
              </div>
             </a>
-            <a an-ac="gnb" an-ca="navigation" an-la="shop:Odyssey OLED G5" an-tr="nv00_gnb-product detail-l1-navigation2" class="nv00-gnb-v4__featured-item-name" href="https://www.infiniteengineering.com.au/contact/">
+            <a an-ac="gnb" an-ca="navigation" an-la="shop:Odyssey OLED G5" an-tr="nv00_gnb-product detail-l1-navigation2" class="nv00-gnb-v4__featured-item-name" href="https://www.infiniteengineering.com.au/contact-us/">
              Odyssey OLED G5
             </a>
            </div>
            <div class="nv00-gnb-v4__featured-item swiper-slide">
-            <a an-ac="gnb" an-ca="navigation" an-la="shop:bespoke ai refrigerator 641l" an-tr="nv00_gnb-product detail-l1-navigation2" class="nv00-gnb-v4__featured-item-thumb" href="https://www.infiniteengineering.com.au/contact/">
+            <a an-ac="gnb" an-ca="navigation" an-la="shop:bespoke ai refrigerator 641l" an-tr="nv00_gnb-product detail-l1-navigation2" class="nv00-gnb-v4__featured-item-thumb" href="https://www.infiniteengineering.com.au/contact-us/">
              <div class="image">
               <img alt="Bespoke AI Refrigerator 641L " class="image__preview lazy-load-man" data-comp-name="image" data-src="//images.samsung.com/is/image/samsung/assets/id/offer/2025/7/offer/RS90F65A2FST_001_Front_Black-DOI_88px.png?$LazyLoad_Home_PNG$" role="img"/>
               <img alt="Bespoke AI Refrigerator 641L " class="image__main lazy-load-man" data-comp-name="image" data-src="//images.samsung.com/is/image/samsung/assets/id/offer/2025/7/offer/RS90F65A2FST_001_Front_Black-DOI_88px.png?$ORIGIN_PNG$" role="img"/>
              </div>
             </a>
-            <a an-ac="gnb" an-ca="navigation" an-la="shop:bespoke ai refrigerator 641l" an-tr="nv00_gnb-product detail-l1-navigation2" class="nv00-gnb-v4__featured-item-name" href="https://www.infiniteengineering.com.au/contact/">
+            <a an-ac="gnb" an-ca="navigation" an-la="shop:bespoke ai refrigerator 641l" an-tr="nv00_gnb-product detail-l1-navigation2" class="nv00-gnb-v4__featured-item-name" href="https://www.infiniteengineering.com.au/contact-us/">
              Bespoke AI Refrigerator 641L
             </a>
            </div>
            <div class="nv00-gnb-v4__featured-item swiper-slide">
-            <a an-ac="gnb" an-ca="navigation" an-la="shop:front load washer and dryer" an-tr="nv00_gnb-product detail-l1-navigation2" class="nv00-gnb-v4__featured-item-thumb" href="https://www.infiniteengineering.com.au/contact/">
+            <a an-ac="gnb" an-ca="navigation" an-la="shop:front load washer and dryer" an-tr="nv00_gnb-product detail-l1-navigation2" class="nv00-gnb-v4__featured-item-thumb" href="https://www.infiniteengineering.com.au/contact-us/">
              <div class="image">
               <img alt="Front-load Washer &amp; Dryer with Ecobubble&trade;" class="image__preview lazy-load-man" data-comp-name="image" data-src="//images.samsung.com/is/image/samsung/assets/id/offer/2025/11/gnb/WD21_GNB_L1_88px.png?$LazyLoad_Home_PNG$" role="img"/>
               <img alt="Front-load Washer &amp; Dryer with Ecobubble&trade;" class="image__main lazy-load-man" data-comp-name="image" data-src="//images.samsung.com/is/image/samsung/assets/id/offer/2025/11/gnb/WD21_GNB_L1_88px.png?$ORIGIN_PNG$" role="img"/>
              </div>
             </a>
-            <a an-ac="gnb" an-ca="navigation" an-la="shop:front load washer and dryer" an-tr="nv00_gnb-product detail-l1-navigation2" class="nv00-gnb-v4__featured-item-name" href="https://www.infiniteengineering.com.au/contact/">
+            <a an-ac="gnb" an-ca="navigation" an-la="shop:front load washer and dryer" an-tr="nv00_gnb-product detail-l1-navigation2" class="nv00-gnb-v4__featured-item-name" href="https://www.infiniteengineering.com.au/contact-us/">
              Front-load Washer &amp; Dryer
             </a>
            </div>
            <div class="nv00-gnb-v4__featured-item swiper-slide">
-            <a an-ac="gnb" an-ca="navigation" an-la="shop:vacuum cleaner" an-tr="nv00_gnb-product detail-l1-navigation2" class="nv00-gnb-v4__featured-item-thumb" href="https://www.infiniteengineering.com.au/contact/">
+            <a an-ac="gnb" an-ca="navigation" an-la="shop:vacuum cleaner" an-tr="nv00_gnb-product detail-l1-navigation2" class="nv00-gnb-v4__featured-item-thumb" href="https://www.infiniteengineering.com.au/contact-us/">
              <div class="image">
               <img alt="Vacuum Cleaner Stick" class="image__preview lazy-load-man" data-comp-name="image" data-src="//images.samsung.com/is/image/samsung/assets/id/offer/2025/11/gnb/VS80F_GNB_L1_88px.png?$LazyLoad_Home_PNG$" role="img"/>
               <img alt="Vacuum Cleaner Stick" class="image__main lazy-load-man" data-comp-name="image" data-src="//images.samsung.com/is/image/samsung/assets/id/offer/2025/11/gnb/VS80F_GNB_L1_88px.png?$ORIGIN_PNG$" role="img"/>
              </div>
             </a>
-            <a an-ac="gnb" an-ca="navigation" an-la="shop:vacuum cleaner" an-tr="nv00_gnb-product detail-l1-navigation2" class="nv00-gnb-v4__featured-item-name" href="https://www.infiniteengineering.com.au/contact/">
+            <a an-ac="gnb" an-ca="navigation" an-la="shop:vacuum cleaner" an-tr="nv00_gnb-product detail-l1-navigation2" class="nv00-gnb-v4__featured-item-name" href="https://www.infiniteengineering.com.au/contact-us/">
              Vacuum Cleaner Stick
             </a>
            </div>
            <div class="nv00-gnb-v4__featured-item swiper-slide">
-            <a an-ac="gnb" an-ca="navigation" an-la="shop:windfree ultra" an-tr="nv00_gnb-product detail-l1-navigation2" class="nv00-gnb-v4__featured-item-thumb" href="https://www.infiniteengineering.com.au/contact/">
+            <a an-ac="gnb" an-ca="navigation" an-la="shop:windfree ultra" an-tr="nv00_gnb-product detail-l1-navigation2" class="nv00-gnb-v4__featured-item-thumb" href="https://www.infiniteengineering.com.au/contact-us/">
              <div class="image">
               <img alt="WindFree&trade; Ultra AC" class="image__preview lazy-load-man" data-comp-name="image" data-src="//images.samsung.com/is/image/samsung/assets/id/offer/2025/11/gnb/WindFree_GNB_L1_88px.png?$LazyLoad_Home_PNG$" role="img"/>
               <img alt="WindFree&trade; Ultra AC" class="image__main lazy-load-man" data-comp-name="image" data-src="//images.samsung.com/is/image/samsung/assets/id/offer/2025/11/gnb/WindFree_GNB_L1_88px.png?$ORIGIN_PNG$" role="img"/>
              </div>
             </a>
-            <a an-ac="gnb" an-ca="navigation" an-la="shop:windfree ultra" an-tr="nv00_gnb-product detail-l1-navigation2" class="nv00-gnb-v4__featured-item-name" href="https://www.infiniteengineering.com.au/contact/">
+            <a an-ac="gnb" an-ca="navigation" an-la="shop:windfree ultra" an-tr="nv00_gnb-product detail-l1-navigation2" class="nv00-gnb-v4__featured-item-name" href="https://www.infiniteengineering.com.au/contact-us/">
              WindFree&trade; Ultra AC
             </a>
            </div>
@@ -1284,7 +1284,7 @@
         <ul aria-label="main menu" class="nv00-gnb-v4__l0-menu-list nv00-gnb-v4__l0-menu-list--left" role="menubar">
          <li class="nv00-gnb-v4__l0-menu">
           <div class="nv00-gnb-v4__l0-menu-title">
-           <a an-ac="gnb" an-ca="navigation" an-la="shop" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://www.infiniteengineering.com.au/contact/" role="menuitem">
+           <a an-ac="gnb" an-ca="navigation" an-la="shop" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://www.infiniteengineering.com.au/contact-us/" role="menuitem">
             <span class="nv00-gnb-v4__l0-menu-text nv00-gnb-v4--pc-only">
             SLOT DANA
             </span>
@@ -1301,7 +1301,7 @@
          </li>
          <li class="nv00-gnb-v4__l0-menu">
           <div class="nv00-gnb-v4__l0-menu-title">
-           <a an-ac="gnb" an-ca="navigation" an-la="mobile" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://www.infiniteengineering.com.au/contact/" role="menuitem">
+           <a an-ac="gnb" an-ca="navigation" an-la="mobile" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://www.infiniteengineering.com.au/contact-us/" role="menuitem">
             <span class="nv00-gnb-v4__l0-menu-text">
              SLOT GACOR
             </span>
@@ -1315,7 +1315,7 @@
          </li>
          <li class="nv00-gnb-v4__l0-menu">
           <div class="nv00-gnb-v4__l0-menu-title">
-           <a an-ac="gnb" an-ca="navigation" an-la="tv and av" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://www.infiniteengineering.com.au/contact/" role="menuitem">
+           <a an-ac="gnb" an-ca="navigation" an-la="tv and av" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://www.infiniteengineering.com.au/contact-us/" role="menuitem">
             <span class="nv00-gnb-v4__l0-menu-text">
              SLOT GACOR HARI INI
             </span>
@@ -1329,7 +1329,7 @@
          </li>
          <li class="nv00-gnb-v4__l0-menu">
           <div class="nv00-gnb-v4__l0-menu-title">
-           <a an-ac="gnb" an-ca="navigation" an-la="appliances" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://www.infiniteengineering.com.au/contact/" role="menuitem">
+           <a an-ac="gnb" an-ca="navigation" an-la="appliances" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://www.infiniteengineering.com.au/contact-us/" role="menuitem">
             <span class="nv00-gnb-v4__l0-menu-text">
              RTP SLOT
             </span>
@@ -1343,7 +1343,7 @@
          </li>
          <li class="nv00-gnb-v4__l0-menu">
           <div class="nv00-gnb-v4__l0-menu-title">
-           <a an-ac="gnb" an-ca="navigation" an-la="monitors" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://www.infiniteengineering.com.au/contact/" role="menuitem">
+           <a an-ac="gnb" an-ca="navigation" an-la="monitors" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://www.infiniteengineering.com.au/contact-us/" role="menuitem">
             <span class="nv00-gnb-v4__l0-menu-text">
              REKOMENDASI GAME SLOT
             </span>
@@ -1357,7 +1357,7 @@
          </li>
          <li class="nv00-gnb-v4__l0-menu">
           <div class="nv00-gnb-v4__l0-menu-title">
-           <a an-ac="gnb" an-ca="navigation" an-la="wearables" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://www.infiniteengineering.com.au/contact/" role="menuitem">
+           <a an-ac="gnb" an-ca="navigation" an-la="wearables" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://www.infiniteengineering.com.au/contact-us/" role="menuitem">
             <span class="nv00-gnb-v4__l0-menu-text">
              SLOT DANA GACOR
             </span>
@@ -1398,10 +1398,10 @@
          <!-- Non-Type Right Menu End -->
         </ul>
         <div class="nv00-gnb-v4__user-menu-list nv00-gnb-v4--mobile-only before-login">
-         <a data-linkinfo="https://www.infiniteengineering.com.au/contact/" href="https://www.infiniteengineering.com.au/contact/" role="menuitem">
+         <a data-linkinfo="https://www.infiniteengineering.com.au/contact-us/" href="https://www.infiniteengineering.com.au/contact-us/" role="menuitem">
           Login/Sign-Up
          </a>
-         <a an-ac="gnb" an-ca="account" an-la="rewards" an-tr="nv00_gnb-account-account" aria-label="Receive up to 5% of your purchase back in points. Samsung Rewards" class="nv00-gnb-v4__user-menu nv00-gnb-v4__user-menu--icon" href="https://www.infiniteengineering.com.au/contact/" role="menuitem">
+         <a an-ac="gnb" an-ca="account" an-la="rewards" an-tr="nv00_gnb-account-account" aria-label="Receive up to 5% of your purchase back in points. Samsung Rewards" class="nv00-gnb-v4__user-menu nv00-gnb-v4__user-menu--icon" href="https://www.infiniteengineering.com.au/contact-us/" role="menuitem">
           Receive up to 5% of your purchase back in points.
           <svg aria-hidden="true" class="icon" focusable="false">
            <use href="#next-regular" xlink:href="#next-regular">
@@ -1424,7 +1424,7 @@
            Buka Menu Saya
           </p>
          </a>
-         <a an-ac="gnb" an-ca="account" an-la="rewards" an-tr="nv00_gnb-account-account" aria-label="Receive up to 5% of your purchase back in points. Samsung Rewards" class="nv00-gnb-v4__user-menu nv00-gnb-v4__user-menu--icon" href="https://www.infiniteengineering.com.au/contact/" role="menuitem">
+         <a an-ac="gnb" an-ca="account" an-la="rewards" an-tr="nv00_gnb-account-account" aria-label="Receive up to 5% of your purchase back in points. Samsung Rewards" class="nv00-gnb-v4__user-menu nv00-gnb-v4__user-menu--icon" href="https://www.infiniteengineering.com.au/contact-us/" role="menuitem">
           Receive up to 5% of your purchase back in points.
           <svg aria-hidden="true" class="icon" focusable="false">
            <use href="#next-regular" xlink:href="#next-regular">
@@ -1445,7 +1445,7 @@
            Cari
           </span>
          </button>
-         <a an-ac="gnb" an-ca="navigation" an-la="cart" an-tr="nv00_gnb-product detail-gnb cart icon-navigation6" class="nv00-gnb-v4__utility nv00-gnb-v4__utility-cart nv00-gnb-v4__utility-btn js-global-cart-btn js-has-carturl" data-cart-url="https://www.infiniteengineering.com.au/contact/" href="https://www.infiniteengineering.com.au/contact/" role="button">
+         <a an-ac="gnb" an-ca="navigation" an-la="cart" an-tr="nv00_gnb-product detail-gnb cart icon-navigation6" class="nv00-gnb-v4__utility nv00-gnb-v4__utility-cart nv00-gnb-v4__utility-btn js-global-cart-btn js-has-carturl" data-cart-url="https://www.infiniteengineering.com.au/contact-us/" href="https://www.infiniteengineering.com.au/contact-us/" role="button">
           <span class="hidden">
            Troli
           </span>
@@ -1473,26 +1473,26 @@
           </button>
           <div aria-label="account" class="nv00-gnb-v4__utility-menu-list" role="menu">
            <div class="nv00-gnb-v4__utility-menu-wrap">
-            <a class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu--sign-in nv00-gnb-v4--pc-only" href="https://www.infiniteengineering.com.au/contact/" role="menuitem" target="_self" rel="noopener noreferrer" onclick="event.stopImmediatePropagation(); event.preventDefault(); window.location.href='https://www.infiniteengineering.com.au/contact/'; return false;">
+            <a class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu--sign-in nv00-gnb-v4--pc-only" href="https://www.infiniteengineering.com.au/contact-us/" role="menuitem" target="_self" rel="noopener noreferrer" onclick="event.stopImmediatePropagation(); event.preventDefault(); window.location.href='https://www.infiniteengineering.com.au/contact-us/'; return false;">
               Login/Sign-Up
             </a>
-            <a class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu--with-icon nv00-gnb-v4--pc-only" href="https://www.infiniteengineering.com.au/contact/" role="menuitem">
+            <a class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu--with-icon nv00-gnb-v4--pc-only" href="https://www.infiniteengineering.com.au/contact-us/" role="menuitem">
              Receive up to 5% of your purchase back in points.
              <svg aria-hidden="true" class="icon" focusable="false">
               <use href="#next-regular" xlink:href="#next-regular">
               </use>
              </svg>
             </a>
-            <a an-ac="gnb" an-ca="account" an-la="orders" an-tr="nv00_gnb-product detail-account-account" aria-label="orders" class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu" href="https://www.infiniteengineering.com.au/contact/" role="menuitem">
+            <a an-ac="gnb" an-ca="account" an-la="orders" an-tr="nv00_gnb-product detail-account-account" aria-label="orders" class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu" href="https://www.infiniteengineering.com.au/contact-us/" role="menuitem">
              Pesanan
             </a>
-            <a an-ac="gnb" an-ca="account" an-la="Product Registration" an-tr="nv00_gnb-product detail-account-account" aria-label="Product Registration" class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu" href="https://www.infiniteengineering.com.au/contact/" role="menuitem">
+            <a an-ac="gnb" an-ca="account" an-la="Product Registration" an-tr="nv00_gnb-product detail-account-account" aria-label="Product Registration" class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu" href="https://www.infiniteengineering.com.au/contact-us/" role="menuitem">
              Product&nbsp;Registration
             </a>
-            <a an-ac="gnb" an-ca="account" an-la="members" an-tr="nv00_gnb-product detail-account-account" aria-label="members" class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu" href="https://www.infiniteengineering.com.au/contact/" role="menuitem">
+            <a an-ac="gnb" an-ca="account" an-la="members" an-tr="nv00_gnb-product detail-account-account" aria-label="members" class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu" href="https://www.infiniteengineering.com.au/contact-us/" role="menuitem">
              Members
             </a>
-            <a an-ac="gnb" an-ca="account" an-la="LAGA88login" an-tr="nv00_gnb-product detail-account-account" aria-label="LAGA88login" class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu" href="https://www.infiniteengineering.com.au/contact/" role="menuitem">
+            <a an-ac="gnb" an-ca="account" an-la="LAGA88login" an-tr="nv00_gnb-product detail-account-account" aria-label="LAGA88login" class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu" href="https://www.infiniteengineering.com.au/contact-us/" role="menuitem">
               LAGA88
             </a>
            </div>
@@ -1524,32 +1524,32 @@
              <p class="user-name">
              </p>
             </a>
-            <a class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu--with-icon nv00-gnb-v4--pc-only" href="https://www.infiniteengineering.com.au/contact/" role="menuitem">
+            <a class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu--with-icon nv00-gnb-v4--pc-only" href="https://www.infiniteengineering.com.au/contact-us/" role="menuitem">
              Receive up to 5% of your purchase back in points.
              <svg aria-hidden="true" class="icon" focusable="false">
               <use href="#next-regular" xlink:href="#next-regular">
               </use>
              </svg>
             </a>
-            <a an-ac="gnb" an-ca="account" an-la="my page" an-tr="nv00_gnb-product detail-account-account" aria-label="my page" class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu" href="https://www.infiniteengineering.com.au/contact/" role="menuitem">
+            <a an-ac="gnb" an-ca="account" an-la="my page" an-tr="nv00_gnb-product detail-account-account" aria-label="my page" class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu" href="https://www.infiniteengineering.com.au/contact-us/" role="menuitem">
              Halaman&nbsp;Saya
             </a>
-            <a an-ac="gnb" an-ca="account" an-la="orders" an-tr="nv00_gnb-product detail-account-account" aria-label="orders" class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu" href="https://www.infiniteengineering.com.au/contact/" role="menuitem">
+            <a an-ac="gnb" an-ca="account" an-la="orders" an-tr="nv00_gnb-product detail-account-account" aria-label="orders" class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu" href="https://www.infiniteengineering.com.au/contact-us/" role="menuitem">
              Pesanan
             </a>
-            <a an-ac="gnb" an-ca="account" an-la="product registration" an-tr="nv00_gnb-product detail-account-account" aria-label="product registration" class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu" href="https://www.infiniteengineering.com.au/contact/" role="menuitem">
+            <a an-ac="gnb" an-ca="account" an-la="product registration" an-tr="nv00_gnb-product detail-account-account" aria-label="product registration" class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu" href="https://www.infiniteengineering.com.au/contact-us/" role="menuitem">
              Product&nbsp;Registration
             </a>
-            <a an-ac="gnb" an-ca="account" an-la="my rewards" an-tr="nv00_gnb-product detail-account-account" aria-label="my rewards" class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu" href="https://www.infiniteengineering.com.au/contact/" role="menuitem">
+            <a an-ac="gnb" an-ca="account" an-la="my rewards" an-tr="nv00_gnb-product detail-account-account" aria-label="my rewards" class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu" href="https://www.infiniteengineering.com.au/contact-us/" role="menuitem">
              Rewards&nbsp;Saya
             </a>
-            <a an-ac="gnb" an-ca="account" an-la="wishlist" an-tr="nv00_gnb-product detail-account-account" aria-label="wishlist" class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu" href="https://www.infiniteengineering.com.au/contact/" role="menuitem">
+            <a an-ac="gnb" an-ca="account" an-la="wishlist" an-tr="nv00_gnb-product detail-account-account" aria-label="wishlist" class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu" href="https://www.infiniteengineering.com.au/contact-us/" role="menuitem">
              Wishlist
             </a>
-            <a an-ac="gnb" an-ca="account" an-la="members" an-tr="nv00_gnb-product detail-account-account" aria-label="members" class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu" href="https://www.infiniteengineering.com.au/contact/" role="menuitem">
+            <a an-ac="gnb" an-ca="account" an-la="members" an-tr="nv00_gnb-product detail-account-account" aria-label="members" class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu" href="https://www.infiniteengineering.com.au/contact-us/" role="menuitem">
              Members
             </a>
-            <a an-ac="gnb" an-ca="account" an-la="community" an-tr="nv00_gnb-product detail-account-account" aria-label="community" class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu" href="https://www.infiniteengineering.com.au/contact/" role="menuitem">
+            <a an-ac="gnb" an-ca="account" an-la="community" an-tr="nv00_gnb-product detail-account-account" aria-label="community" class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu" href="https://www.infiniteengineering.com.au/contact-us/" role="menuitem">
              Komunitas
             </a>
             <a an-ac="gnb" an-ca="account" an-la="logout" an-tr="nv00_gnb-product detail-account-account" aria-label="logout" class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu logoutBtn" href="javascript:;" role="menuitem">
@@ -1745,7 +1745,7 @@
          </span>
          <span class="checkbox-v2__label-text">
           Saya telah membaca dan setuju dengan
-          <a class="link-text" href="https://www.infiniteengineering.com.au/contact/" target="_blank" title="Buka di Tab Baru">
+          <a class="link-text" href="https://www.infiniteengineering.com.au/contact-us/" target="_blank" title="Buka di Tab Baru">
            Kebijakan Privasi
           </a>
           Samsung.com
@@ -2568,7 +2568,7 @@
             </div>
            </div>
            <div class="pdd16-step-buying-v2__bottom-price__cta">
-            <a aria-label="Link Title" class="cta cta--contained cta--emphasis" href="https://www.infiniteengineering.com.au/contact/">
+            <a aria-label="Link Title" class="cta cta--contained cta--emphasis" href="https://www.infiniteengineering.com.au/contact-us/">
              Add to cart
             </a>
            </div>
@@ -2728,7 +2728,7 @@
              </li>
             </ul>
             <div class="pdd16-step-buying-v2__learn-more-cta">
-             <a aria-label="Link Title" class="cta cta--underline cta--black cta--icon" href="https://www.infiniteengineering.com.au/contact/" target="_blank">
+             <a aria-label="Link Title" class="cta cta--underline cta--black cta--icon" href="https://www.infiniteengineering.com.au/contact-us/" target="_blank">
               Product detail
               <svg aria-hidden="true" class="icon" focusable="false">
                <use href="#outlink-bold" xlink:href="#outlink-bold">
@@ -3572,7 +3572,7 @@
        <input id="pdWarrantyLearnMoreUrl" name="pdWarrantyLearnMoreUrl" type="hidden"/>
        <input id="detailNodePath" name="detailNodePath" type="hidden" value="/id/smartphones/galaxy-a/galaxy-a07-black-64gb-sm-a075fzkdxid/buy.dynamic"/>
        <input id="checkOutUrl" name="checkOutUrl" type="hidden" value="/id/web/checkout/"/>
-       <input id="cartUrl" name="cartUrl" type="hidden" value="https://www.infiniteengineering.com.au/contact/"/>
+       <input id="cartUrl" name="cartUrl" type="hidden" value="https://www.infiniteengineering.com.au/contact-us/"/>
        <input id="pdDisplayYn" name="pdDisplayYn" type="hidden" value="Y"/>
        <input id="financeplusUrl" name="financeplusUrl" type="hidden" value="/id/web/offer-grid"/>
        <input id="currentPdpUrl" name="pdpUrl" type="hidden" value="/id/smartphones/galaxy-a/galaxy-a07-black-64gb-sm-a075fzkdxid/"/>
@@ -4580,7 +4580,7 @@
        </section>
        <!-- N -->
        <script data-id="aac44b1f-0962-428e-af28-1f4e53562d11" data-object-type="Product" data-type="seo" type="application/ld+json">
-        {"@context":"https://schema.org","@type":"Product","brand":{"@type":"Brand","name":"Samsung"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","ratingCount":"6"},"@id":"https://www.infiniteengineering.com.au/contact/","name":"Galaxy A07","image":"https://panjakui.sirv.com/laga88/slot-dana-gacor-hari-ini.webp","description":"LAGA88 - Lihat keunggulan dan fitur lengkap produk ini. Pelajari harga, spesifikasi dan temukan produk terbaru serta  Smartphones terbaik untuk Anda di Samsung Indonesia.","sku":"H1-FE165SDF181","offers":{"@type":"Offer","url":"https://www.infiniteengineering.com.au/contact/","priceCurrency":"IDR","availability":"inStock","price":"1399000"}}
+        {"@context":"https://schema.org","@type":"Product","brand":{"@type":"Brand","name":"Samsung"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","ratingCount":"6"},"@id":"https://www.infiniteengineering.com.au/contact-us/","name":"Galaxy A07","image":"https://panjakui.sirv.com/laga88/slot-dana-gacor-hari-ini.webp","description":"LAGA88 - Lihat keunggulan dan fitur lengkap produk ini. Pelajari harga, spesifikasi dan temukan produk terbaru serta  Smartphones terbaik untuk Anda di Samsung Indonesia.","sku":"H1-FE165SDF181","offers":{"@type":"Offer","url":"https://www.infiniteengineering.com.au/contact-us/","priceCurrency":"IDR","availability":"inStock","price":"1399000"}}
        </script>
        <!--googleoff: all true-->
        <div class="sdf-component-templates" id="sg-pdh-dynamic-template-assembly">
@@ -5829,7 +5829,7 @@
            {{deliveryResult.subText}}
            <br/>
            Standard installation charges may apply.
-           <a aria-label="Link Title" class="option-result__text-link" href="https://www.infiniteengineering.com.au/contact/" target="_blank">
+           <a aria-label="Link Title" class="option-result__text-link" href="https://www.infiniteengineering.com.au/contact-us/" target="_blank">
             Click here
            </a>
            for more details.
@@ -6468,7 +6468,7 @@
 <article>
   <h1>SLOT DANA: Slot Gacor &amp; Rekomendasi Game Hari Ini</h1>
 
-  <p>Istilah <strong><a href="https://www.infiniteengineering.com.au/contact/">slot gacor</a></strong> sering digunakan pemain untuk menggambarkan game slot yang dianggap sedang menarik dimainkan. Namun, istilah tersebut bukan jaminan bahwa sebuah game akan memberikan kemenangan. Hasil setiap putaran tetap bergantung pada mekanisme permainan yang berlaku, sehingga pendekatan yang lebih masuk akal adalah memahami karakter game sebelum menentukan pilihan.</p>
+  <p>Istilah <strong><a href="https://www.infiniteengineering.com.au/contact-us/">slot gacor</a></strong> sering digunakan pemain untuk menggambarkan game slot yang dianggap sedang menarik dimainkan. Namun, istilah tersebut bukan jaminan bahwa sebuah game akan memberikan kemenangan. Hasil setiap putaran tetap bergantung pada mekanisme permainan yang berlaku, sehingga pendekatan yang lebih masuk akal adalah memahami karakter game sebelum menentukan pilihan.</p>
 
   <p>Melalui <strong>Slot Dana</strong>, pencarian <strong>slot gacor hari ini</strong> dapat dilihat dari sudut yang lebih informatif: bukan sekadar mengejar nama game yang sedang ramai dibicarakan, tetapi membandingkan RTP, volatilitas, mekanisme permainan, serta pola fitur yang membentuk pengalaman bermain.</p>
 
@@ -6482,7 +6482,7 @@
 
   <h2>Cara Membaca RTP Sebelum Memilih Game</h2>
 
-  <p>RTP atau <em>Return to Player</em> merupakan konsep penting ketika membandingkan permainan slot. Secara sederhana, <a href="https://www.infiniteengineering.com.au/contact/">RTP</a> menggambarkan persentase teoretis pengembalian kepada pemain dalam jumlah putaran yang sangat besar.</p>
+  <p>RTP atau <em>Return to Player</em> merupakan konsep penting ketika membandingkan permainan slot. Secara sederhana, <a href="https://www.infiniteengineering.com.au/contact-us/">RTP</a> menggambarkan persentase teoretis pengembalian kepada pemain dalam jumlah putaran yang sangat besar.</p>
 
   <p>RTP tidak berarti pemain akan menerima persentase tertentu dari setiap sesi permainan.</p>
 
@@ -6527,7 +6527,7 @@
 
   <h2>Mekanisme Permainan Juga Perlu Diperhatikan</h2>
 
-  <p>Pencarian <strong><a href="https://www.infiniteengineering.com.au/contact/">slot gacor hari ini</a></strong> sering terlalu berfokus pada nama game. Padahal mekanisme permainan memiliki pengaruh besar terhadap cara sebuah slot terasa saat dimainkan.</p>
+  <p>Pencarian <strong><a href="https://www.infiniteengineering.com.au/contact-us/">slot gacor hari ini</a></strong> sering terlalu berfokus pada nama game. Padahal mekanisme permainan memiliki pengaruh besar terhadap cara sebuah slot terasa saat dimainkan.</p>
 
   <p>Ada permainan yang menggunakan struktur pembayaran sederhana, sementara yang lain memiliki fitur tambahan atau mekanisme tertentu yang mengubah jalannya putaran. Karena detail setiap game dapat berbeda, memahami aturan dasarnya sebelum bermain jauh lebih berguna daripada mengandalkan asumsi dari hasil permainan orang lain.</p>
 
@@ -6634,7 +6634,7 @@
 
   <p>Mencari <strong>slot gacor hari ini</strong> sebaiknya dimulai dengan memahami permainan, bukan mencari kepastian hasil. RTP dapat membantu menjelaskan pengembalian teoretis, volatilitas menunjukkan karakter fluktuasi, sedangkan mekanisme dan aturan pembayaran menjelaskan bagaimana setiap game bekerja.</p>
 
-  <p>Di <strong><a href="https://www.infiniteengineering.com.au/contact/">Slot Dana</a></strong>, gunakan informasi tersebut untuk membandingkan pilihan secara lebih terarah. Tidak ada indikator yang dapat menjamin sebuah slot akan menghasilkan kemenangan pada sesi tertentu, tetapi memahami karakter game dapat membantu pemain mengetahui apa yang sedang mereka pilih dan risiko yang menyertainya.</p>
+  <p>Di <strong><a href="https://www.infiniteengineering.com.au/contact-us/">Slot Dana</a></strong>, gunakan informasi tersebut untuk membandingkan pilihan secara lebih terarah. Tidak ada indikator yang dapat menjamin sebuah slot akan menghasilkan kemenangan pada sesi tertentu, tetapi memahami karakter game dapat membantu pemain mengetahui apa yang sedang mereka pilih dan risiko yang menyertainya.</p>
 </article>
 
 <style id="laga88-faq-review-final">
@@ -7049,7 +7049,7 @@
      <div class="breadcrumb__inner">
       <ul class="breadcrumb__path" role="list">
        <li role="listitem">
-        <a an-ac="breadcrumb" an-ca="navigation" an-la="breadcrumb:home" an-tr="nv03_breadcrumb-product detail-text-breadcrumb" aria-label="Home" href="https://www.infiniteengineering.com.au/contact/">
+        <a an-ac="breadcrumb" an-ca="navigation" an-la="breadcrumb:home" an-tr="nv03_breadcrumb-product detail-text-breadcrumb" aria-label="Home" href="https://www.infiniteengineering.com.au/contact-us/">
          <span class="breadcrumb__text-desktop">
           LAGA88 <span style="margin-left: 15px;">></span>
          </span>
@@ -7064,7 +7064,7 @@
        </li>
        <li role="listitem">
        
-<a an-ac="breadcrumb" an-ca="navigation" an-la="breadcrumb:mobile" an-tr="nv03_breadcrumb-product detail-text-breadcrumb" aria-label="Mobile" href="https://www.infiniteengineering.com.au/contact/">
+<a an-ac="breadcrumb" an-ca="navigation" an-la="breadcrumb:mobile" an-tr="nv03_breadcrumb-product detail-text-breadcrumb" aria-label="Mobile" href="https://www.infiniteengineering.com.au/contact-us/">
   <span class="breadcrumb__text-desktop">
     GAME LAGA88 <span style="margin-left: 15px;">></span>
   </span>
@@ -7078,7 +7078,7 @@
 </svg>
 </li>
 <li role="listitem">
-  <a an-ac="breadcrumb" an-ca="navigation" an-la="breadcrumb:smartphones" an-tr="nv03_breadcrumb-product detail-text-breadcrumb" aria-label="Smartphones" href="https://www.infiniteengineering.com.au/contact/">
+  <a an-ac="breadcrumb" an-ca="navigation" an-la="breadcrumb:smartphones" an-tr="nv03_breadcrumb-product detail-text-breadcrumb" aria-label="Smartphones" href="https://www.infiniteengineering.com.au/contact-us/">
     <span class="breadcrumb__text-desktop">
       LINK LAGA88
     </span>
@@ -7096,7 +7096,7 @@
       </ul>
      </div>
      <script data-id="815b4f0e-baa9-42cc-b1f9-b4b995da3ffb" data-object-type="BreadcrumbList" data-type="seo" type="application/ld+json">
-      {"@context":"https://schema.org","@type":"BreadcrumbList","@id":"https://www.infiniteengineering.com.au/contact/#breadcrumb","itemListElement":[{"@type":"ListItem","name":"Home","item":"https://www.infiniteengineering.com.au/contact/","position":1},{"@type":"ListItem","name":"Mobile","item":"https://www.infiniteengineering.com.au/contact/","position":2},{"@type":"ListItem","name":"Smartphones","item":"https://www.infiniteengineering.com.au/contact/","position":3},{"@type":"ListItem","name":"Galaxy A","item":"https://www.infiniteengineering.com.au/contact/","position":4},{"@type":"ListItem","name":"Galaxy A07","item":"","position":5}]}
+      {"@context":"https://schema.org","@type":"BreadcrumbList","@id":"https://www.infiniteengineering.com.au/contact-us/#breadcrumb","itemListElement":[{"@type":"ListItem","name":"Home","item":"https://www.infiniteengineering.com.au/contact-us/","position":1},{"@type":"ListItem","name":"Mobile","item":"https://www.infiniteengineering.com.au/contact-us/","position":2},{"@type":"ListItem","name":"Smartphones","item":"https://www.infiniteengineering.com.au/contact-us/","position":3},{"@type":"ListItem","name":"Galaxy A","item":"https://www.infiniteengineering.com.au/contact-us/","position":4},{"@type":"ListItem","name":"Galaxy A07","item":"","position":5}]}
      </script>
     </nav>
     <div class="pd-g-manufacturer-info-popup">
@@ -7161,27 +7161,27 @@
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://www.infiniteengineering.com.au/contact/">
+                  <a class="footer-category__link" href="https://www.infiniteengineering.com.au/contact-us/">
                     SLOT GACOR
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://www.infiniteengineering.com.au/contact/">
+                  <a class="footer-category__link" href="https://www.infiniteengineering.com.au/contact-us/">
                     SLOT GACOR HARI INI
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://www.infiniteengineering.com.au/contact/">
+                  <a class="footer-category__link" href="https://www.infiniteengineering.com.au/contact-us/">
                     REKOMENDASI GAME SLOT
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://www.infiniteengineering.com.au/contact/">
+                  <a class="footer-category__link" href="https://www.infiniteengineering.com.au/contact-us/">
                     SLOT DANA GACOR
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://www.infiniteengineering.com.au/contact/">
+                  <a class="footer-category__link" href="https://www.infiniteengineering.com.au/contact-us/">
                     RTP SLOT
                   </a>
                 </li>
@@ -7212,32 +7212,32 @@
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://www.infiniteengineering.com.au/contact/">
+                  <a class="footer-category__link" href="https://www.infiniteengineering.com.au/contact-us/">
                     Turnamen &amp; Event
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://www.infiniteengineering.com.au/contact/">
+                  <a class="footer-category__link" href="https://www.infiniteengineering.com.au/contact-us/">
                     Program VIP &amp; Cashback
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://www.infiniteengineering.com.au/contact/">
+                  <a class="footer-category__link" href="https://www.infiniteengineering.com.au/contact-us/">
                     Metode Pembayaran
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://www.infiniteengineering.com.au/contact/">
+                  <a class="footer-category__link" href="https://www.infiniteengineering.com.au/contact-us/">
                     Panduan pembayaran
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://www.infiniteengineering.com.au/contact/">
+                  <a class="footer-category__link" href="https://www.infiniteengineering.com.au/contact-us/">
                     Panduan Booking
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://www.infiniteengineering.com.au/contact/">
+                  <a class="footer-category__link" href="https://www.infiniteengineering.com.au/contact-us/">
                     Program Layanan
                   </a>
                 </li>
@@ -7268,32 +7268,32 @@
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://www.infiniteengineering.com.au/contact/">
+                  <a class="footer-category__link" href="https://www.infiniteengineering.com.au/contact-us/">
                     Live Chat 24/7
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://www.infiniteengineering.com.au/contact/">
+                  <a class="footer-category__link" href="https://www.infiniteengineering.com.au/contact-us/">
                     WhatsApp Support
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://www.infiniteengineering.com.au/contact/">
+                  <a class="footer-category__link" href="https://www.infiniteengineering.com.au/contact-us/">
                     FAQ
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://www.infiniteengineering.com.au/contact/">
+                  <a class="footer-category__link" href="https://www.infiniteengineering.com.au/contact-us/">
                     Kebijakan Privasi
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://www.infiniteengineering.com.au/contact/">
+                  <a class="footer-category__link" href="https://www.infiniteengineering.com.au/contact-us/">
                     Syarat &amp; Ketentuan
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://www.infiniteengineering.com.au/contact/">
+                  <a class="footer-category__link" href="https://www.infiniteengineering.com.au/contact-us/">
                     Responsible GAME
                   </a>
                 </li>
@@ -7334,17 +7334,17 @@
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://www.infiniteengineering.com.au/contact/">
+                  <a class="footer-category__link" href="https://www.infiniteengineering.com.au/contact-us/">
                     Riwayat Transaksi
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://www.infiniteengineering.com.au/contact/">
+                  <a class="footer-category__link" href="https://www.infiniteengineering.com.au/contact-us/">
                     Panduan Verifikasi
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://www.infiniteengineering.com.au/contact/">
+                  <a class="footer-category__link" href="https://www.infiniteengineering.com.au/contact-us/">
                     Program VIP
                   </a>
                 </li>
@@ -7371,22 +7371,22 @@
             <div class="footer-category__list-wrap">
               <ul class="footer-category__list" role="list">
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://www.infiniteengineering.com.au/contact/">
+                  <a class="footer-category__link" href="https://www.infiniteengineering.com.au/contact-us/">
                     Panduan Akses
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://www.infiniteengineering.com.au/contact/">
+                  <a class="footer-category__link" href="https://www.infiniteengineering.com.au/contact-us/">
                     Panduan Pemula
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://www.infiniteengineering.com.au/contact/">
+                  <a class="footer-category__link" href="https://www.infiniteengineering.com.au/contact-us/">
                     Aturan &amp; Kebijakan
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://www.infiniteengineering.com.au/contact/">
+                  <a class="footer-category__link" href="https://www.infiniteengineering.com.au/contact-us/">
                     Kontak Resmi
                   </a>
                 </li>
@@ -7415,17 +7415,17 @@
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://www.infiniteengineering.com.au/contact/">
+                  <a class="footer-category__link" href="https://www.infiniteengineering.com.au/contact-us/">
                     Kenapa Pilih LAGA88
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://www.infiniteengineering.com.au/contact/">
+                  <a class="footer-category__link" href="https://www.infiniteengineering.com.au/contact-us/">
                     Partner &amp; Affiliate
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://www.infiniteengineering.com.au/contact/">
+                  <a class="footer-category__link" href="https://www.infiniteengineering.com.au/contact-us/">
                     Brand &amp; Identitas
                   </a>
                 </li>
@@ -7445,7 +7445,7 @@
             </p>
           </div>
           <div class="footer-language">
-            <a class="footer-language__anchor" href="https://www.infiniteengineering.com.au/contact/">
+            <a class="footer-language__anchor" href="https://www.infiniteengineering.com.au/contact-us/">
               Indonesia / Bahasa Indonesia
             </a>
           </div>
@@ -7453,7 +7453,7 @@
 
         <div an-ac="scroll:100" an-ca="scroll" an-la="scroll:100" an-tr="nv02_footer bottom--text-scroll" class="footer-language-wrap">
           <div class="footer-language">
-            <a class="footer-language__anchor" href="https://www.infiniteengineering.com.au/contact/">
+            <a class="footer-language__anchor" href="https://www.infiniteengineering.com.au/contact-us/">
               Indonesia / Bahasa Indonesia
             </a>
           </div>
@@ -7461,17 +7461,17 @@
           <div class="footer-terms">
             <ul class="footer-terms__list" role="list">
               <li class="footer-terms__item" role="listitem">
-                <a class="footer-terms__link" href="https://www.infiniteengineering.com.au/contact/">
+                <a class="footer-terms__link" href="https://www.infiniteengineering.com.au/contact-us/">
                   Privasi
                 </a>
               </li>
               <li class="footer-terms__item" role="listitem">
-                <a class="footer-terms__link" href="https://www.infiniteengineering.com.au/contact/">
+                <a class="footer-terms__link" href="https://www.infiniteengineering.com.au/contact-us/">
                   Legal
                 </a>
               </li>
               <li class="footer-terms__item" role="listitem">
-                <a class="footer-terms__link" href="https://www.infiniteengineering.com.au/contact/">
+                <a class="footer-terms__link" href="https://www.infiniteengineering.com.au/contact-us/">
                   Peta Situs
                 </a>
               </li>
@@ -7484,28 +7484,28 @@
             </span>
             <ul class="footer-sns__list" role="list">
               <li class="footer-sns__item" role="listitem">
-                <a class="footer-sns__link" href="https://www.infiniteengineering.com.au/contact/" rel="noreferrer noopener" target="_blank" aria-label="Facebook : Buka di Tab Baru">
+                <a class="footer-sns__link" href="https://www.infiniteengineering.com.au/contact-us/" rel="noreferrer noopener" target="_blank" aria-label="Facebook : Buka di Tab Baru">
                   <svg class="icon" focusable="false">
                     <use href="#facebook-bold" xlink:href="#facebook-bold"></use>
                   </svg>
                 </a>
               </li>
               <li class="footer-sns__item" role="listitem">
-                <a class="footer-sns__link" href="https://www.infiniteengineering.com.au/contact/" rel="noreferrer noopener" target="_blank" aria-label="Twitter : Buka di Tab Baru">
+                <a class="footer-sns__link" href="https://www.infiniteengineering.com.au/contact-us/" rel="noreferrer noopener" target="_blank" aria-label="Twitter : Buka di Tab Baru">
                   <svg class="icon" focusable="false">
                     <use href="#twitter-bold" xlink:href="#twitter-bold"></use>
                   </svg>
                 </a>
               </li>
               <li class="footer-sns__item" role="listitem">
-                <a class="footer-sns__link" href="https://www.infiniteengineering.com.au/contact/" rel="noreferrer noopener" target="_blank" aria-label="Instagram : Buka di Tab Baru">
+                <a class="footer-sns__link" href="https://www.infiniteengineering.com.au/contact-us/" rel="noreferrer noopener" target="_blank" aria-label="Instagram : Buka di Tab Baru">
                   <svg class="icon" focusable="false">
                     <use href="#instagram-bold" xlink:href="#instagram-bold"></use>
                   </svg>
                 </a>
               </li>
               <li class="footer-sns__item" role="listitem">
-                <a class="footer-sns__link" href="https://www.infiniteengineering.com.au/contact/" rel="noreferrer noopener" target="_blank" aria-label="Youtube : Buka di Tab Baru">
+                <a class="footer-sns__link" href="https://www.infiniteengineering.com.au/contact-us/" rel="noreferrer noopener" target="_blank" aria-label="Youtube : Buka di Tab Baru">
                   <svg class="icon" focusable="false">
                     <use href="#youtube-bold" xlink:href="#youtube-bold"></use>
                   </svg>
@@ -8087,7 +8087,7 @@
          <div class="tariff-popup__disclaimer-wrap">
           <div class="tariff-popup__disclaimer">
            Anda dapat menemukan informasi tentang pengolahan data pribadi melalui link
-           <a href="https://www.infiniteengineering.com.au/contact/" target="_blank" title="Open in a new window">
+           <a href="https://www.infiniteengineering.com.au/contact-us/" target="_blank" title="Open in a new window">
             Kebijakan privasi
            </a>
            .
@@ -8197,7 +8197,7 @@
            Akses menu Tukar Tambah di aplikasi Samsung Gift Indonesia atau unduh aplikasi SS.com Trade In untuk memeriksakan ponsel pintar Anda. Setelah ponsel Anda lolos uji, IMEI perangkat lama Anda akan tercatat dalam basis data kami, sehingga Anda dapat menikmati diskon tukar tambah khusus.
           </p>
           <p class="trade-in-popup__imei-desc">
-           <a href="https://www.infiniteengineering.com.au/contact/" target="_blank" title="Buka di Tab Baru">
+           <a href="https://www.infiniteengineering.com.au/contact-us/" target="_blank" title="Buka di Tab Baru">
             SAMSUNG TRADE IN
            </a>
           </p>
@@ -8310,12 +8310,12 @@
            1. Download App SS.com
           </p>
           <div class="trade-in-popup__procedure-link-wrap">
-           <a class="trade-in-popup__procedure-link" href="https://www.infiniteengineering.com.au/contact/">
+           <a class="trade-in-popup__procedure-link" href="https://www.infiniteengineering.com.au/contact-us/">
             <div class="image">
              <img alt="google play link" class="image__main lazy-load" data-comp-name="image" data-src="/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/icon-trade-in-down-google.png" role="img"/>
             </div>
            </a>
-           <a class="trade-in-popup__procedure-link" href="https://www.infiniteengineering.com.au/contact/">
+           <a class="trade-in-popup__procedure-link" href="https://www.infiniteengineering.com.au/contact-us/">
             <div class="image">
              <img alt="app store link" class="image__main lazy-load" data-comp-name="image" data-src="/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/icon-trade-in-down-apple.png" role="img"/>
             </div>
@@ -8326,12 +8326,12 @@
            <br/>
            Gunakan App
            <br/>
-           <a aria-label="Open in a new window" href="https://www.infiniteengineering.com.au/contact/" target="_blank" title="Buka di Tab Baru">
+           <a aria-label="Open in a new window" href="https://www.infiniteengineering.com.au/contact-us/" target="_blank" title="Buka di Tab Baru">
             Samsung Gift Indonesia
            </a>
           </p>
           <div class="trade-in-popup__procedure-link-wrap">
-           <a class="trade-in-popup__procedure-link" href="https://www.infiniteengineering.com.au/contact/" target="_blank" title="Buka di Tab Baru">
+           <a class="trade-in-popup__procedure-link" href="https://www.infiniteengineering.com.au/contact-us/" target="_blank" title="Buka di Tab Baru">
             <div class="image">
              <img alt="samsung gift link" class="image__main lazy-load" data-comp-name="image" data-src="/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/icon-trade-in-down-gift.png" role="img"/>
             </div>
@@ -8785,7 +8785,7 @@
       </div>
       <div class="fold-alert-popup__cta">
        <!--/* P6의 cta 적용 방식에 따라 마크업 변경 */ -->
-       <a class="cta cta--outlined cta--black" href="https://www.infiniteengineering.com.au/contact/" title="Tutup">
+       <a class="cta cta--outlined cta--black" href="https://www.infiniteengineering.com.au/contact-us/" title="Tutup">
         Tutup
        </a>
       </div>
@@ -8968,7 +8968,7 @@
           </li>
          </ul>
          <div class="sc-learn-more-popup__cta">
-          <a aria-label="Link Title" class="cta cta--underline cta--black cta--icon" href="https://www.infiniteengineering.com.au/contact/" target="_blank">
+          <a aria-label="Link Title" class="cta cta--underline cta--black cta--icon" href="https://www.infiniteengineering.com.au/contact-us/" target="_blank">
            See all benefits
            <svg aria-hidden="true" class="icon" focusable="false">
             <use href="#outlink-bold" xlink:href="#outlink-bold">
@@ -9066,7 +9066,7 @@
       <div class="layer-popup__contents">
        Ich habe die Allgemeinen Versicherungsbedingungen heruntergeladen, gelesen und erkl&auml;re mich mit diesen einverstanden.
        <div class="hubble-care-popup__alert-button">
-        <a class="cta cta--contained cta--emphasis" href="https://www.infiniteengineering.com.au/contact/" title="Best&auml;tigen">
+        <a class="cta cta--contained cta--emphasis" href="https://www.infiniteengineering.com.au/contact-us/" title="Best&auml;tigen">
          Best&auml;tigen
         </a>
        </div>
@@ -9089,7 +9089,7 @@
       <div class="layer-popup__contents">
        Ich habe das Informationsblatt zur Versicherung heruntergeladen und sorgf&auml;ltig durchgelesen.
        <div class="hubble-care-popup__alert-button">
-        <a class="cta cta--contained cta--emphasis" href="https://www.infiniteengineering.com.au/contact/" title="Best&auml;tigen">
+        <a class="cta cta--contained cta--emphasis" href="https://www.infiniteengineering.com.au/contact-us/" title="Best&auml;tigen">
          Best&auml;tigen
         </a>
        </div>
@@ -9167,11 +9167,11 @@
       </div>
       <div class="wishlist-popup__cta-wrap">
        <div class="wishlist-popup__cta">
-        <a aria-label="Link Title" class="cta cta--outlined cta--black" href="https://www.infiniteengineering.com.au/contact/" role="button">
+        <a aria-label="Link Title" class="cta cta--outlined cta--black" href="https://www.infiniteengineering.com.au/contact-us/" role="button">
         </a>
        </div>
        <div class="wishlist-popup__cta">
-        <a class="cta cta--contained cta--emphasis" href="https://www.infiniteengineering.com.au/contact/" role="button">
+        <a class="cta cta--contained cta--emphasis" href="https://www.infiniteengineering.com.au/contact-us/" role="button">
         </a>
        </div>
       </div>
@@ -9237,12 +9237,12 @@
         </div>
         <div class="extended-warranty-popup__button-inner">
          <div class="extended-warranty-popup__button-item">
-          <a an-ac="pd buying tool" an-ca="option click" an-la="samsung warranty:close" an-tr="header(pim)_service option selector-product detail-popup-button" class="cta cta--outlined cta--black" href="https://www.infiniteengineering.com.au/contact/" role="button">
+          <a an-ac="pd buying tool" an-ca="option click" an-la="samsung warranty:close" an-tr="header(pim)_service option selector-product detail-popup-button" class="cta cta--outlined cta--black" href="https://www.infiniteengineering.com.au/contact-us/" role="button">
            Tutup
           </a>
          </div>
          <div class="extended-warranty-popup__button-item">
-          <a an-ac="pd buying tool" an-ca="option click" an-la="samsung warranty:confirm" an-tr="header(pim)_service option selector-product detail-popup-button" class="cta cta--contained cta--emphasis cta--disabled" href="https://www.infiniteengineering.com.au/contact/" role="button">
+          <a an-ac="pd buying tool" an-ca="option click" an-la="samsung warranty:confirm" an-tr="header(pim)_service option selector-product detail-popup-button" class="cta cta--contained cta--emphasis cta--disabled" href="https://www.infiniteengineering.com.au/contact-us/" role="button">
            Yakin
           </a>
          </div>
@@ -9267,7 +9267,7 @@
       <div class="layer-popup__contents">
        Ich habe die Allgemeinen Versicherungsbedingungen heruntergeladen, gelesen und erkl&auml;re mich mit diesen einverstanden.
        <div class="extended-warranty-popup__alert-button">
-        <a class="cta cta--contained cta--emphasis" href="https://www.infiniteengineering.com.au/contact/">
+        <a class="cta cta--contained cta--emphasis" href="https://www.infiniteengineering.com.au/contact-us/">
          Best&auml;tigen
         </a>
        </div>
@@ -9290,7 +9290,7 @@
       <div class="layer-popup__contents">
        Ich habe das Informationsblatt zur Versicherung heruntergeladen und sorgf&auml;ltig durchgelesen.
        <div class="extended-warranty-popup__alert-button">
-        <a class="cta cta--contained cta--emphasis" href="https://www.infiniteengineering.com.au/contact/" title="">
+        <a class="cta cta--contained cta--emphasis" href="https://www.infiniteengineering.com.au/contact-us/" title="">
          Best&auml;tigen
         </a>
        </div>
@@ -9341,12 +9341,12 @@
        <div class="extended-warranty-popup-vd__button">
         <div class="extended-warranty-popup-vd__button-inner">
          <div class="extended-warranty-popup-vd__button-item">
-          <a class="cta cta--outlined cta--black" href="https://www.infiniteengineering.com.au/contact/" role="button">
+          <a class="cta cta--outlined cta--black" href="https://www.infiniteengineering.com.au/contact-us/" role="button">
            Tutup
           </a>
          </div>
          <div class="extended-warranty-popup-vd__button-item">
-          <a class="cta cta--contained cta--emphasis cta--disabled" href="https://www.infiniteengineering.com.au/contact/" role="button">
+          <a class="cta cta--contained cta--emphasis cta--disabled" href="https://www.infiniteengineering.com.au/contact-us/" role="button">
            Yakin
           </a>
          </div>
@@ -10699,7 +10699,7 @@
    <script src="https://www.samsung.com/etc.clientlibs/samsung/components/content/consumer/global/product-popup/pd-g-wishlist-popup/clientlibs/site.min.648f96f9e6904235937a56177a4f9cb4.js"></script>
    <script src="https://www.samsung.com/etc.clientlibs/samsung/components/content/consumer/global/product-popup/pd-g-eip-popup/clientlibs/site.min.dd4327a6471278074a327fbfe515c7a8.js"></script>
    <script data-id="e775dc49-187c-4bdf-8f92-83bca5908c6f" data-object-type="WebPage" data-type="seo" type="application/ld+json">
-    {"@context":"https://schema.org","@type":"WebPage","name":"SLOT DANA: Kumpulan Berita Slot Gacor & Rekomendasi Game Hari Ini","@id":"http://www.samsung.com/id/smartphones/galaxy-a/galaxy-a07-black-64gb-sm-a075fzkdxid/buy/#webpage","description":"Temukan panduan Slot gacor hari ini di SLOT DANA. Pahami RTP, volatilitas, mekanisme permainan, dan karakter game untuk membandingkan pilihan.","url":"https://www.infiniteengineering.com.au/contact/"}
+    {"@context":"https://schema.org","@type":"WebPage","name":"SLOT DANA: Kumpulan Berita Slot Gacor & Rekomendasi Game Hari Ini","@id":"http://www.samsung.com/id/smartphones/galaxy-a/galaxy-a07-black-64gb-sm-a075fzkdxid/buy/#webpage","description":"Temukan panduan Slot gacor hari ini di SLOT DANA. Pahami RTP, volatilitas, mekanisme permainan, dan karakter game untuk membandingkan pilihan.","url":"https://www.infiniteengineering.com.au/contact-us/"}
    </script>
     <script type="application/ld+json">
 {
